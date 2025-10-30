@@ -1751,5 +1751,5 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=AIzaSyA2KlwBX3mkFo30om9LUFYQhpqLoa_BNhEE
+#KODIPROP:inputstream.adaptive.license_key=AIzaSyA2KlwBX3mkFo30om9LUFYQhpqLoa_BNhE
 https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
