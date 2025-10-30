@@ -1754,12 +1754,12 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 #KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
 https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
 
-#EXTINF:-1 tvg-id="TEST" tvg-name="Nbc" tvg-logo="https://d8iqbmvu05s9c.cloudfront.net/aiqpo1f3jbzpd0silc6b0qqot9ao" group-title="Mix",TEST
+*#EXTINF:-1 tvg-id="TEST" tvg-name="Nbc" tvg-logo="https://d8iqbmvu05s9c.cloudfront.net/aiqpo1f3jbzpd0silc6b0qqot9ao" group-title="Mix",TEST
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a8567dacf025d8f418352859bd229e1008dd9e69a5c84c1013e639fa39e4402d
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd*
 
 #EXTINF:-1 tvg-id="Nbc Sports" tvg-name="Nbc Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGfZJRxPr3EiKWMoVS4o9KiNOpUimxnBErlA&s" group-title="Mix",Nbc Sports
 #KODIPROP:inputstreamaddon=inputstream.adaptive
