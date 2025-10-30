@@ -1759,7 +1759,7 @@ https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/in
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=30b0ca44f1f0faaf5ba749514cafa730
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
 
 #EXTINF:-1 tvg-id="Nbc Sports" tvg-name="Nbc Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGfZJRxPr3EiKWMoVS4o9KiNOpUimxnBErlA&s" group-title="Mix",Nbc Sports
 #KODIPROP:inputstreamaddon=inputstream.adaptive
