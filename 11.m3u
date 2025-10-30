@@ -1760,3 +1760,10 @@ https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/in
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=30b0ca44f1f0faaf5ba749514cafa730
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
+
+#EXTINF:-1 tvg-id="Nbc Sports" tvg-name="Nbc Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGfZJRxPr3EiKWMoVS4o9KiNOpUimxnBErlA&s" group-title="Mix",Nbc Sports
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
