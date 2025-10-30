@@ -1767,3 +1767,6 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/m
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
+
+#EXTINF:-1 tvg-id="ESPN 1" tvg-name="ESPN 1" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mjPkMeFcQxySKuGOn-eSPaOaTK55KKtjF7LTkkwidfCP1D=s900-c-k-c0x00ffffff-no-rj" group-title="Mix",ESPN 1
+http://primestreams.tv:826/Albertmcgowen/nah0SLcMzq/119665
