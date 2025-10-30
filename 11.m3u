@@ -1656,28 +1656,28 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/
 #KODIPROP:inputstream.adaptive.license_key=67905848180231a8a51a6539670d6e8d:50cec07ba1ff5395e451ed2950d39fb2
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/szmus1u1h0/out/v1/6d3245aa41e0455489ec87d3a144abea/cenc.mpd
 
-#EXTINF:-1 tvg-id="onesportshd" tvg-name="One Sports" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="Mix",One Sports
+#EXTINF:-1 tvg-id="onesportshd" tvg-name="One Sports" tvg-logo="https://yt3.googleusercontent.com/d-2Zn_yyww0OAy-xSfvIoWoJueTpH7lfL4G9uz6BL5SybJIcDLBuiBSBWKDzqGTbSfhtGKTAPw=s900-c-k-c0x00ffffff-no-rj" group-title="Mix",One Sports
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
 https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cg_onesports_hd.mpd
 
-#EXTINF:-1 tvg-id="onesportsplus" tvg-name="One Sports+" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="Mix",One Sports+
+#EXTINF:-1 tvg-id="onesportsplus" tvg-name="One Sports+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0obp3bkFUyyBXE-urpHQ3JqvlHSTfICI5Ig&s" group-title="Mix",One Sports+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
 https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
 
-#EXTINF:-1 tvg-id="uaapvarsity" tvg-name="Uaap Varsity" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="Mix",Uaap Varsity
+#EXTINF:-1 tvg-id="uaapvarsity" tvg-name="Uaap Varsity" tvg-logo="https://varsitarian.net/sports/wp-content/uploads/2021/12/winning-logo-uaap.jpg" group-title="Mix",Uaap Varsity
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=95588338ee37423e99358a6d431324b9:6e0f50a12f36599a55073868f814e81e
 https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
 
-#EXTINF:-1 tvg-id="premiersports-2" tvg-name="Premier Sports 2" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="Mix",Premier Sports 2
+#EXTINF:-1 tvg-id="premiersports-2" tvg-name="Premier Sports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0z19dwG5vTj0VGz6fS5_U5IdeEU-RiTZOFQ&s" group-title="Mix",Premier Sports 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
