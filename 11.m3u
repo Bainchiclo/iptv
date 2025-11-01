@@ -1770,3 +1770,47 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/m
 
 #EXTINF:-1 tvg-id="ESPN 1" tvg-name="ESPN 1" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mjPkMeFcQxySKuGOn-eSPaOaTK55KKtjF7LTkkwidfCP1D=s900-c-k-c0x00ffffff-no-rj" group-title="Mix",ESPN 1
 http://primestreams.tv:826/Albertmcgowen/nah0SLcMzq/119665
+
+**********NBA**********
+
+#EXTINF:-1 group-logo="https://images.seeklogo.com/logo-png/24/1/nba-logo-png_seeklogo-247736.png"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x1ZG71v.png" group-title="NBA", NBA TV Philippines
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
+
+#EXTINF:-1 tvg-id="The NBA Channel" tvg-name="The NBA Channel" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="NBA",The NBA Channel
+https://jmp2.uk/plu-6792c30abc03978b9b8bb832.m3u8
+
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="NBA",NBA 1
+http://s.rocketdns.info:8080/xmltv/02a162774b/214171
+
+#EXTINF:-1 tvg-id="NBA 2" tvg-name="NBA 2" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="NBA",NBA 2
+http://s.rocketdns.info:8080/xmltv/02a162774b/214172
+
+#EXTINF:-1 tvg-id="NBA 3" tvg-name="NBA 3" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="NBA",NBA 3
+http://s.rocketdns.info:8080/xmltv/02a162774b/214173
+
+#EXTINF:-1 tvg-id="NBA 4" tvg-name="NBA 4" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="NBA",NBA 4
+http://s.rocketdns.info:8080/xmltv/02a162774b/214174
+
+#EXTINF:-1 tvg-id="NBA 5" tvg-name="NBA 5" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="NBA",NBA 5
+http://s.rocketdns.info:8080/xmltv/02a162774b/214175
+
+#EXTINF:-1 tvg-id="NBA 6" tvg-name="NBA 6" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="NBA",NBA 6
+http://s.rocketdns.info:8080/xmltv/02a162774b/214176
+
+#EXTINF:-1 tvg-id="NBA 7" tvg-name="NBA 7" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="NBA",NBA 7
+http://s.rocketdns.info:8080/xmltv/02a162774b/214177
+
+#EXTINF:-1 tvg-id="NBA 8" tvg-name="NBA 8" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="NBA",NBA 8
+http://s.rocketdns.info:8080/xmltv/02a162774b/214178
+
+#EXTINF:-1 tvg-id="NBA 9" tvg-name="NBA 9" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="NBA",NBA 9
+http://s.rocketdns.info:8080/xmltv/02a162774b/214179
+
+#EXTINF:-1 tvg-id="NBA 10" tvg-name="NBA 10" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="NBA",NBA 10
+http://s.rocketdns.info:8080/xmltv/02a162774b/214180
