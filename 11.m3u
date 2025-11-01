@@ -1054,6 +1054,13 @@ http://161.49.17.2:6610/001/2/ch00000090990000001315/manifest.mpd?JITPDRMType=Wi
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001317/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/F2npB7o.png" group-title="Converge", PBA RUSH
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82
+https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
+
 **********Mix**********
 
 #EXTINF:-1 group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg"
