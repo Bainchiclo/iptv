@@ -1753,6 +1753,13 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/m
 #EXTINF:-1 tvg-id="ESPN 1" tvg-name="ESPN 1" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mjPkMeFcQxySKuGOn-eSPaOaTK55KKtjF7LTkkwidfCP1D=s900-c-k-c0x00ffffff-no-rj" group-title="Mix",ESPN 1
 http://primestreams.tv:826/Albertmcgowen/nah0SLcMzq/119665
 
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Discovery_Science_2017_Logo.svg" group-title="Mix",NDiscovery Science
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5458f45efedb4d6f8aa6ac76c85b621b:dbf8a0a306a64525ba3012fd225370c0
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd
+
 **********NBA**********
 
 #EXTINF:-1 group-logo="https://images.seeklogo.com/logo-png/24/1/nba-logo-png_seeklogo-247736.png"
