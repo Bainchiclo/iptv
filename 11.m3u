@@ -1592,13 +1592,6 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAk1K40kF2181wmqrZ6sUZxES14b9mIDiuFw&s" group-title="Mix",Sarisari
 http://fortv.cc:8080/aWbYH5/095767/101824
 
-#EXTINF:-1 tvg-id="pbarush" tvg-name="PBA RUSH HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ3gPl6esIxR7SVoYdHojWN_B1rvppOJU24A&s" group-title="Mix",PBA RUSH HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82
-https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNd6a95KTv-UPwE1EizSWy4SS1gti9kjQhPg&s" group-title="Mix",PBB Live
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-pbb-live-dash-abscbnono/index.mpd
 
