@@ -1374,5 +1374,30 @@ https://live.corusdigitaldev.com/groupd/live/376c96cd-193f-46d1-a2b6-7c2b78cb0aa
 #KODIPROP:inputstream.adaptive.license_key=2c7ece0bc4b1cdbe78497cb85e4c268e:e7f77a1b82fb8ea8c06e2aa886c521ca
 https://live.corusdigitaldev.com/groupd/live/8cace0db-7887-4cb3-988d-58594cda4697/corus-wnetwork.isml/.mpd
 
+#EXTINF:-1 tvg-id="W.Network.Canada.East.(WTN).ca" tvg-logo="wnetwork.png" group-title="Canada",TEST 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8315b1996d92477b965cb29100a3dc07:0081c0674e9047e219caa27a07da9d4b
+https://tr.live.cdn.cgates.lt/live/dash/560505/index.mpd
+
+#EXTINF:-1 tvg-id="W.Network.Canada.East.(WTN).ca" tvg-logo="wnetwork.png" group-title="Canada",TEST 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5ebcf53fd1794237aa02af52413e0c2a:bd2f5d20887507da6f26401b1d95aeee
+https://stream.video.9c9media.com/59c2df870a1e8c5b14c4f5ed7e951e1cef9474581754944303887/fe/f/crave/starz1/manifest.mpd?u=li
+
+#EXTINF:-1 tvg-id="W.Network.Canada.East.(WTN).ca" tvg-logo="wnetwork.png" group-title="Canada",TEST 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5389bf9aa04e467aac818fac7138f8f4:ebb8e28d9081a462015de790e76759f0
+https://stream.video.9c9media.com/65a655714b62d8c989ad80dc30e3035b0bfb65b41754945004845/fe/f/crave/starz2/manifest.mpd?u=li
+
+#EXTINF:-1 tvg-id="W.Network.Canada.East.(WTN).ca" tvg-logo="wnetwork.png" group-title="Canada",TEST 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11153aff5496be1a206a178ab3c1c078:806eb5923c951bd205257282de834740
+https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1757154790_f~0_g~1_s~f63ab4ed-ac3a-4a66-879c-7694d89dfdbb_u~a122a594022d97f91d31a096bc9f0a7e0b3c8f48ace5ddbb0a3f02803929c9e0_k~A_l~60_x~ff7caf78b38f74e86453019477e49ec9/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportmotogp)/master_2hr-aac.mpd?t=v1&c3.ri=1b412affdc80206d_5c74d6c7b6-p57bc_CVX06
+
+#EXTINF:-1 tvg-id="W.Network.Canada.East.(WTN).ca" tvg-logo="wnetwork.png" group-title="Canada",TEST 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5389bf9aa04e467aac818fac7138f8f4:ebb8e28d9081a462015de790e76759f0
+https://stream.video.9c9media.com/65a655714b62d8c989ad80dc30e3035b0bfb65b41754945004845/fe/f/crave/starz2/manifest.mpd?u=li
+
 
 
