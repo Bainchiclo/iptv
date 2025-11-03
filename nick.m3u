@@ -671,10 +671,10 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001064/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 group-title="PH Cable TV" tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/dreamlogos/images/f/f6/KNBS_95.png/revision/latest/zoom-crop/width/480/height/480?cb=20191126221915" , NBC4
+******#EXTINF:-1 group-title="PH Cable TV" tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/dreamlogos/images/f/f6/KNBS_95.png/revision/latest/zoom-crop/width/480/height/480?cb=20191126221915" , NBC4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd******
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pPPubX5.png" group-title="PH Cable TV", NET 25
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
