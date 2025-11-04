@@ -23,5 +23,19 @@ https://live-crave.video.9c9media.com/137c6e2e72e1bf67b82614c7c9b216d6f3a8c82817
 #KODIPROP:inputstream.adaptive.license_key=4ac6eaaf0e5e4f94987cbb5b243b54e8:8bb3f2f421f6afd025fa46c784944ad6
 https://live-crave.video.9c9media.com/137c6e2e72e1bf67b82614c7c9b216d6f3a8c8281748505659713/fe/f/crave/crave1/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://shop.amc.com/cdn/shop/products/AMCP-LOGO-100011-FR-RO_1445x.png?v=1650990755" group-title="PH Cable TV", AMC+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c32f4fa021db5b4da2ddfe4d4a593e8d:5ed6318d85589d838eca6eb5159b8ef7
+https://a148aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/0f5clvxn6o/out/v1/d5a953bb19734fa3baa1776266887fcb/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://shop.amc.com/cdn/shop/products/AMCP-LOGO-100011-FR-RO_1445x.png?v=1650990755" group-title="PH Cable TV", TSN 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=439d4310d07e56ffab758ae8e1ae5e55:255775d9f84464680eac5af62ccbf97b
+https://otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd
+
 
 
