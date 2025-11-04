@@ -37,5 +37,12 @@ https://a148aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/0f5clvxn6o/out
 #KODIPROP:inputstream.adaptive.license_key=439d4310d07e56ffab758ae8e1ae5e55:255775d9f84464680eac5af62ccbf97b
 https://otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://shop.amc.com/cdn/shop/products/AMCP-LOGO-100011-FR-RO_1445x.png?v=1650990755" group-title="PH Cable TV", HBO Boxing
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8a7d214a6675073b9d9521ab2a6eb61:92a39b66da7a516a2c4451f80422fb28
+https://abbftj3aaaaaaaame5ktsp32q2ykl.ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/out/v1/813bba04214e4f4dab57f0129365635a/cenc.mpd
+
 
 
