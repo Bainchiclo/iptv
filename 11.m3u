@@ -6,10 +6,10 @@
 
 #EXTINF:-1 group-logo="https://cdn.vectorstock.com/i/1000v/25/32/tv-or-television-channel-logo-design-template-vector-30742532.jpg"
 
-#EXTINF:-1 tvg-id="" group-title="PH Cable TV" tvg-logo="https://3abn.org/img/logos/3abn-logo-md.jpg",3ABN
+****#EXTINF:-1 tvg-id="" group-title="PH Cable TV" tvg-logo="https://3abn.org/img/logos/3abn-logo-md.jpg",3ABN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://161.49.17.2:6610/001/2/ch00000090990000001183/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+http://161.49.17.2:6610/001/2/ch00000090990000001183/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com****
 
 #EXTINF:-1 tvg-id="4K Travel" tvg-name="4K Travel" tvg-logo="https://stmify.com/wp-content/uploads/2024/11/354-s.webp" group-title="PH Cable TV",4K Travel
 https://streams2.sofast.tv/ptnr-stirr/genre-Travel/lang-English/ctgr-Travel/title-4K-TRAVEL-TV-ENG/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
@@ -21,10 +21,10 @@ https://streams2.sofast.tv/ptnr-stirr/genre-Travel/lang-English/ctgr-Travel/titl
 #KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_a2z/default/index.mpd
 
-#EXTINF:-1 tvg-id="" group-title="PH Cable TV" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f7/Abante_TeleTabloid_Logo_2024.png/revision/latest/scale-to-width-down/1200?cb=20241201000205",Abante TeleTabloid
+****#EXTINF:-1 tvg-id="" group-title="PH Cable TV" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f7/Abante_TeleTabloid_Logo_2024.png/revision/latest/scale-to-width-down/1200?cb=20241201000205",Abante TeleTabloid
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://161.49.17.2:6610/001/2/ch00000090990000001317/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+http://161.49.17.2:6610/001/2/ch00000090990000001317/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com****
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kVVax44.png" group-title="PH Cable TV", ABC Australia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
