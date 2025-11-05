@@ -805,7 +805,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_pbarush_hd1/default/ind
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNd6a95KTv-UPwE1EizSWy4SS1gti9kjQhPg&s" group-title="PH Cable TV",PBB Live
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-pbb-live-dash-abscbnono/index.mpd
 
-#EXTINF:-1 tvg-logo="https://mb.com.ph/uploads/imported_images/pbb_d205f7c518.jpg" group-title="PH Cable TV", PBB Live
+#EXTINF:-1 tvg-logo="https://mb.com.ph/uploads/imported_images/pbb_d205f7c518.jpg" group-title="PH Cable TV", PBB Live Dining Area
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
