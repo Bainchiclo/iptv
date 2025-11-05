@@ -802,7 +802,14 @@ http://161.49.17.2:6610/001/2/ch00000090990000001175/manifest.mpd?JITPDRMType=Wi
 #KODIPROP:inputstream.adaptive.license_key=76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_pbarush_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNd6a95KTv-UPwE1EizSWy4SS1gti9kjQhPg&s" group-title="PH Cable TV",PBB Live
+***#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNd6a95KTv-UPwE1EizSWy4SS1gti9kjQhPg&s" group-title="PH Cable TV",PBB Live
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-pbb-live-dash-abscbnono/index.mpd***
+
+#EXTINF:-1 tvg-logo="https://mb.com.ph/uploads/imported_images/pbb_d205f7c518.jpg" group-title="PH Cable TV", PBB Live
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-pbb-live-dash-abscbnono/index.mpd
 
 #EXTINF:-1 tvg-logo="https://mb.com.ph/uploads/imported_images/pbb_d205f7c518.jpg" group-title="PH Cable TV", PBB Live Dining Area
