@@ -467,6 +467,11 @@ http://vocotv.live:80/user9970/2011197/705839
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001093/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com****
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="PH Cable TV", GMA 7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+https://vod.nathcreqtives.com/1093/manifest.mpd
+
 ****#EXTINF:-1 tvg-logo="https://i.imgur.com/m6EFnqh.png" group-title="PH Cable TV", GNN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
