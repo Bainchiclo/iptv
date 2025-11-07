@@ -978,6 +978,13 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.m
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
 
+#EXTINF:-1 tvg-id="" group-title="PH Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png",Studio Universal
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=77b7711693a9f32c0bd81ef8782f716b:0802df5ea0615ca2638b3b38f9ab3926
+https://zap-live1-ott.izzigo.tv/1/out/u/dash/STUDIO-UNIVERSAL-HD/default.mpd
+
 ****#EXTINF:-1 tvg-id="Spot" group-title="PH Cable TV" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/3/32/Spotlight.png",Spotlight TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
