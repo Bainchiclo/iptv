@@ -720,6 +720,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd****
 #KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
 https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd****
 
+#EXTINF:-1 group-title="PH Cable TV" tvg-id="" tvg-logo="https://i.imgur.com/YMAqnUN.png",MTV 
+https://fl1.moveonjoy.com/MTV/index.m3u8
+
 #EXTINF:-1 group-title="PH Cable TV" tvg-id="" tvg-logo="https://i.imgur.com/CIPTNnT.png" ,MYX Global
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f40a52a3ac9b4702bdd5b735d910fd2f:5ce1bc7f06b494c276252b4d13c90e51
@@ -1432,6 +1435,18 @@ https://amg01935-amg01935c1-amgplt0352.playout.now3.amagi.tv/playlist/amg01935-a
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/TNT_%28TV_Channel%29.svg" group-title="Sports TV", TNT
 https://fl61.moveonjoy.com/TNT/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/TNT_%28TV_Channel%29.svg" group-title="Sports TV", TNT Sports 1
+http://kstv.us:8080/DBeverly/2290061890/47850
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/TNT_%28TV_Channel%29.svg" group-title="Sports TV", TNT Sports 2
+http://kstv.us:8080/DBeverly/2290061890/47851
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/TNT_%28TV_Channel%29.svg" group-title="Sports TV", TNT Sports 3
+http://kstv.us:8080/DBeverly/2290061890/47852
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/TNT_%28TV_Channel%29.svg" group-title="Sports TV", TNT Sports 4
+http://kstv.us:8080/DBeverly/2290061890/47853
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTambpCyb7xmeYAx0bC99l3b1KW1yikGT4v-Q&s" group-title="Sports TV", TSN 5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1508,6 +1523,36 @@ http://s.rocketdns.info:8080/xmltv/02a162774b/214179
 
 #EXTINF:-1 tvg-id="NBA 10" tvg-name="NBA 10" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA 10
 http://s.rocketdns.info:8080/xmltv/02a162774b/214180
+
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Live 1
+http://kstv.us:8080/DBeverly/2290061890/47477
+
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Live 2
+http://kstv.us:8080/DBeverly/2290061890/47478
+
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Live 3
+http://kstv.us:8080/DBeverly/2290061890/47479
+
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Live 4
+http://kstv.us:8080/DBeverly/2290061890/47480
+
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Live 5
+http://kstv.us:8080/DBeverly/2290061890/47481
+
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Live 6
+http://kstv.us:8080/DBeverly/2290061890/47583
+
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Live 7
+http://kstv.us:8080/DBeverly/2290061890/47584
+
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Live 8
+http://kstv.us:8080/DBeverly/2290061890/47585
+
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Live 9
+http://kstv.us:8080/DBeverly/2290061890/47586
+
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Live 10
+http://kstv.us:8080/DBeverly/2290061890/47587
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s" channel-number="1" group-title="Sports TV", Pilipinas Live 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
