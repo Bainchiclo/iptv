@@ -1540,19 +1540,94 @@ http://kstv.us:8080/DBeverly/2290061890/47480
 http://kstv.us:8080/DBeverly/2290061890/47481
 
 #EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Live 6
-http://kstv.us:8080/DBeverly/2290061890/47583
+http://kstv.us:8080/DBeverly/2290061890/47482
 
 #EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Live 7
-http://kstv.us:8080/DBeverly/2290061890/47584
+http://kstv.us:8080/DBeverly/2290061890/47483
 
 #EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Live 8
-http://kstv.us:8080/DBeverly/2290061890/47585
+http://kstv.us:8080/DBeverly/2290061890/47484
 
 #EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Live 9
-http://kstv.us:8080/DBeverly/2290061890/47586
+http://kstv.us:8080/DBeverly/2290061890/47485
 
 #EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Live 10
+http://kstv.us:8080/DBeverly/2290061890/474816
+
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Pass 1
+http://kstv.us:8080/DBeverly/2290061890/47583
+
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Pass 2
+http://kstv.us:8080/DBeverly/2290061890/47584
+
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Pass 3
+http://kstv.us:8080/DBeverly/2290061890/47585
+
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Pass 4
+http://kstv.us:8080/DBeverly/2290061890/47586
+
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Pass 5
 http://kstv.us:8080/DBeverly/2290061890/47587
+
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Pass 6
+http://kstv.us:8080/DBeverly/2290061890/47588
+
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Pass 7
+http://kstv.us:8080/DBeverly/2290061890/47589
+
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Pass 8
+http://kstv.us:8080/DBeverly/2290061890/47590
+
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Pass 9
+http://kstv.us:8080/DBeverly/2290061890/47591
+
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Pass 10
+http://kstv.us:8080/DBeverly/2290061890/47592
+
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/009/023/972/non_2x/ppv-logo-ppv-letter-ppv-letter-logo-design-initials-ppv-logo-linked-with-circle-and-uppercase-monogram-logo-ppv-typography-for-technology-business-and-real-estate-brand-vector.jpg" group-title="Sports TV", PPV 1
+http://kstv.us:8080/DBeverly/2290061890/47695
+
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/009/023/972/non_2x/ppv-logo-ppv-letter-ppv-letter-logo-design-initials-ppv-logo-linked-with-circle-and-uppercase-monogram-logo-ppv-typography-for-technology-business-and-real-estate-brand-vector.jpg" group-title="Sports TV", PPV 2
+http://kstv.us:8080/DBeverly/2290061890/47696
+
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/009/023/972/non_2x/ppv-logo-ppv-letter-ppv-letter-logo-design-initials-ppv-logo-linked-with-circle-and-uppercase-monogram-logo-ppv-typography-for-technology-business-and-real-estate-brand-vector.jpg" group-title="Sports TV", PPV 3
+http://kstv.us:8080/DBeverly/2290061890/47697
+
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/009/023/972/non_2x/ppv-logo-ppv-letter-ppv-letter-logo-design-initials-ppv-logo-linked-with-circle-and-uppercase-monogram-logo-ppv-typography-for-technology-business-and-real-estate-brand-vector.jpg" group-title="Sports TV", PPV 4
+http://kstv.us:8080/DBeverly/2290061890/47698
+
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/009/023/972/non_2x/ppv-logo-ppv-letter-ppv-letter-logo-design-initials-ppv-logo-linked-with-circle-and-uppercase-monogram-logo-ppv-typography-for-technology-business-and-real-estate-brand-vector.jpg" group-title="Sports TV", PPV 5
+http://kstv.us:8080/DBeverly/2290061890/47699
+
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/009/023/972/non_2x/ppv-logo-ppv-letter-ppv-letter-logo-design-initials-ppv-logo-linked-with-circle-and-uppercase-monogram-logo-ppv-typography-for-technology-business-and-real-estate-brand-vector.jpg" group-title="Sports TV", PPV 6
+http://kstv.us:8080/DBeverly/2290061890/47700
+
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/009/023/972/non_2x/ppv-logo-ppv-letter-ppv-letter-logo-design-initials-ppv-logo-linked-with-circle-and-uppercase-monogram-logo-ppv-typography-for-technology-business-and-real-estate-brand-vector.jpg" group-title="Sports TV", PPV 7
+http://kstv.us:8080/DBeverly/2290061890/47701
+
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/009/023/972/non_2x/ppv-logo-ppv-letter-ppv-letter-logo-design-initials-ppv-logo-linked-with-circle-and-uppercase-monogram-logo-ppv-typography-for-technology-business-and-real-estate-brand-vector.jpg" group-title="Sports TV", PPV 8
+http://kstv.us:8080/DBeverly/2290061890/47702
+
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/009/023/972/non_2x/ppv-logo-ppv-letter-ppv-letter-logo-design-initials-ppv-logo-linked-with-circle-and-uppercase-monogram-logo-ppv-typography-for-technology-business-and-real-estate-brand-vector.jpg" group-title="Sports TV", PPV 8
+http://kstv.us:8080/DBeverly/2290061890/47703
+
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/009/023/972/non_2x/ppv-logo-ppv-letter-ppv-letter-logo-design-initials-ppv-logo-linked-with-circle-and-uppercase-monogram-logo-ppv-typography-for-technology-business-and-real-estate-brand-vector.jpg" group-title="Sports TV", PPV 10
+http://kstv.us:8080/DBeverly/2290061890/47704
+
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/009/023/972/non_2x/ppv-logo-ppv-letter-ppv-letter-logo-design-initials-ppv-logo-linked-with-circle-and-uppercase-monogram-logo-ppv-typography-for-technology-business-and-real-estate-brand-vector.jpg" group-title="Sports TV", PPV 11
+http://kstv.us:8080/DBeverly/2290061890/47705
+
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/009/023/972/non_2x/ppv-logo-ppv-letter-ppv-letter-logo-design-initials-ppv-logo-linked-with-circle-and-uppercase-monogram-logo-ppv-typography-for-technology-business-and-real-estate-brand-vector.jpg" group-title="Sports TV", PPV 12
+http://kstv.us:8080/DBeverly/2290061890/47706
+
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/009/023/972/non_2x/ppv-logo-ppv-letter-ppv-letter-logo-design-initials-ppv-logo-linked-with-circle-and-uppercase-monogram-logo-ppv-typography-for-technology-business-and-real-estate-brand-vector.jpg" group-title="Sports TV", PPV 13
+http://kstv.us:8080/DBeverly/2290061890/47707
+
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/009/023/972/non_2x/ppv-logo-ppv-letter-ppv-letter-logo-design-initials-ppv-logo-linked-with-circle-and-uppercase-monogram-logo-ppv-typography-for-technology-business-and-real-estate-brand-vector.jpg" group-title="Sports TV", PPV 14
+http://kstv.us:8080/DBeverly/2290061890/47708
+
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/009/023/972/non_2x/ppv-logo-ppv-letter-ppv-letter-logo-design-initials-ppv-logo-linked-with-circle-and-uppercase-monogram-logo-ppv-typography-for-technology-business-and-real-estate-brand-vector.jpg" group-title="Sports TV", PPV 15
+http://kstv.us:8080/DBeverly/2290061890/47709
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s" channel-number="1" group-title="Sports TV", Pilipinas Live 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
