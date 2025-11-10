@@ -1485,12 +1485,12 @@ https://wurlfubo.global.transmit.live/us-west-2-b/manifest/67f42332d3dd98936978f
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports TV"", Womens Network
 https://womensnetwork-lg.amagi.tv/hls/amagi_hls_data_lgAAAAAAA-womensnetwork/CDN/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/AdProductsWebsite/images/CaseStudies/NBA_on_Prime_Logo_700_1.jpg" group-title="Sports TV", NBA on Prime
+*****#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/AdProductsWebsite/images/CaseStudies/NBA_on_Prime_Logo_700_1.jpg" group-title="Sports TV", NBA on Prime
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7228a4ef494f7cfc30ef3652e5073823:8c8176aed0e7c44ed51ce2d840cb6b6b
-http://abalxznaaaaaaaamaylhnncwg6mc6.otte.live.cf.ww.aiv-cdn.net/nrt-nitro/startover/clients/dash/manipulated-manifest-nrt-prod/enc/m3533osmhs/out/v1/84a9c9f8eda14c75a77e4bb288347ab4/bdbac721-dff4-4264-9e3d-355f7f131929-cenc.mpd?encoding=segmentBase
+http://abalxznaaaaaaaamaylhnncwg6mc6.otte.live.cf.ww.aiv-cdn.net/nrt-nitro/startover/clients/dash/manipulated-manifest-nrt-prod/enc/m3533osmhs/out/v1/84a9c9f8eda14c75a77e4bb288347ab4/bdbac721-dff4-4264-9e3d-355f7f131929-cenc.mpd?encoding=segmentBase*****
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x1ZG71v.png" group-title="Sports TV", NBA TV Philippines
 #KODIPROP:inputstreamaddon=inputstream.adaptive
