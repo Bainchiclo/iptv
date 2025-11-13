@@ -1,7 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt", Atlanta Hawks
-#EXTVLCOPT:http-origin=https://dlhd.dad/
-#EXTVLCOPT:http-referrer=https://dlhd.dad
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://zekonew.newkso.ru/zeko/premium51/index.m3u8
+#EXTINF:-1 tvg-id="NBA 9" tvg-name="NBA 9" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV", TEST 1
+https://ballcontrol.click/1111.php
+#EXTINF:-1 tvg-id="NBA 9" tvg-name="NBA 9" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV", TEST 1
+https://ballcontrol.click/2222.php
+#EXTINF:-1 tvg-id="NBA 9" tvg-name="NBA 9" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV", TEST 1
+https://ballcontrol.click/3333.php
+#EXTINF:-1 tvg-id="NBA 9" tvg-name="NBA 9" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV", TEST 1
+https://ballcontrol.click/4444.php
+#EXTINF:-1 tvg-id="NBA 9" tvg-name="NBA 9" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV", TEST 1
+https://ballcontrol.click/5555.php
