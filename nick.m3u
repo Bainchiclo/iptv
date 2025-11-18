@@ -4,27 +4,27 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=3effbd7c04e65d5697499a183e0d4984:74359b7bdf570bbbaae55c8604709b97
+https://bpkcdn.telekom.me/bpk-tv/eurosport_1_uhd/default/index.mpd
 
-#EXTINF:-1 group-title="Sports TV" tvg-id="" tvg-logo="", TEST 2
+#EXTINF:-1 group-title="Sports TV" tvg-id="" tvg-logo="", TEST 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=ab15cff8a5175a188aff0ba5ee1f84f1:e140f031d02aa57aa9e1d0ac3823f583
+https://bpkcdn.telekom.me/bpk-tv/eurosport_1_uhd/default/index.mpd
 
-#EXTINF:-1 group-title="Sports TV" tvg-id="" tvg-logo="", TEST 3
+#EXTINF:-1 group-title="Sports TV" tvg-id="" tvg-logo="", TEST 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=fdcf77a4480f52cdb8e3d4c7bafde5d2:1733ecb2130b9796a9e9f336e3b68028
+https://bpkcdn.telekom.me/bpk-tv/eurosport_1_uhd/default/index.mpd
 
-#EXTINF:-1 group-title="Sports TV" tvg-id="" tvg-logo="", TEST 4
+#EXTINF:-1 group-title="Sports TV" tvg-id="" tvg-logo="", TEST 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=3cda59172686e54f7b11539094cc5d7da:6296bb3a94532c4c0376fed9d393a458
+https://bpkcdn.telekom.me/bpk-tv/eurosport_1_uhd/default/index.mpd
 
