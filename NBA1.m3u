@@ -1,31 +1,31 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="NBA",NBA 1
-http://s.rocketdns.info:8080/xmltv/02a162774b/214171
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Live 01
+http://kstv.us:8080/DBeverly/2290061890/47477
 
-#EXTINF:-1 tvg-id="NBA 2" tvg-name="NBA 2" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="NBA",NBA 2
-http://s.rocketdns.info:8080/xmltv/02a162774b/214172
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Live 02
+http://kstv.us:8080/DBeverly/2290061890/47478
 
-#EXTINF:-1 tvg-id="NBA 3" tvg-name="NBA 3" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="NBA",NBA 3
-http://s.rocketdns.info:8080/xmltv/02a162774b/214173
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Live 03
+http://kstv.us:8080/DBeverly/2290061890/47479
 
-#EXTINF:-1 tvg-id="NBA 4" tvg-name="NBA 4" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="NBA",NBA 4
-http://s.rocketdns.info:8080/xmltv/02a162774b/214174
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Live 04
+http://kstv.us:8080/DBeverly/2290061890/47480
 
-#EXTINF:-1 tvg-id="NBA 5" tvg-name="NBA 5" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="NBA",NBA 5
-http://s.rocketdns.info:8080/xmltv/02a162774b/214175
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Live 05
+http://kstv.us:8080/DBeverly/2290061890/47481
 
-#EXTINF:-1 tvg-id="NBA 6" tvg-name="NBA 6" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="NBA",NBA 6
-http://s.rocketdns.info:8080/xmltv/02a162774b/214176
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Live 06
+http://kstv.us:8080/DBeverly/2290061890/47482
 
-#EXTINF:-1 tvg-id="NBA 7" tvg-name="NBA 7" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="NBA",NBA 7
-http://s.rocketdns.info:8080/xmltv/02a162774b/214177
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Live 07
+http://kstv.us:8080/DBeverly/2290061890/47483
 
-#EXTINF:-1 tvg-id="NBA 8" tvg-name="NBA 8" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="NBA",NBA 8
-http://s.rocketdns.info:8080/xmltv/02a162774b/214178
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Live 08
+http://kstv.us:8080/DBeverly/2290061890/47484
 
-#EXTINF:-1 tvg-id="NBA 9" tvg-name="NBA 9" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="NBA",NBA 9
-http://s.rocketdns.info:8080/xmltv/02a162774b/214179
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Live 09
+http://kstv.us:8080/DBeverly/2290061890/47485
 
-#EXTINF:-1 tvg-id="NBA 10" tvg-name="NBA 10" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="NBA",NBA 10
-http://s.rocketdns.info:8080/xmltv/02a162774b/214180
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Live 10
+http://kstv.us:8080/DBeverly/2290061890/474816
