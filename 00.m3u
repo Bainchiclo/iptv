@@ -1,7 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/TNT_%28TV_Channel%29.svg" group-title="Sports TV", TNT Sports
-https://l.lioncdn.net/TNT-Sports-1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Sports TV", Cinemax
-https://l.lioncdn.net/Cinemax-West/index.m3u8
