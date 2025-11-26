@@ -1200,6 +1200,8 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tapedge/default/index.m
 https://conv.iyadtv.workers.dev/gma7x/stream.mpd
 #EXTINF:-1 tvg-id="" tvg-name="PH GMA Life TV (X)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/GMA_Life_TV_logo.png/1200px-GMA_Life_TV_logo.png" group-title="PH Cable TV"", GMA Life TV
 http://tv14s.xyz:8080/A1Jay5/362586/101825
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/GMAIntegratedNews.svg" group-title="PH Cable TV"", GMA News TV
+http://fo.dnsoso.us/live/9b91a675f1/9b87vm9lcc/500967.m3u8
 #EXTINF:-1 group-title="PH Cable TV" tvg-id="" tvg-logo="https://i.imgur.com/ZOqMJfw.png",GMA Pinoy TV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1625,13 +1627,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - Combat Sports",AEW
 https://abby.pixelcraft.qzz.io/aew.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - Combat Sports",WWE NXT
-https://abby.pixelcraft.qzz.io/roxiewwe.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - Combat Sports",WWE NXT
 https://abby.pixelcraft.qzz.io/wwe.m3u8
 
 #EXTGRP:Roxiestreams - Misc
-#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",WWE NXT
-https://abby.pixelcraft.qzz.io/roxiewwe.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",WWE NXT
 https://abby.pixelcraft.qzz.io/wwe.m3u8
 
@@ -1647,7 +1645,13 @@ https://600.pixelcraft.qzz.io/main.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Atlanta Hawks vs Washington Wizards
 https://again.009292.xyz/nba.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Los Angeles Clippers vs Los Angeles Lakers
-https://again.009292.xyz/nba3.m3u8
+https://abigail.009292.xyz/nba2alty.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Los Angeles Clippers vs Los Angeles Lakers
+https://again.009292.xyz/nba2.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Los Angeles Clippers vs Los Angeles Lakers
+https://again.009292.xyz/nba2alt.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Orlando Magic vs Philadelphia 76ers
+https://abigail.009292.xyz/nba2alty.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Orlando Magic vs Philadelphia 76ers
 https://again.009292.xyz/nba2.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Orlando Magic vs Philadelphia 76ers
@@ -1666,7 +1670,7 @@ https://abby.pixelcraft.qzz.io/nflalty.m3u8
 https://abby.pixelcraft.qzz.io/golazo.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Ajax vs Benfica
 https://again.009292.xyz/tnt3.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Athletico Mineiro vs Fluminense
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Athletico Mineiro vs Flamengo
 https://abby.pixelcraft.qzz.io/prem.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",BodÃ¸ / Glimt vs Juventus
 https://abby.pixelcraft.qzz.io/juve.m3u8
@@ -1698,8 +1702,6 @@ https://again.009292.xyz/tnt7.m3u8
 https://again.009292.xyz/tnt3.m3u8
 
 #EXTGRP:Roxiestreams - WWE
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WWE2.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - WWE",WWE NXT
-https://abby.pixelcraft.qzz.io/roxiewwe.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WWE2.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - WWE",WWE NXT
 https://abby.pixelcraft.qzz.io/wwe.m3u8
 
