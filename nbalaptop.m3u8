@@ -1,5 +1,27 @@
 #EXTM3U url-tvg="https://github.com/Drewski2423/DrewLive/raw/refs/heads/main/DrewLive.xml.gz"
 
+#EXTGRP:Nba League Pass
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Nba League Pass",NBA Live 01
+http://kstv.us:8080/DBeverly/2290061890/47477
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Nba League Pass",NBA Live 02
+http://kstv.us:8080/DBeverly/2290061890/47478
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Nba League Pass",NBA Live 03
+http://kstv.us:8080/DBeverly/2290061890/47479
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Nba League Pass",NBA Live 04
+http://kstv.us:8080/DBeverly/2290061890/47480
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Nba League Pass",NBA Live 05
+http://kstv.us:8080/DBeverly/2290061890/47481
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Nba League Pass",NBA Live 06
+http://kstv.us:8080/DBeverly/2290061890/47482
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Nba League Pass",NBA Live 07
+http://kstv.us:8080/DBeverly/2290061890/47483
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Nba League Pass",NBA Live 08
+http://kstv.us:8080/DBeverly/2290061890/47484
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Nba League Pass",NBA Live 09
+http://kstv.us:8080/DBeverly/2290061890/47485
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Nba League Pass",NBA Live 10
+http://kstv.us:8080/DBeverly/2290061890/474816
+
 #EXTGRP:Nba Live - Homecourt
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt", Atlanta Hawks
 #EXTVLCOPT:http-origin=https://ppv.to
@@ -401,25 +423,3 @@ https://again.009292.xyz/tnt3.m3u8
 #EXTGRP:Roxiestreams - WWE
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WWE2.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - WWE",WWE NXT
 https://abby.pixelcraft.qzz.io/wwe.m3u8
-
-#EXTGRP:Sports TV
-#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Live 01
-http://kstv.us:8080/DBeverly/2290061890/47477
-#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Live 02
-http://kstv.us:8080/DBeverly/2290061890/47478
-#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Live 03
-http://kstv.us:8080/DBeverly/2290061890/47479
-#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Live 04
-http://kstv.us:8080/DBeverly/2290061890/47480
-#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Live 05
-http://kstv.us:8080/DBeverly/2290061890/47481
-#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Live 06
-http://kstv.us:8080/DBeverly/2290061890/47482
-#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Live 07
-http://kstv.us:8080/DBeverly/2290061890/47483
-#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Live 08
-http://kstv.us:8080/DBeverly/2290061890/47484
-#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Live 09
-http://kstv.us:8080/DBeverly/2290061890/47485
-#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://cdn.sologo.ai/2025/0424/20250424031403894.png" group-title="Sports TV",NBA Live 10
-http://kstv.us:8080/DBeverly/2290061890/474816
