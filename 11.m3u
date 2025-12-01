@@ -711,12 +711,6 @@ https://ballcontrol.click/nbaa9.php
 #EXTINF:-1 tvg-id="NBA 9" tvg-name="NBA 9" tvg-logo="https://frontofficesports.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="Nba Live - TotalSports", NBA League Pass 10
 https://ballcontrol.click/nbaa10.php
 
-#EXTGRP:Other
-#EXTINF:-1 group-logo="https://cdn.vectorstock.com/i/1000v/25/32/tv-or-television-channel-logo-design-template-vector-30742532.jpg"
-****#EXTINF:-1 tvg-id="" group-title="PH Cable TV" tvg-logo="https://3abn.org/img/logos/3abn-logo-md.jpg",3ABN
-#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/kA-Bk9yN6VcSUk21JzwavWSln1l9kusxYZYgL8xsmMLwCSGlE9EDngSVAaO3ayX-xJA"
-*****#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="Sports TV", Bein Sports US
-
 #EXTGRP:PH Cable TV
 #EXTINF:-1 tvg-id="NBA 10" tvg-name="NBA 10" tvg-logo="" group-title="PH Cable TV",3rsSINEPINOY
 https://live20.bozztv.com/giatvplayout7/giatv-210267/tracks-v1a1/mono.ts.m3u8
@@ -832,8 +826,6 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/bbcworld_news_sd/default/i
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/bilyonaryoch/default1/index.mpd
 #EXTINF:-1 tvg-id="NBA 10" tvg-name="NBA 10" tvg-logo="" group-title="PH Cable TV",Blast Movies
 https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg19223-amg19223c7-amgplt0351/playlist.m3u8
-#EXTINF:-1 tvg-id="NBA 10" tvg-name="NBA 10" tvg-logo="" group-title="PH Cable TV",Blast Sports
-https://amg19223-amg19223c1-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c1-amgplt0351/playlist.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="PH Cable TV" tvg-logo="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png",Bloomberg
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
