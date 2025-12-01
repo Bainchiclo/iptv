@@ -1,162 +1,21 @@
 #EXTM3U url-tvg="https://github.com/atone77721/CIGNAL_EPG/raw/refs/heads/main/merged_epg.xml.gz"
-#EXTINF:-1 tvg-id="1143" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126332757.png" group-title="Philippines",GTV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://m3uiptv.kkt01.workers.dev/stream?t=eyJ1c2VyIjoiYWRtaW4iLCJleHAiOjE3NjQzMTU5NDYxNDksIm0zdSI6Imh0dHBzOi8vdmlwbGF5bGlzdC52ZXJjZWwuYXBwL2NvbWJpbmVkX3BsYXlsaXN0Lm0zdSJ9.e7279c386d810c837abb90ec839c04aaa6a5c9c1d301ac4434379c588b0feb31&url=aHR0cHM6Ly9jb252ZXJzZS5uYXRoY3JlcXRpdmVzLmNvbS8xMTQzL21hbmlmZXN0Lm1wZA
-#EXTINF:-1 tvg-id="1093" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126306082.png" group-title="Philippines",GMA 7
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://m3uiptv.kkt01.workers.dev/stream?t=eyJ1c2VyIjoiYWRtaW4iLCJleHAiOjE3NjQzMTU5NDYxNDksIm0zdSI6Imh0dHBzOi8vdmlwbGF5bGlzdC52ZXJjZWwuYXBwL2NvbWJpbmVkX3BsYXlsaXN0Lm0zdSJ9.e7279c386d810c837abb90ec839c04aaa6a5c9c1d301ac4434379c588b0feb31&url=aHR0cHM6Ly9jb252ZXJzZS5uYXRoY3JlcXRpdmVzLmNvbS8xMDkzL21hbmlmZXN0Lm1wZA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2Jn7QHG.png" group-title="Philippines",CineMo!
-https://m3uiptv.kkt01.workers.dev/stream?t=eyJ1c2VyIjoiYWRtaW4iLCJleHAiOjE3NjQzMTU5NDYxNDksIm0zdSI6Imh0dHBzOi8vdmlwbGF5bGlzdC52ZXJjZWwuYXBwL2NvbWJpbmVkX3BsYXlsaXN0Lm0zdSJ9.e7279c386d810c837abb90ec839c04aaa6a5c9c1d301ac4434379c588b0feb31&url=aHR0cHM6Ly9saXZlLWZhd3MuYWthbWFpemVkLm5ldC9vdXQvdjEvM2E4OTVmMzY4ZjRhNDY3YzliY2EwOTYyNTU5ZWZjMTkvaW5kZXgubXBk
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U5L67WD.png" group-title="Philippines",TV 5
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
-https://m3uiptv.kkt01.workers.dev/stream?t=eyJ1c2VyIjoiYWRtaW4iLCJleHAiOjE3NjQzMTU5NDYxNDksIm0zdSI6Imh0dHBzOi8vdmlwbGF5bGlzdC52ZXJjZWwuYXBwL2NvbWJpbmVkX3BsYXlsaXN0Lm0zdSJ9.e7279c386d810c837abb90ec839c04aaa6a5c9c1d301ac4434379c588b0feb31&url=aHR0cHM6Ly9xcC1wbGR0LWxpdmUtYnBrLTAyLXByb2QuYWthbWFpemVkLm5ldC9icGstdHYvdHY1X2hkL2RlZmF1bHQxL2luZGV4Lm1wZA
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/2560px-Kapamilya_Channel_Logo_2020.svg.png" group-title="Philippines",KAPAMILYA
-https://m3uiptv.kkt01.workers.dev/stream?t=eyJ1c2VyIjoiYWRtaW4iLCJleHAiOjE3NjQzMTU5NDYxNDksIm0zdSI6Imh0dHBzOi8vdmlwbGF5bGlzdC52ZXJjZWwuYXBwL2NvbWJpbmVkX3BsYXlsaXN0Lm0zdSJ9.e7279c386d810c837abb90ec839c04aaa6a5c9c1d301ac4434379c588b0feb31&url=aHR0cHM6Ly9saXZlLWZhd3MuYWthbWFpemVkLm5ldC9vdXQvdjEvZWZhMDEzNzI2NTc2NDhiZTgzMGU3YzIzZmY2OGJlYTIvaW5kZXgubXBk
-#EXTINF:-1 tvg-logo="https://i.imgur.com/moSPpuJ.png" group-title="Philippines",Cinema One
-https://m3uiptv.kkt01.workers.dev/stream?t=eyJ1c2VyIjoiYWRtaW4iLCJleHAiOjE3NjQzMTU5NDYxNDksIm0zdSI6Imh0dHBzOi8vdmlwbGF5bGlzdC52ZXJjZWwuYXBwL2NvbWJpbmVkX3BsYXlsaXN0Lm0zdSJ9.e7279c386d810c837abb90ec839c04aaa6a5c9c1d301ac4434379c588b0feb31&url=aHR0cHM6Ly9saXZlLWZhd3MuYWthbWFpemVkLm5ldC9vdXQvdjEvOTNiOWRiN2IyMzFkNDVmMjhmNjRmMjliODZkYzZjNjUvaW5kZXgubXBk
-#EXTINF:-1 tvg-logo="https://i.imgur.com/43nZ2rv.png" group-title="Philippines",A2Z
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
-https://m3uiptv.kkt01.workers.dev/stream?t=eyJ1c2VyIjoiYWRtaW4iLCJleHAiOjE3NjQzMTU5NDYxNDksIm0zdSI6Imh0dHBzOi8vdmlwbGF5bGlzdC52ZXJjZWwuYXBwL2NvbWJpbmVkX3BsYXlsaXN0Lm0zdSJ9.e7279c386d810c837abb90ec839c04aaa6a5c9c1d301ac4434379c588b0feb31&url=aHR0cHM6Ly9xcC1wbGR0LWxpdmUtYnBrLTAyLXByb2QuYWthbWFpemVkLm5ldC9icGstdHYvY2dfYTJ6L2RlZmF1bHQvaW5kZXgubXBk
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Eo0f51v.png" group-title="Philippines",GMA Pinoy TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
-https://m3uiptv.kkt01.workers.dev/stream?t=eyJ1c2VyIjoiYWRtaW4iLCJleHAiOjE3NjQzMTU5NDYxNDksIm0zdSI6Imh0dHBzOi8vdmlwbGF5bGlzdC52ZXJjZWwuYXBwL2NvbWJpbmVkX3BsYXlsaXN0Lm0zdSJ9.e7279c386d810c837abb90ec839c04aaa6a5c9c1d301ac4434379c588b0feb31&url=aHR0cHM6Ly9jZG4tdXcyLXByb2QudHN2Mi5hbWFnaS50di9saW5lYXIvYW1nMDEwMDYtYWJzLWNibi1hYnNjYm4tZ21hLXg3LWRhc2gtYWJzY2Jub25vLzdjNjkzMjM2LWUwYzEtNDBhMy04YmQwLWJiMjVlNDNmNWJmYy9pbmRleC5tcGQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zZWj5vn.png" group-title="Philippines",TFC
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
-https://m3uiptv.kkt01.workers.dev/stream?t=eyJ1c2VyIjoiYWRtaW4iLCJleHAiOjE3NjQzMTU5NDYxNDksIm0zdSI6Imh0dHBzOi8vdmlwbGF5bGlzdC52ZXJjZWwuYXBwL2NvbWJpbmVkX3BsYXlsaXN0Lm0zdSJ9.e7279c386d810c837abb90ec839c04aaa6a5c9c1d301ac4434379c588b0feb31&url=aHR0cHM6Ly9jZG4tdWUxLXByb2QudHN2Mi5hbWFnaS50di9saW5lYXIvYW1nMDEwMDYtYWJzLWNibi10ZmNhc2lhLWRhc2gtYWJzY2Jub25vLzcwNDViYzNjLTk0OTItNDJkNC05NzRlLWEzYjIxNzc3NmU1Ny9pbmRleC5tcGQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/buOVATz.png" group-title="Philippines",PBO
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1
-https://m3uiptv.kkt01.workers.dev/stream?t=eyJ1c2VyIjoiYWRtaW4iLCJleHAiOjE3NjQzMTU5NDYxNDksIm0zdSI6Imh0dHBzOi8vdmlwbGF5bGlzdC52ZXJjZWwuYXBwL2NvbWJpbmVkX3BsYXlsaXN0Lm0zdSJ9.e7279c386d810c837abb90ec839c04aaa6a5c9c1d301ac4434379c588b0feb31&url=aHR0cHM6Ly9xcC1wbGR0LWxpdmUtYnBrLTAxLXByb2QuYWthbWFpemVkLm5ldC9icGstdHYvcGJvX3NkL2RlZmF1bHQvaW5kZXgubXBk
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MXxN1UO.png" group-title="Philippines",Sari-Sari
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0a7ab3612f434335aa6e895016d8cd2d:b21654621230ae21714a5cab52daeb9d
-https://m3uiptv.kkt01.workers.dev/stream?t=eyJ1c2VyIjoiYWRtaW4iLCJleHAiOjE3NjQzMTU5NDYxNDksIm0zdSI6Imh0dHBzOi8vdmlwbGF5bGlzdC52ZXJjZWwuYXBwL2NvbWJpbmVkX3BsYXlsaXN0Lm0zdSJ9.e7279c386d810c837abb90ec839c04aaa6a5c9c1d301ac4434379c588b0feb31&url=aHR0cHM6Ly9xcC1wbGR0LWxpdmUtYnBrLTAyLXByb2QuYWthbWFpemVkLm5ldC9icGstdHYvY2dfc2FyaXNhcmkvZGVmYXVsdC9pbmRleC5tcGQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/51RWtvd.png" group-title="Philippines",Viva Cinema
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
-https://m3uiptv.kkt01.workers.dev/stream?t=eyJ1c2VyIjoiYWRtaW4iLCJleHAiOjE3NjQzMTU5NDYxNDksIm0zdSI6Imh0dHBzOi8vdmlwbGF5bGlzdC52ZXJjZWwuYXBwL2NvbWJpbmVkX3BsYXlsaXN0Lm0zdSJ9.e7279c386d810c837abb90ec839c04aaa6a5c9c1d301ac4434379c588b0feb31&url=aHR0cHM6Ly9xcC1wbGR0LWxpdmUtYnBrLTAxLXByb2QuYWthbWFpemVkLm5ldC9icGstdHYvdml2YV9zZC9kZWZhdWx0L2luZGV4Lm1wZA
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/3f6f0d_7722234b93064632beb228ed94454079~mv2.png/v1/fill/w_597,h_117,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Jungo%20TV%20Logo%20(White-Red).png" group-title="Philippines",HallyPop
-https://m3uiptv.kkt01.workers.dev/stream?t=eyJ1c2VyIjoiYWRtaW4iLCJleHAiOjE3NjQzMTU5NDYxNDksIm0zdSI6Imh0dHBzOi8vdmlwbGF5bGlzdC52ZXJjZWwuYXBwL2NvbWJpbmVkX3BsYXlsaXN0Lm0zdSJ9.e7279c386d810c837abb90ec839c04aaa6a5c9c1d301ac4434379c588b0feb31&url=aHR0cHM6Ly9qdW5nb3R2c3RyZWFtLmNoYW5hbGwudHYvanVuZ290di9oYWxseXBvcC9wbGF5bGlzdF8xMDgwcC5tM3U4
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/3f6f0d_7722234b93064632beb228ed94454079~mv2.png/v1/fill/w_597,h_117,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Jungo%20TV%20Logo%20(White-Red).png" group-title="Philippines",Jungo Pinoy TV
-https://m3uiptv.kkt01.workers.dev/stream?t=eyJ1c2VyIjoiYWRtaW4iLCJleHAiOjE3NjQzMTU5NDYxNDksIm0zdSI6Imh0dHBzOi8vdmlwbGF5bGlzdC52ZXJjZWwuYXBwL2NvbWJpbmVkX3BsYXlsaXN0Lm0zdSJ9.e7279c386d810c837abb90ec839c04aaa6a5c9c1d301ac4434379c588b0feb31&url=aHR0cHM6Ly9qdW5nb3R2c3RyZWFtLmNoYW5hbGwudHYvanVuZ290di9qdW5nb3Bpbm95dHYvcGxheWxpc3RfNDgwcC5tM3U4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bcu69bU.png" group-title="Philippines",ANC
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4bbdc78024a54662854b412d01fafa16:6039ec9b213aca913821677a28bd78ae
-https://m3uiptv.kkt01.workers.dev/stream?t=eyJ1c2VyIjoiYWRtaW4iLCJleHAiOjE3NjQzMTU5NDYxNDksIm0zdSI6Imh0dHBzOi8vdmlwbGF5bGlzdC52ZXJjZWwuYXBwL2NvbWJpbmVkX3BsYXlsaXN0Lm0zdSJ9.e7279c386d810c837abb90ec839c04aaa6a5c9c1d301ac4434379c588b0feb31&url=aHR0cHM6Ly9jZG4tdWUxLXByb2QudHN2Mi5hbWFnaS50di9saW5lYXIvYW1nMDEwMDYtYWJzLWNibi1hbmMtZ2xvYmFsLWRhc2gtYWJzY2Jub25vL2luZGV4Lm1wZA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8YhI91e.png" group-title="Philippines",TVN Movies Pinoy
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
-https://m3uiptv.kkt01.workers.dev/stream?t=eyJ1c2VyIjoiYWRtaW4iLCJleHAiOjE3NjQzMTU5NDYxNDksIm0zdSI6Imh0dHBzOi8vdmlwbGF5bGlzdC52ZXJjZWwuYXBwL2NvbWJpbmVkX3BsYXlsaXN0Lm0zdSJ9.e7279c386d810c837abb90ec839c04aaa6a5c9c1d301ac4434379c588b0feb31&url=aHR0cHM6Ly9xcC1wbGR0LWxpdmUtYnBrLTAyLXByb2QuYWthbWFpemVkLm5ldC9icGstdHYvY2dfdHZubW92aWUvZGVmYXVsdC9pbmRleC5tcGQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6mNCite.png" group-title="Philippines",TMC
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=96701d297d1241e492d41c397631d857:ca2931211c1a261f082a3a2c4fd9f91b
-https://m3uiptv.kkt01.workers.dev/stream?t=eyJ1c2VyIjoiYWRtaW4iLCJleHAiOjE3NjQzMTU5NDYxNDksIm0zdSI6Imh0dHBzOi8vdmlwbGF5bGlzdC52ZXJjZWwuYXBwL2NvbWJpbmVkX3BsYXlsaXN0Lm0zdSJ9.e7279c386d810c837abb90ec839c04aaa6a5c9c1d301ac4434379c588b0feb31&url=aHR0cHM6Ly9xcC1wbGR0LWxpdmUtYnBrLTAxLXByb2QuYWthbWFpemVkLm5ldC9icGstdHYvY2dfdGFnYWxvZ21vdmllL2RlZmF1bHQvaW5kZXgubXBk
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iYRTs2n.png" group-title="Philippines",Animax
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=92032b0e41a543fb9830751273b8debd:03f8b65e2af785b10d6634735dbe6c11
-https://m3uiptv.kkt01.workers.dev/stream?t=eyJ1c2VyIjoiYWRtaW4iLCJleHAiOjE3NjQzMTU5NDYxNDksIm0zdSI6Imh0dHBzOi8vdmlwbGF5bGlzdC52ZXJjZWwuYXBwL2NvbWJpbmVkX3BsYXlsaXN0Lm0zdSJ9.e7279c386d810c837abb90ec839c04aaa6a5c9c1d301ac4434379c588b0feb31&url=aHR0cHM6Ly9xcC1wbGR0LWxpdmUtYnBrLTAxLXByb2QuYWthbWFpemVkLm5ldC9icGstdHYvY2dfYW5pbWF4X3NkX25ldy9kZWZhdWx0L2luZGV4Lm1wZA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R1fV2uY.png" group-title="Philippines",Cartoon Network
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
-https://m3uiptv.kkt01.workers.dev/stream?t=eyJ1c2VyIjoiYWRtaW4iLCJleHAiOjE3NjQzMTU5NDYxNDksIm0zdSI6Imh0dHBzOi8vdmlwbGF5bGlzdC52ZXJjZWwuYXBwL2NvbWJpbmVkX3BsYXlsaXN0Lm0zdSJ9.e7279c386d810c837abb90ec839c04aaa6a5c9c1d301ac4434379c588b0feb31&url=aHR0cHM6Ly9xcC1wbGR0LWxpdmUtZ3JwLTEyLXByb2QuYWthbWFpemVkLm5ldC9vdXQvdS9kcl9jYXJ0b29ubmV0d29ya2hkLm1wZA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fh1Lg7b.png" group-title="Philippines",DreamWorks Tagalized
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
-https://m3uiptv.kkt01.workers.dev/stream?t=eyJ1c2VyIjoiYWRtaW4iLCJleHAiOjE3NjQzMTU5NDYxNDksIm0zdSI6Imh0dHBzOi8vdmlwbGF5bGlzdC52ZXJjZWwuYXBwL2NvbWJpbmVkX3BsYXlsaXN0Lm0zdSJ9.e7279c386d810c837abb90ec839c04aaa6a5c9c1d301ac4434379c588b0feb31&url=aHR0cHM6Ly9xcC1wbGR0LWxpdmUtYnBrLTAyLXByb2QuYWthbWFpemVkLm5ldC9icGstdHYvY2dfZHJlYW13b3JrdGFnL2RlZmF1bHQvaW5kZXgubXBk
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fh1Lg7b.png" group-title="Philippines",DreamWorks
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4ab9645a2a0a47edbd65e8479c2b9669:8cb209f1828431ce9b50b593d1f44079
-https://m3uiptv.kkt01.workers.dev/stream?t=eyJ1c2VyIjoiYWRtaW4iLCJleHAiOjE3NjQzMTU5NDYxNDksIm0zdSI6Imh0dHBzOi8vdmlwbGF5bGlzdC52ZXJjZWwuYXBwL2NvbWJpbmVkX3BsYXlsaXN0Lm0zdSJ9.e7279c386d810c837abb90ec839c04aaa6a5c9c1d301ac4434379c588b0feb31&url=aHR0cHM6Ly9xcC1wbGR0LWxpdmUtYnBrLTAyLXByb2QuYWthbWFpemVkLm5ldC9icGstdHYvY2dfZHJlYW13b3Jrc19oZDEvZGVmYXVsdC9pbmRleC5tcGQ
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/PBS_Kids_logo_%282022%29.svg" group-title="Philippines",PBS Kids
-https://m3uiptv.kkt01.workers.dev/stream?t=eyJ1c2VyIjoiYWRtaW4iLCJleHAiOjE3NjQzMTU5NDYxNDksIm0zdSI6Imh0dHBzOi8vdmlwbGF5bGlzdC52ZXJjZWwuYXBwL2NvbWJpbmVkX3BsYXlsaXN0Lm0zdSJ9.e7279c386d810c837abb90ec839c04aaa6a5c9c1d301ac4434379c588b0feb31&url=aHR0cHM6Ly8yLWZzcy0yLnN0cmVhbWhvc3Rlci5jb20vcGxfMTQwL2FtbHN0OjIwMDkxNC0xMjk4MjkwL2NodW5rbGlzdF9iMjAwMDAwMC5tM3U4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H5Ha3ll.png" group-title="Philippines",Moonbug Kids
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0bf00921bec94a65a124fba1ef52b1cd:0f1488487cbe05e2badc3db53ae0f29f
-https://m3uiptv.kkt01.workers.dev/stream?t=eyJ1c2VyIjoiYWRtaW4iLCJleHAiOjE3NjQzMTU5NDYxNDksIm0zdSI6Imh0dHBzOi8vdmlwbGF5bGlzdC52ZXJjZWwuYXBwL2NvbWJpbmVkX3BsYXlsaXN0Lm0zdSJ9.e7279c386d810c837abb90ec839c04aaa6a5c9c1d301ac4434379c588b0feb31&url=aHR0cHM6Ly9xcC1wbGR0LWxpdmUtYnBrLTAyLXByb2QuYWthbWFpemVkLm5ldC9icGstdHYvY2dfbW9vbmJ1Z19raWRzX3NkL2RlZmF1bHQvaW5kZXgubXBk
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tIRSRoR.png" group-title="Philippines",Nickelodeon
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ce58f37576b416381b6514a809bfd8b:f0fbb758cdeeaddfa3eae538856b4d72
-https://m3uiptv.kkt01.workers.dev/stream?t=eyJ1c2VyIjoiYWRtaW4iLCJleHAiOjE3NjQzMTU5NDYxNDksIm0zdSI6Imh0dHBzOi8vdmlwbGF5bGlzdC52ZXJjZWwuYXBwL2NvbWJpbmVkX3BsYXlsaXN0Lm0zdSJ9.e7279c386d810c837abb90ec839c04aaa6a5c9c1d301ac4434379c588b0feb31&url=aHR0cHM6Ly9xcC1wbGR0LWxpdmUtYnBrLTAxLXByb2QuYWthbWFpemVkLm5ldC9icGstdHYvZHJfbmlja2Vsb2Rlb24vZGVmYXVsdC9pbmRleC5tcGQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nliH2PY.png" group-title="Philippines",Nick Jr
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bab5c11178b646749fbae87962bf5113:0ac679aad3b9d619ac39ad634ec76bc8
-https://m3uiptv.kkt01.workers.dev/stream?t=eyJ1c2VyIjoiYWRtaW4iLCJleHAiOjE3NjQzMTU5NDYxNDksIm0zdSI6Imh0dHBzOi8vdmlwbGF5bGlzdC52ZXJjZWwuYXBwL2NvbWJpbmVkX3BsYXlsaXN0Lm0zdSJ9.e7279c386d810c837abb90ec839c04aaa6a5c9c1d301ac4434379c588b0feb31&url=aHR0cHM6Ly9xcC1wbGR0LWxpdmUtYnBrLTAxLXByb2QuYWthbWFpemVkLm5ldC9icGstdHYvZHJfbmlja2pyL2RlZmF1bHQvaW5kZXgubXBk
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fHBIgs6.png" group-title="Philippines",HBO
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
-https://m3uiptv.kkt01.workers.dev/stream?t=eyJ1c2VyIjoiYWRtaW4iLCJleHAiOjE3NjQzMTU5NDYxNDksIm0zdSI6Imh0dHBzOi8vdmlwbGF5bGlzdC52ZXJjZWwuYXBwL2NvbWJpbmVkX3BsYXlsaXN0Lm0zdSJ9.e7279c386d810c837abb90ec839c04aaa6a5c9c1d301ac4434379c588b0feb31&url=aHR0cHM6Ly9xcC1wbGR0LWxpdmUtYnBrLTAyLXByb2QuYWthbWFpemVkLm5ldC9icGstdHYvY2dfaGJvaGQvZGVmYXVsdC9pbmRleC5tcGQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WANpEkc.png" group-title="Philippines",HBO Family
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
-https://m3uiptv.kkt01.workers.dev/stream?t=eyJ1c2VyIjoiYWRtaW4iLCJleHAiOjE3NjQzMTU5NDYxNDksIm0zdSI6Imh0dHBzOi8vdmlwbGF5bGlzdC52ZXJjZWwuYXBwL2NvbWJpbmVkX3BsYXlsaXN0Lm0zdSJ9.e7279c386d810c837abb90ec839c04aaa6a5c9c1d301ac4434379c588b0feb31&url=aHR0cHM6Ly9xcC1wbGR0LWxpdmUtYnBrLTAyLXByb2QuYWthbWFpemVkLm5ldC9icGstdHYvY2dfaGJvZmFtL2RlZmF1bHQvaW5kZXgubXBk
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q2ki7HC.png" group-title="Philippines",HBO Signature
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
-https://m3uiptv.kkt01.workers.dev/stream?t=eyJ1c2VyIjoiYWRtaW4iLCJleHAiOjE3NjQzMTU5NDYxNDksIm0zdSI6Imh0dHBzOi8vdmlwbGF5bGlzdC52ZXJjZWwuYXBwL2NvbWJpbmVkX3BsYXlsaXN0Lm0zdSJ9.e7279c386d810c837abb90ec839c04aaa6a5c9c1d301ac4434379c588b0feb31&url=aHR0cHM6Ly9xcC1wbGR0LWxpdmUtYnBrLTAyLXByb2QuYWthbWFpemVkLm5ldC9icGstdHYvY2dfaGJvc2lnbi9kZWZhdWx0L2luZGV4Lm1wZA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iCnfJS0.png" group-title="Philippines",HBO Hits
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
-https://m3uiptv.kkt01.workers.dev/stream?t=eyJ1c2VyIjoiYWRtaW4iLCJleHAiOjE3NjQzMTU5NDYxNDksIm0zdSI6Imh0dHBzOi8vdmlwbGF5bGlzdC52ZXJjZWwuYXBwL2NvbWJpbmVkX3BsYXlsaXN0Lm0zdSJ9.e7279c386d810c837abb90ec839c04aaa6a5c9c1d301ac4434379c588b0feb31&url=aHR0cHM6Ly9xcC1wbGR0LWxpdmUtYnBrLTAyLXByb2QuYWthbWFpemVkLm5ldC9icGstdHYvY2dfaGJvaGl0cy9kZWZhdWx0MS9pbmRleC5tcGQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r8qzNiy.png" group-title="Philippines",Cinemax
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
-https://m3uiptv.kkt01.workers.dev/stream?t=eyJ1c2VyIjoiYWRtaW4iLCJleHAiOjE3NjQzMTU5NDYxNDksIm0zdSI6Imh0dHBzOi8vdmlwbGF5bGlzdC52ZXJjZWwuYXBwL2NvbWJpbmVkX3BsYXlsaXN0Lm0zdSJ9.e7279c386d810c837abb90ec839c04aaa6a5c9c1d301ac4434379c588b0feb31&url=aHR0cHM6Ly9xcC1wbGR0LWxpdmUtYnBrLTAyLXByb2QuYWthbWFpemVkLm5ldC9icGstdHYvY2dfY2luZW1heC9kZWZhdWx0L2luZGV4Lm1wZA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S3pNx8G.png" group-title="Philippines",Hits Now
-https://m3uiptv.kkt01.workers.dev/stream?t=eyJ1c2VyIjoiYWRtaW4iLCJleHAiOjE3NjQzMTU5NDYxNDksIm0zdSI6Imh0dHBzOi8vdmlwbGF5bGlzdC52ZXJjZWwuYXBwL2NvbWJpbmVkX3BsYXlsaXN0Lm0zdSJ9.e7279c386d810c837abb90ec839c04aaa6a5c9c1d301ac4434379c588b0feb31&url=aHR0cDovLzEzNi4yMzkuMTU5LjE4OjY2MTAvMDAxLzIvY2gwMDAwMDA5MDk5MDAwMDAwMTA5My8vbWFuaWZlc3QubXBkP0pJVFBEUk1UeXBlPVdpZGV2aW5lJlJhdGVIaWdoPTI1NjAwMDAwJklBU0h0dHBTZXNzaW9uSWQ9T1RUMTc3NTk2MTIwMjUwODMwMDEwMzU5MDAxNjgzJiU1Q0F1dGhJbmZvPWQ4NWU5MyZKSVRQTWVkaWFUeXBlPURBU0gmdmlydHVhbERvbWFpbj0wMDEubGl2ZV9obHMuenRlLmNvbQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jghDgUJ.png" group-title="Philippines",Hits
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dac605bc197e442c93f4f08595a95100:975e27ffc1b7949721ee3ccb4b7fd3e5
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TEST" tvg-logo="", HBO
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TEST" tvg-logo="", Cinemax
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TEST" tvg-logo="", HBO Hits
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TEST" tvg-logo="", HBO Signature
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
