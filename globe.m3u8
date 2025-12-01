@@ -877,22 +877,24 @@ https://tvpass.org/live/WPIX/sd
 https://tvpass.org/live/yes-network/sd
 
 #EXTGRP:NBA
-#EXTINF:-1 tvg-id="" tvg-name="Atlanta Hawks @ Philadelphia 76ers (11/30 6:10 PM ET)" group-title="NBA",Atlanta Hawks @ Philadelphia 76ers (11/30 6:10 PM ET)
-https://tvpass.org/live/NBA07/sd
-#EXTINF:-1 tvg-id="" tvg-name="Boston Celtics @ Cleveland Cavaliers (11/30 6:10 PM ET)" group-title="NBA",Boston Celtics @ Cleveland Cavaliers (11/30 6:10 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="Atlanta Hawks @ Detroit Pistons (12/01 7:10 PM ET)" group-title="NBA",Atlanta Hawks @ Detroit Pistons (12/01 7:10 PM ET)
+https://tvpass.org/live/NBA03/sd
+#EXTINF:-1 tvg-id="" tvg-name="Charlotte Hornets @ Brooklyn Nets (12/01 7:40 PM ET)" group-title="NBA",Charlotte Hornets @ Brooklyn Nets (12/01 7:40 PM ET)
+https://tvpass.org/live/NBA13/sd
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Bulls @ Orlando Magic (12/01 7:40 PM ET)" group-title="NBA",Chicago Bulls @ Orlando Magic (12/01 7:40 PM ET)
+https://tvpass.org/live/NBA04/sd
+#EXTINF:-1 tvg-id="" tvg-name="Cleveland Cavaliers @ Indiana Pacers (12/01 7:10 PM ET)" group-title="NBA",Cleveland Cavaliers @ Indiana Pacers (12/01 7:10 PM ET)
 https://tvpass.org/live/NBA19/sd
-#EXTINF:-1 tvg-id="" tvg-name="Houston Rockets @ Utah Jazz (11/30 3:10 PM ET)" group-title="NBA",Houston Rockets @ Utah Jazz (11/30 3:10 PM ET)
-https://tvpass.org/live/NBA05/sd
-#EXTINF:-1 tvg-id="" tvg-name="Memphis Grizzlies @ Sacramento Kings (11/30 9:10 PM ET)" group-title="NBA",Memphis Grizzlies @ Sacramento Kings (11/30 9:10 PM ET)
-https://tvpass.org/live/NBA15/sd
-#EXTINF:-1 tvg-id="" tvg-name="New Orleans Pelicans @ Los Angeles Lakers (11/30 9:40 PM ET)" group-title="NBA",New Orleans Pelicans @ Los Angeles Lakers (11/30 9:40 PM ET)
-https://tvpass.org/live/NBA27/sd
-#EXTINF:-1 tvg-id="" tvg-name="Oklahoma City Thunder @ Portland Trail Blazers (11/30 6:10 PM ET)" group-title="NBA",Oklahoma City Thunder @ Portland Trail Blazers (11/30 6:10 PM ET)
-https://tvpass.org/live/NBA17/sd
-#EXTINF:-1 tvg-id="" tvg-name="San Antonio Spurs @ Minnesota Timberwolves (11/30 7:10 PM ET)" group-title="NBA",San Antonio Spurs @ Minnesota Timberwolves (11/30 7:10 PM ET)
-https://tvpass.org/live/NBA21/sd
-#EXTINF:-1 tvg-id="" tvg-name="Toronto Raptors @ New York Knicks (11/30 6:10 PM ET)" group-title="NBA",Toronto Raptors @ New York Knicks (11/30 6:10 PM ET)
-https://tvpass.org/live/NBA06/sd
+#EXTINF:-1 tvg-id="" tvg-name="Dallas Mavericks @ Denver Nuggets (12/01 9:10 PM ET)" group-title="NBA",Dallas Mavericks @ Denver Nuggets (12/01 9:10 PM ET)
+https://tvpass.org/live/NBA26/sd
+#EXTINF:-1 tvg-id="" tvg-name="Houston Rockets @ Utah Jazz (12/01 9:10 PM ET)" group-title="NBA",Houston Rockets @ Utah Jazz (12/01 9:10 PM ET)
+https://tvpass.org/live/NBA25/sd
+#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Clippers @ Miami Heat (12/01 7:30 PM ET)" group-title="NBA",Los Angeles Clippers @ Miami Heat (12/01 7:30 PM ET)
+https://tvpass.org/live/NBA28/sd
+#EXTINF:-1 tvg-id="" tvg-name="Milwaukee Bucks @ Washington Wizards (12/01 7:00 PM ET)" group-title="NBA",Milwaukee Bucks @ Washington Wizards (12/01 7:00 PM ET)
+https://tvpass.org/live/NBA16/sd
+#EXTINF:-1 tvg-id="" tvg-name="Phoenix Suns @ Los Angeles Lakers (12/01 10:10 PM ET)" group-title="NBA",Phoenix Suns @ Los Angeles Lakers (12/01 10:10 PM ET)
+https://tvpass.org/live/NBA12/sd
 
 #EXTGRP:Nba Live - Homecourt [Globe]
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt [Globe]", Atlanta Hawks
@@ -1042,38 +1044,20 @@ http://ppv.vhr.dpdns.org:8080/ppv/nba_utahjazz/index.m3u8
 http://ppv.vhr.dpdns.org:8080/ppv/nba_washingtonwizards/index.m3u8
 
 #EXTGRP:NFL
-#EXTINF:-1 tvg-id="" tvg-name="Arizona Cardinals @ Tampa Bay Buccaneers (11/30 1:00 PM ET)" group-title="NFL",Arizona Cardinals @ Tampa Bay Buccaneers (11/30 1:00 PM ET)
-https://tvpass.org/live/NFL13/sd
-#EXTINF:-1 tvg-id="" tvg-name="Atlanta Falcons @ New York Jets (11/30 1:00 PM ET)" group-title="NFL",Atlanta Falcons @ New York Jets (11/30 1:00 PM ET)
-https://tvpass.org/live/NFL10/sd
-#EXTINF:-1 tvg-id="" tvg-name="Buffalo Bills @ Pittsburgh Steelers (11/30 4:25 PM ET)" group-title="NFL",Buffalo Bills @ Pittsburgh Steelers (11/30 4:25 PM ET)
-https://tvpass.org/live/NFL18/sd
-#EXTINF:-1 tvg-id="" tvg-name="Denver Broncos @ Washington Commanders (11/30 8:20 PM ET)" group-title="NFL",Denver Broncos @ Washington Commanders (11/30 8:20 PM ET)
-https://tvpass.org/live/NFL20/sd
-#EXTINF:-1 tvg-id="" tvg-name="Houston Texans @ Indianapolis Colts (11/30 1:00 PM ET)" group-title="NFL",Houston Texans @ Indianapolis Colts (11/30 1:00 PM ET)
-https://tvpass.org/live/NFL16/sd
-#EXTINF:-1 tvg-id="" tvg-name="Jacksonville Jaguars @ Tennessee Titans (11/30 1:00 PM ET)" group-title="NFL",Jacksonville Jaguars @ Tennessee Titans (11/30 1:00 PM ET)
-https://tvpass.org/live/NFL08/sd
-#EXTINF:-1 tvg-id="" tvg-name="Las Vegas Raiders @ Los Angeles Chargers (11/30 4:25 PM ET)" group-title="NFL",Las Vegas Raiders @ Los Angeles Chargers (11/30 4:25 PM ET)
-https://tvpass.org/live/NFL19/sd
-#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Rams @ Carolina Panthers (11/30 1:00 PM ET)" group-title="NFL",Los Angeles Rams @ Carolina Panthers (11/30 1:00 PM ET)
-https://tvpass.org/live/NFL14/sd
-#EXTINF:-1 tvg-id="" tvg-name="Minnesota Vikings @ Seattle Seahawks (11/30 4:05 PM ET)" group-title="NFL",Minnesota Vikings @ Seattle Seahawks (11/30 4:05 PM ET)
-https://tvpass.org/live/NFL05/sd
-#EXTINF:-1 tvg-id="" tvg-name="New Orleans Saints @ Miami Dolphins (11/30 1:00 PM ET)" group-title="NFL",New Orleans Saints @ Miami Dolphins (11/30 1:00 PM ET)
-https://tvpass.org/live/NFL17/sd
-#EXTINF:-1 tvg-id="" tvg-name="San Francisco 49ers @ Cleveland Browns (11/30 1:00 PM ET)" group-title="NFL",San Francisco 49ers @ Cleveland Browns (11/30 1:00 PM ET)
-https://tvpass.org/live/NFL15/sd
+#EXTINF:-1 tvg-id="" tvg-name="New York Giants @ New England Patriots (12/01 8:15 PM ET)" group-title="NFL",New York Giants @ New England Patriots (12/01 8:15 PM ET)
+https://tvpass.org/live/ESPN/sd
 
 #EXTGRP:NHL
-#EXTINF:-1 tvg-id="" tvg-name="Anaheim Ducks @ Chicago Blackhawks (11/30 3:40 PM ET)" group-title="NHL",Anaheim Ducks @ Chicago Blackhawks (11/30 3:40 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="Anaheim Ducks @ St Louis Blues (12/01 8:00 PM ET)" group-title="NHL",Anaheim Ducks @ St Louis Blues (12/01 8:00 PM ET)
 https://tvpass.org/live/NHL24/sd
-#EXTINF:-1 tvg-id="" tvg-name="Calgary Flames @ Carolina Hurricanes (11/30 5:10 PM ET)" group-title="NHL",Calgary Flames @ Carolina Hurricanes (11/30 5:10 PM ET)
-https://tvpass.org/live/NHL02/sd
-#EXTINF:-1 tvg-id="" tvg-name="Ottawa Senators @ Dallas Stars (11/30 6:10 PM ET)" group-title="NHL",Ottawa Senators @ Dallas Stars (11/30 6:10 PM ET)
-https://tvpass.org/live/NHL18/sd
-#EXTINF:-1 tvg-id="" tvg-name="Washington Capitals @ New York Islanders (11/30 1:10 PM ET)" group-title="NHL",Washington Capitals @ New York Islanders (11/30 1:10 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="Columbus Blue Jackets @ New Jersey Devils (12/01 7:00 PM ET)" group-title="NHL",Columbus Blue Jackets @ New Jersey Devils (12/01 7:00 PM ET)
+https://tvpass.org/live/NHL20/sd
+#EXTINF:-1 tvg-id="" tvg-name="Pittsburgh Penguins @ Philadelphia Flyers (12/01 7:00 PM ET)" group-title="NHL",Pittsburgh Penguins @ Philadelphia Flyers (12/01 7:00 PM ET)
 https://tvpass.org/live/NHLNetwork/sd
+#EXTINF:-1 tvg-id="" tvg-name="Utah Mammoth @ San Jose Sharks (12/01 10:00 PM ET)" group-title="NHL",Utah Mammoth @ San Jose Sharks (12/01 10:00 PM ET)
+https://tvpass.org/live/NHL25/sd
+#EXTINF:-1 tvg-id="" tvg-name="Winnipeg Jets @ Buffalo Sabres (12/01 7:30 PM ET)" group-title="NHL",Winnipeg Jets @ Buffalo Sabres (12/01 7:30 PM ET)
+https://tvpass.org/live/NHL01/sd
 
 #EXTGRP:PH Cable TV
 #EXTINF:-1 tvg-id="NBA 10" tvg-name="NBA 10" tvg-logo="" group-title="PH Cable TV",3rsSINEPINOY
@@ -1865,8 +1849,6 @@ https://abby.pixelcraft.qzz.io/nba6.m3u8
 https://abby.pixelcraft.qzz.io/nba2.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Dallas Mavericks vs Denver Nuggets
 https://abby.pixelcraft.qzz.io/nba7.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Houston Rockets vs Utah Jazz
-https://abby.pixelcraft.qzz.io/nba2.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Los Angeles Clippers vs Miami Heat
 https://abby.pixelcraft.qzz.io/nba5.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Milwaukee Bucks vs Washington Wizards
@@ -1903,16 +1885,6 @@ https://simplee.pixelcraft.qzz.io/redzone.m3u8
 https://simplee.pixelcraft.qzz.io/redzone2.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",San Francisco 49ers vs Cleveland Browns
 https://loveliness.wnion.co.in/nfl.m3u8
-
-#EXTGRP:Roxiestreams - Soccer
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Birmingham City vs Watford
-https://simplee.pixelcraft.qzz.io/main.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",FenerbahÃ§e vs Galatasaray
-https://again.pixelcraft.qzz.io/beines.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",FenerbahÃ§e vs Galatasaray
-https://simplee.pixelcraft.qzz.io/beines.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Rayo Vallecano vs Valencia
-https://abby.pixelcraft.qzz.io/deportes.m3u8
 
 #EXTGRP:Roxiestreams - WWE
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WWE2.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - WWE",WWE Survivor Series: Wargame
