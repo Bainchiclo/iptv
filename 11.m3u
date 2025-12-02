@@ -1138,11 +1138,6 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/lotusmacau_prd/default/ind
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"d1plTAYQgRrQIjKaaIhN4Q","kid":"FovYFUaGOf5FKLS/AUHzEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_ott.mpd
-#EXTINF:-1g-id="550" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/483_144.png" group-title="PH Cable TV",Love Nature
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=168bd815468639fe4528b4bf0141f310:775a654c0610811ad022329a68884de1
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_ott.mpd
 #EXTINF:-1 group-title="PH Cable TV" tvg-id="" tvg-logo="https://i.imgur.com/3BCg3pS.png",M Now
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1870,19 +1865,21 @@ https://locked.pixelpanel.online/hdstream/embed/387.m3u8
 
 #EXTGRP:Roxiestreams - Combat Sports
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - Combat Sports",WWE RAW
-https://loveliness.wnion.co.in/roxiewwe.m3u8
+https://abby.pixelcraft.qzz.io/roxiewwe.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - Combat Sports",WWE RAW
+https://abby.pixelcraft.qzz.io/wwe.m3u8
 
 #EXTGRP:Roxiestreams - Misc
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",Laliga
 https://abby.pixelcraft.qzz.io/deportes.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",NFL (MNF)
-https://abby.pixelcraft.qzz.io/nfl.m3u8
+https://loveliness.wnion.co.in/nfl.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",NFL (MNF)
-https://abby.pixelcraft.qzz.io/nflalt.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",NFL (MNF)
-https://abby.pixelcraft.qzz.io/nflalty.m3u8
+https://loveliness.wnion.co.in/nflalty.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",WWE RAW
-https://loveliness.wnion.co.in/roxiewwe.m3u8
+https://abby.pixelcraft.qzz.io/roxiewwe.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",WWE RAW
+https://abby.pixelcraft.qzz.io/wwe.m3u8
 
 #EXTGRP:Roxiestreams - Motorsports
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams - Motorsports",Formula 1 - Qualifying
@@ -1899,8 +1896,6 @@ https://abby.pixelcraft.qzz.io/f1alt.m3u8
 https://simplee.pixelcraft.qzz.io/nba.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Charlotte Hornets vs Brooklyn Nets
 https://simplee.pixelcraft.qzz.io/nba4.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Chicago Bulls vs Orlando Magic
-https://abby.pixelcraft.qzz.io/nba.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Chicago Bulls vs Orlando Magic
 https://abby.pixelcraft.qzz.io/nba6.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Cleveland Cavaliers vs Indiana Pacers
@@ -1920,17 +1915,13 @@ https://simplee.pixelcraft.qzz.io/nba2.m3u8
 
 #EXTGRP:Roxiestreams - NFL
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",New York Giants vs New England Patriots
-https://abby.pixelcraft.qzz.io/nfl.m3u8
+https://loveliness.wnion.co.in/nfl.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",New York Giants vs New England Patriots
-https://abby.pixelcraft.qzz.io/nflalt.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",New York Giants vs New England Patriots
-https://abby.pixelcraft.qzz.io/nflalty.m3u8
+https://loveliness.wnion.co.in/nflalty.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",NFL (MNF)
-https://abby.pixelcraft.qzz.io/nfl.m3u8
+https://loveliness.wnion.co.in/nfl.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",NFL (MNF)
-https://abby.pixelcraft.qzz.io/nflalt.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",NFL (MNF)
-https://abby.pixelcraft.qzz.io/nflalty.m3u8
+https://loveliness.wnion.co.in/nflalty.m3u8
 
 #EXTGRP:Roxiestreams - Soccer
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Birmingham City vs Watford
@@ -1948,7 +1939,9 @@ https://abby.pixelcraft.qzz.io/deportes.m3u8
 
 #EXTGRP:Roxiestreams - WWE
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WWE2.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - WWE",WWE RAW
-https://loveliness.wnion.co.in/roxiewwe.m3u8
+https://abby.pixelcraft.qzz.io/roxiewwe.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WWE2.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - WWE",WWE RAW
+https://abby.pixelcraft.qzz.io/wwe.m3u8
 
 #EXTGRP:Sports TV
 #EXTINF:-1 tvg-id="CH801" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="Sports TV",ASTRO ARENA
@@ -1966,11 +1959,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
-#EXTINF:-1 group-title="Sports TV",Astro Football
+#EXTINF:-1 group-title="Sports TV", Astro Football
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"2ecbff426c9f42b39040c5490b4c2b03":"1da665a80c6b1bb5cf784b00a1d0ed3b","979e72a070ec437ba92c597c287acbad":"7f4db6de524b2e51c87f61566ff77039"}
+#KODIPROP:inputstream.adaptive.license_key=2ecbff426c9f42b39040c5490b4c2b03:1da665a80c6b1bb5cf784b00a1d0ed3b
 https://l04.dp.sooka.my/2506/linear/index.mpd
 #EXTINF:-1 tvg-id="813" tvg-name="Astro Premier League 3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/538_144.png" group-title="Sports TV",ASTRO PREMIER LEAGUE 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
