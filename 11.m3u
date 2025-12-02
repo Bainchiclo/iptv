@@ -1960,6 +1960,8 @@ https://abby.pixelcraft.qzz.io/roxiewwe.m3u8
 https://abby.pixelcraft.qzz.io/wwe.m3u8
 
 #EXTGRP:Sports TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm2sy5W60kAhdI_6viKTFCbYhWFcGnwQNRDg&s" group-title="Sports TV", ABC
+https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThyY0oV8z1j6nCiojofsBlQhW6aARywYK4QQ&s" group-title="Sports TV", Ace TV
 https://streams2.sofast.tv/WiseM3U8_30/sofast/cleanhls/master.m3u8
 #EXTINF:-1 tvg-id="CH801" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="Sports TV",Astro Arena
