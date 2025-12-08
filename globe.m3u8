@@ -1407,6 +1407,11 @@ https://converse.nathcreqtives.com/1135/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 https://converse.nathcreqtives.com/1204/manifest.mpd
+#EXTINF:-1 tvg-id="1086" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723133792284.png" group-title="Converge",PTV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1086/manifest.mpd
 #EXTINF:-1 tvg-id="1327" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723133809689.png" group-title="Converge",RADIO MARIA
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2213,6 +2218,10 @@ https://tvpass.org/live/NHL22/sd
 #EXTINF:-1 tvg-id="" tvg-name="Vegas Golden Knights @ New York Rangers (12/07 7:10 PM ET)" group-title="NHL",Vegas Golden Knights @ New York Rangers (12/07 7:10 PM ET)
 https://tvpass.org/live/NHLNetwork/sd
 
+#EXTGRP:Other
+#EXTINF:-1 group-logo="https://i.imgur.com/4iqV3FD.jpeg"
+*****#EXTINF:-1 tvg-id="1086" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723133792284.png" group-title="Converge",Grandstand
+
 #EXTGRP:Roxiestreams - Combat Sports
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - Combat Sports",CRUZ vs ROACH
 https://600.shadow-ran.online/ppv.m3u8
@@ -2326,6 +2335,8 @@ https://loveliness.wnion.co.in/nflalt.m3u8
 https://ataide.xiaolongyi.dpdns.org/nfl2.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",Cincinnati Bengals vs Buffalo Bills
 https://loveliness.wnion.co.in/nflalt.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",Denver Broncos vs Las Vegas Raiders
+https://600.xn--1000-ugoa0hsb9a0hb.com/nfl9.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",Houston Texans vs Kansas City Chiefs
 https://daffodil07.wnion.co.in/nflalty.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",Houston Texans vs Kansas City Chiefs
