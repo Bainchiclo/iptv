@@ -9,7 +9,6 @@ playlist_urls = [
     "https://raw.githubusercontent.com/Bainchiclo/nickiptv/refs/heads/main/Pixelsports.m3u8",
     "https://raw.githubusercontent.com/Bainchiclo/nickiptv/refs/heads/main/Roxiestreams.m3u8",
     "https://raw.githubusercontent.com/Bainchiclo/nickiptv/refs/heads/main/Nba%20Live%20-%20StreamBTW.m3u",
-    "https://converse.nathcreqtives.com/playlist.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjaGljYXB5dGVyIiwiZXhwIjoxNzY2NDY3NzY1fQ.gn7M5KNhI0kKLWbp-drm5egt9f87-JOtexCfHDYNtQQ",
     "https://raw.githubusercontent.com/Bainchiclo/nickiptv/refs/heads/main/nbaleaguepass.m3u"
 ] 
 
