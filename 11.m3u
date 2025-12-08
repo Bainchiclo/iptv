@@ -1281,7 +1281,7 @@ https://converse.nathcreqtives.com/1234/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1143/manifest.mpd
+https://converse.nathcreqtives.com/1143/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjaGljYXB5dGVyIiwiZXhwIjoxNzY2NDY3NzY1fQ.gn7M5KNhI0kKLWbp-drm5egt9f87-JOtexCfHDYNtQQ
 #EXTINF:-1 tvg-id="1152" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1733707474289.png" group-title="Converge",HALLYPOP
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2546,8 +2546,6 @@ https://loveliness.wnion.co.in/nflalt.m3u8
 https://ataide.xiaolongyi.dpdns.org/nfl2.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",Cincinnati Bengals vs Buffalo Bills
 https://loveliness.wnion.co.in/nflalt.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",Denver Broncos vs Las Vegas Raiders
-https://600.xn--1000-ugoa0hsb9a0hb.com/nfl9.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",Houston Texans vs Kansas City Chiefs
 https://daffodil07.wnion.co.in/nflalty.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",Houston Texans vs Kansas City Chiefs
