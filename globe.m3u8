@@ -2666,7 +2666,7 @@ https://daffodil.shadow-ran.online/manunited.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Barcelona vs Eintracht Frankfurt
 https://600.shadow-ran.online/golazo.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Bayern MÃ¼nchen vs Sporting CP
-https://600.shadow-ran.online/dep.m3u8
+https://daffodil.shadow-ran.online/tnt3.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Boston Bruins vs St. Louis Blues
 https://daffodil.shadow-ran.online/nhl7.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Buffalo Sabres vs Calgary Flames
@@ -2682,11 +2682,13 @@ https://daffodil.shadow-ran.online/nhl4.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Inter Milan vs Liverpool
 https://600.shadow-ran.online/one.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Kairat vs Olympiacos Piraeus
-https://600.shadow-ran.online/milan.m3u8
+https://daffodil.shadow-ran.online/golazo.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Kairat vs Olympiacos Piraeus
+https://daffodil.shadow-ran.online/tnt3.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Laliga
-https://600.shadow-ran.online/dep.m3u8
+https://daffodil.shadow-ran.online/tnt3.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Laliga
-https://600.shadow-ran.online/dep.m3u8
+https://daffodil.shadow-ran.online/tnt3.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Los Angeles Kings vs Utah Mammoth
 https://daffodil.shadow-ran.online/nhl2.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Minnesota Wild vs Seattle Kraken
