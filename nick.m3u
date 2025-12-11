@@ -1,15 +1,63 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt", Atlanta Hawks
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST", NBA 1
 #EXTVLCOPT:http-origin=https://arizonaplay.club
 #EXTVLCOPT:http-referrer=https://arizonaplay.club/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://azplay.click/US/NBA1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt", Atlanta Hawks T
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST", NBA 2
 #EXTVLCOPT:http-origin=https://arizonaplay.club
 #EXTVLCOPT:http-referrer=https://arizonaplay.club/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://azplay.click/US/NBA1/index.m3u8?st=RzvlpcDMlnqrZiZhluJmfA&amp;e=1765435566
+https://azplay.click/US/NBA2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST", NBA 3
+#EXTVLCOPT:http-origin=https://arizonaplay.club
+#EXTVLCOPT:http-referrer=https://arizonaplay.club/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://azplay.click/US/NBA3/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST", NBA 4
+#EXTVLCOPT:http-origin=https://arizonaplay.club
+#EXTVLCOPT:http-referrer=https://arizonaplay.club/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://azplay.click/US/NBA4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST", NBA 5
+#EXTVLCOPT:http-origin=https://arizonaplay.club
+#EXTVLCOPT:http-referrer=https://arizonaplay.club/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://azplay.click/US/NBA5/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST", NBA 6
+#EXTVLCOPT:http-origin=https://arizonaplay.club
+#EXTVLCOPT:http-referrer=https://arizonaplay.club/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://azplay.click/US/NBA6/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST", NBA 7
+#EXTVLCOPT:http-origin=https://arizonaplay.club
+#EXTVLCOPT:http-referrer=https://arizonaplay.club/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://azplay.click/US/NBA7/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST", NBA 8
+#EXTVLCOPT:http-origin=https://arizonaplay.club
+#EXTVLCOPT:http-referrer=https://arizonaplay.club/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://azplay.click/US/NBA8/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST", NBA 9
+#EXTVLCOPT:http-origin=https://arizonaplay.club
+#EXTVLCOPT:http-referrer=https://arizonaplay.club/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://azplay.click/US/NBA9/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST", NBA 10
+#EXTVLCOPT:http-origin=https://arizonaplay.club
+#EXTVLCOPT:http-referrer=https://arizonaplay.club/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://azplay.click/US/NBA10/index.m3u8
 
 
