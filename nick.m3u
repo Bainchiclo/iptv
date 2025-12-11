@@ -1,8 +1,49 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/ba49e669-31ec-499c-9ede-3c766016226e" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",ABC News Live
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1001501
-https://dtv.vingt.qzz.io/dtv/1001501/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt", Atlanta Hawks
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/PRIMEVIDEO/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt", Boston Celtics
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/FOX/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt", Brooklyn Nets
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/CBS/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt", Charlotte Hornets
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/NBC/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt", Chicago Bulls
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/ESPN/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt", Cleveland Cavaliers
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/PRIMEVIDEO/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt", Dallas Mavericks
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/PARAMOUNT/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt", Dallas Mavericks
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/EUROPALEAGUE/index.m3u8
