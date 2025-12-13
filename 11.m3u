@@ -3942,6 +3942,8 @@ https://daffodil.shadow-ran.online/cbssn.m3u8
 https://daffodil.shadow-ran.online/tnt.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Indiana Pacers vs Philadelphia 76ers
 https://daffodil.shadow-ran.online/nba3.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",JACK vs MIKAELIAN
+https://600.shadow-ran.online/ppv.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Laliga
 https://daffodil.shadow-ran.online/dep.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Laliga
@@ -3964,6 +3966,8 @@ https://daffodil.shadow-ran.online/nhl6.m3u8
 https://600.shadow-ran.online/nhl4.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Paris vs Toulouse
 https://daffodil.shadow-ran.online/tnt.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Prairie View A&M vs South Carolina State
+https://600.shadow-ran.online/ncaa2.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",San Jose Sharks vs Pittsburgh Penguins
 https://600.shadow-ran.online/nhl3.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Stoke City vs Swansea City
@@ -3971,7 +3975,35 @@ https://daffodil.shadow-ran.online/beines.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Tampa Bay Lightning vs New York Islanders
 https://600.shadow-ran.online/nhl.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",UFC Fight Night: Royval vs Kape
-https://daffodil.shadow-ran.online/wwe.m3u8
+https://600.shadow-ran.online/hub.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",UFC Fight Night: Royval vs Kape
+https://600.shadow-ran.online/plus.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",UFC Fight Night: Royval vs Kape
+https://600.shadow-ran.online/simply.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",UFC Fight Night: Royval vs Kape
+https://600.shadow-ran.online/tnt2.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",UFC Fight Night: Royval vs Kape
+https://600.shadow-ran.online/ufc.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",UFC Fight Night: Royval vs Kape
+https://600.xn--1000-ugoa0hsb9a0hb.com/hub.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",UFC Fight Night: Royval vs Kape
+https://600.xn--1000-ugoa0hsb9a0hb.com/plus.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",UFC Fight Night: Royval vs Kape
+https://600.xn--1000-ugoa0hsb9a0hb.com/simply.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",UFC Fight Night: Royval vs Kape
+https://600.xn--1000-ugoa0hsb9a0hb.com/tnt2.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",UFC Fight Night: Royval vs Kape
+https://600.xn--1000-ugoa0hsb9a0hb.com/ufc.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",UFC Fight Night: Royval vs Kape
+https://600.xn--1000-ugoxe8a5a7g4h.com/hub.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",UFC Fight Night: Royval vs Kape
+https://600.xn--1000-ugoxe8a5a7g4h.com/plus.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",UFC Fight Night: Royval vs Kape
+https://600.xn--1000-ugoxe8a5a7g4h.com/simply.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",UFC Fight Night: Royval vs Kape
+https://600.xn--1000-ugoxe8a5a7g4h.com/tnt2.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",UFC Fight Night: Royval vs Kape
+https://600.xn--1000-ugoxe8a5a7g4h.com/ufc.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Utah Jazz vs Memphis Grizzlies
 https://daffodil.shadow-ran.online/nba5.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Vegas Golden Knights vs Columbus Blue Jackets
@@ -3984,6 +4016,8 @@ https://daffodil.shadow-ran.online/betis.m3u8
 https://daffodil.shadow-ran.online/darts.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",World Darts Championship
 https://daffodil.shadow-ran.online/darts.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",WWE Saturday Night Main Event
+https://daffodil.shadow-ran.online/wwe.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",WWE Smackdown
 https://daffodil.shadow-ran.online/wwe.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",WWE Smackdown
