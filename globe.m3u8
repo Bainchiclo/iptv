@@ -3618,6 +3618,8 @@ https://daffodil.shadow-ran.online/lille.m3u8
 https://daffodil.shadow-ran.online/beines.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",East vs West 21
 https://600.shadow-ran.online/ppv3.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Edmonton Oilers vs Toronto Maple Leafs
+https://600.shadow-ran.online/nhl.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Eintracht Frankfurt vs Augsburg
 https://daffodil.shadow-ran.online/dep.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Flamengo vs Pyramids FC
@@ -3637,7 +3639,7 @@ https://daffodil.shadow-ran.online/dep.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Metz vs PSG
 https://daffodil.shadow-ran.online/psg.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Montreal Canadiens vs New York Rangers
-https://daffodil.shadow-ran.online/nhl6.m3u8
+https://600.shadow-ran.online/nhl6.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Nashville Predators vs Colorado Avalanche
 https://600.shadow-ran.online/nhl4.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",New York Knicks vs Orlando Magic
@@ -3722,6 +3724,8 @@ https://600.xn--1000-ugoxe8a5a7g4h.com/tnt2.m3u8
 https://600.xn--1000-ugoxe8a5a7g4h.com/ufc.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Villanova v Tarleton State
 https://daffodil.shadow-ran.online/ncaa2.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Washington Capitals vs Winnipeg Jets
+https://600.shadow-ran.online/nhl9.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Wimbledon vs Mansfield Town
 https://daffodil.shadow-ran.online/betis.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",World Darts Championship
