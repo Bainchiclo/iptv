@@ -3873,10 +3873,6 @@ https://602.shadow-ran.online/nhl6.m3u8
 https://daffodil.shadow-ran.online/dep.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Charlotte Hornets vs Cleveland Cavaliers
 https://daffodil.shadow-ran.online/nba.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Cleveland Browns vs Chicago Bears
-https://daffodil.shadow-ran.online/nfl.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Cleveland Browns vs Chicago Bears
-https://daffodil.shadow-ran.online/nflalty.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Corinthians vs Cruzeiro
 https://daffodil.shadow-ran.online/tigres.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Crystal Palace vs Man City
@@ -3889,14 +3885,10 @@ https://602.shadow-ran.online/nhl5.m3u8
 https://daffodil.shadow-ran.online/one.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Genoa vs Inter Milan
 https://daffodil.shadow-ran.online/golazo.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Indianapolis Colts vs Seattle Seahawks
-https://daffodil.shadow-ran.online/nflalty.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Laliga
 https://daffodil.shadow-ran.online/dep.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Laliga
 https://daffodil.shadow-ran.online/dep.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Las Vegas Raiders vs Philadelphia Eagles
-https://600.shadow-ran.online/nfl6.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Lens vs Nice
 https://daffodil.shadow-ran.online/beines.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Levante vs Villarreal
@@ -3911,6 +3903,10 @@ https://daffodil.shadow-ran.online/beines.m3u8
 https://daffodil.shadow-ran.online/nba4.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",New Orleans Pelicans vs Chicago Bulls
 https://daffodil.shadow-ran.online/nba6.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",NFL RedZone
+https://600.xn--1000-ugoa0hsb9a0hb.com/redzone.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",NFL RedZone
+https://600.xn--1000-ugoa0hsb9a0hb.com/redzone2.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Nottingham Forest vs Tottenham
 https://daffodil.shadow-ran.online/usa.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Philadelphia 76ers vs Atlanta Hawks
@@ -3925,8 +3921,6 @@ https://daffodil.shadow-ran.online/dep.m3u8
 https://daffodil.shadow-ran.online/cbssn.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Sunderland vs Newcastle
 https://daffodil.shadow-ran.online/sunder.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Tennessee Titans vs San Francisco 49ers
-https://daffodil.shadow-ran.online/nflalty.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Udinese vs Napoli
 https://daffodil.shadow-ran.online/golazo.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Utah Mammoth vs Pittsburgh Penguins
