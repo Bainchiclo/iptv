@@ -3864,11 +3864,11 @@ https://daffodil.shadow-ran.online/one.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Bologna vs Juventus
 https://daffodil.shadow-ran.online/cbssn.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Boston Bruins vs Minnesota Wild
-https://600.shadow-ran.online/nhl4.m3u8
+https://602.shadow-ran.online/nhl.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Brentford vs Leeds United
 https://daffodil.shadow-ran.online/sunder.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Buffalo Sabres vs Seattle Kraken
-https://600.shadow-ran.online/nhl6.m3u8
+https://602.shadow-ran.online/nhl6.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Celta De Vigo vs Athletic Club
 https://daffodil.shadow-ran.online/dep.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Charlotte Hornets vs Cleveland Cavaliers
@@ -3884,7 +3884,7 @@ https://daffodil.shadow-ran.online/mancity.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Deportivo AlavÃ©s vs Real Madrid
 https://daffodil.shadow-ran.online/dep.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Edmonton Oilers vs Montreal Canadiens
-https://600.shadow-ran.online/nhl.m3u8
+https://602.shadow-ran.online/nhl5.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Freiburg vs Dortmund
 https://daffodil.shadow-ran.online/one.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Genoa vs Inter Milan
@@ -3916,7 +3916,7 @@ https://daffodil.shadow-ran.online/usa.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Philadelphia 76ers vs Atlanta Hawks
 https://daffodil.shadow-ran.online/nba3.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Philadelphia Flyers vs Carolina Hurricanes
-https://600.shadow-ran.online/nhl3.m3u8
+https://602.shadow-ran.online/nhl3.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Sacramento Kings vs Minnesota Timberwolves
 https://daffodil.shadow-ran.online/nba5.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Sevilla vs Real Oviedo
@@ -3930,9 +3930,9 @@ https://daffodil.shadow-ran.online/nflalty.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Udinese vs Napoli
 https://daffodil.shadow-ran.online/golazo.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Utah Mammoth vs Pittsburgh Penguins
-https://600.shadow-ran.online/nhl2.m3u8
+https://602.shadow-ran.online/nhl.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Vancouver Canucks vs New Jersey Devils
-https://600.shadow-ran.online/nhl.m3u8
+https://602.shadow-ran.online/nhl.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Washington Wizards vs Indiana Pacers
 https://daffodil.shadow-ran.online/nba.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Werder Bremen vs Stuttgart
