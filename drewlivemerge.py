@@ -12,7 +12,6 @@ playlist_urls = [
     "https://raw.githubusercontent.com/Bainchiclo/nickiptv/refs/heads/main/nbaglobe.m3u",
     "https://raw.githubusercontent.com/Bainchiclo/nickiptv/refs/heads/main/IndihomeTV.m3u",
     "https://raw.githubusercontent.com/Bainchiclo/fststrm/refs/heads/main/roxstrmz.m3u8",
-    "https://raw.githubusercontent.com/Bainchiclo/nickiptv/refs/heads/main/nbaleaguepass.m3u",
     "https://raw.githubusercontent.com/Bainchiclo/nickiptv/refs/heads/main/Nba%20Live%20-%20StreamBTW.m3u",
     "https://raw.githubusercontent.com/Bainchiclo/nickiptv/refs/heads/main/phtest.m3u",
     "https://raw.githubusercontent.com/Bainchiclo/fststrm/refs/heads/main/psports.m3u8"
