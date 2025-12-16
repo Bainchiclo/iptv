@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/c-more-tennis.png",TV4 Tennis 🇸🇪
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"lXsyUI/srxp/hC6dibx1Nw","kid":"vTKtYI6MNTaNuwrL+pTY4A"}],"type":"temporary"}
+https://live.streaming.a2d.tv/asset/20465727.isml/dash.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="[PH] Cinema One" tvg-logo="" group-title=". PH [Test]",[PH] Cinema One
 https://webhop.live:443/live/juno123/juno123/19206.ts
 #EXTINF:-1 tvg-id="" tvg-name="[PH] GMA News TV" tvg-logo="" group-title=". PH [Test]",[PH] GMA News TV
