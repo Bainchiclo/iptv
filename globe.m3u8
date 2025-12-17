@@ -2111,6 +2111,8 @@ https://daffodil.shadow-ran.online/main.m3u8
 https://daffodil.shadow-ran.online/ncaa.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",TSZYU vs VELAZQUEZ
 https://601.shadow-ran.online/ppv.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",TSZYU vs VELAZQUEZ
+https://daffodil.shadow-ran.online/ppv.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Utah Mammoth vs Boston Bruins
 https://daffodil.shadow-ran.online/nhl.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Utah Mammoth vs Detroit Red Wings
