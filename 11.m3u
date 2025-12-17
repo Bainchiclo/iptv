@@ -2311,7 +2311,9 @@ https://601.shadow-ran.online/wwe.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Anaheim Ducks vs Columbus Blue Jackets
 https://daffodil.shadow-ran.online/nhl6.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",AtlÃ©tico Baleares vs AtlÃ©tico Madrid
-https://daffodil.shadow-ran.online/barca.m3u8
+https://daffodil.shadow-ran.online/val.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Calgary Flames vs San Jose Sharks
+https://602.shadow-ran.online/nhl9.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Carabao Cup
 https://daffodil.shadow-ran.online/main.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Carabao Cup
@@ -2337,7 +2339,7 @@ https://daffodil.shadow-ran.online/usa.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Los Angeles Kings vs Florida Panthers
 https://daffodil.shadow-ran.online/nhl.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Manchester City vs Brentford
-https://daffodil.shadow-ran.online/val.m3u8
+https://daffodil.shadow-ran.online/barca.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",NBA Cup
 https://daffodil.shadow-ran.online/nba.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",NBA Cup
