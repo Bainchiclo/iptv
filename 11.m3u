@@ -2306,8 +2306,12 @@ https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyDuiNc6rWatOYq4KqI
 https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyE6RSfgzNZgxjjEPpFTs6WI/.m3u8
 
 #EXTGRP:Roxiestreams
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",AEW
+https://601.shadow-ran.online/wwe.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Anaheim Ducks vs Columbus Blue Jackets
 https://daffodil.shadow-ran.online/nhl6.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Calgary Flames vs San Jose Sharks
+https://602.shadow-ran.online/nhl9.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Carabao Cup
 https://daffodil.shadow-ran.online/main.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Carabao Cup
@@ -2357,8 +2361,6 @@ https://daffodil.shadow-ran.online/darts.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",World Darts Championship
 https://daffodil.shadow-ran.online/darts.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",WWE NXT
-https://601.shadow-ran.online/wwe.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",WWE NXT
 https://601.shadow-ran.online/wwe.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WWE2.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",WWE NXT
 https://601.shadow-ran.online/wwe.m3u8
