@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://github.com/Drewski2423/DrewLive/raw/refs/heads/main/DrewLive.xml.gz"
 
 #EXTGRP:. PH [Test]
+#EXTINF:-1 tvg-id="" tvg-name="[PH] Cinema One" tvg-logo="" group-title=". PH [Test]", 1 test A2z
+http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/119440.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[PH] beIN Sports2" tvg-logo="" group-title=". PH [Test]",[PH] beIN Sports2
 https://webhop.live:443/live/juno123/juno123/133702.ts
 #EXTINF:-1 tvg-id="" tvg-name="[PH] Cinema One" tvg-logo="" group-title=". PH [Test]",[PH] Cinema One
