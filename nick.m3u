@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-logo="" group-title="",RTVS Sport 🇸🇰
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e2a52d3064c138ce9f5f65a9b40376ef:8331044e3361ad7e09d3a9474edb88d2
-https://live-d-02-rogers-uw-prd.aka.../ch-04-prd-r-v2/dash-ch-04-prd-r-hd/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=fcda490bfd8148179b0e93c5ef0d80e3:e4293507d592df040f2186f1ce82a712
+https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561206/index.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="",TA3 🇸🇰
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
