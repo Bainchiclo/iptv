@@ -2159,6 +2159,8 @@ https://daffodil.shadow-ran.online/deportes.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Bourg En Bresse vs Marseille
 https://601.shadow-ran.online/fsp.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Buffalo Bills vs Cleveland Browns
+https://601.alfirdaus.eu.org/bills.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Buffalo Bills vs Cleveland Browns
 https://daffodil.alfirdaus.eu.org/nfl.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Buffalo Sabres vs New Jersey Devils
 https://601.shadow-ran.online/nhl4.m3u8
