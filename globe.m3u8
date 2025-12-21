@@ -2185,7 +2185,7 @@ https://601.shadow-ran.online/cbssn.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Heidenheim vs Bayern MÃ¼nchen
 https://601.shadow-ran.online/bayern.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Houston Rockets vs Sacramento Kings
-https://daffodil.shadow-ran.online/nba6.m3u8
+https://601.shadow-ran.online/nba6.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Jacksonville Jaguars vs Denver Broncos
 https://601.alfirdaus.eu.org/broncos.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Jacksonville Jaguars vs Denver Broncos
@@ -2203,7 +2203,7 @@ https://daffodil.xn--1000-ugoxe8a5a7g4h.com/nfl2.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Miami Heat vs New York Knicks
 https://daffodil.shadow-ran.online/nba3.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Milwaukee Bucks vs Minnesota Timberwolves
-https://daffodil.shadow-ran.online/nba.m3u8
+https://601.shadow-ran.online/nba5.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Minnesota Vikings vs New York Giants
 https://601.biroslotutama.org/nfl6.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Montreal Canadiens vs Pittsburgh Penguins
@@ -2240,6 +2240,8 @@ https://601.biroslotutama.org/buccs.m3u8
 https://601.biroslotutama.org/nfl7.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Toronto Maple Leafs vs Dallas Stars
 https://601.shadow-ran.online/nhl7.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Toronto Raptors vs Brooklyn Nets
+https://daffodil.shadow-ran.online/nba2.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Vasco Da Gama vs Corinthians
 https://daffodil.shadow-ran.online/deportes.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Vegas Golden Knights vs Edmonton Oilers
