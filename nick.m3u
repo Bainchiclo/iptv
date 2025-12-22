@@ -1,7 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt", Atlanta Hawks
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://macky.xtremestream.xyz
+#EXTVLCOPT:http-referrer=https://macky.xtremestream.xyz/player/index.php?data=cc1be2756ee268969328208597b5bd90
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://red9.lumenlyra.space/playlist/41617/load-playlist
+https://macky.xtremestream.xyz/player/xs1.php?data=cc1be2756ee268969328208597b5bd90
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt", Atlanta Hawks
+#EXTVLCOPT:http-origin=macky.xtremestream.xyz
+#EXTVLCOPT:http-referrer=https://macky.xtremestream.xyz/player/index.php?data=cc1be2756ee268969328208597b5bd90
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://macky.xtremestream.xyz/player/xs1.php?data=cc1be2756ee268969328208597b5bd90
