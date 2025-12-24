@@ -21,111 +21,66 @@ https://stream.nvrmind.xyz/strmfree/gabon-vs-cameroon/index.m3u8?stream_name=Gab
 #EXTVLCOPT:http-origin=https://streamfree.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://stream.nvrmind.xyz/strmfree/mozambique-vs-ivory-coast/index.m3u8?stream_name=Mozambique+vs+Ivory+Coast
-#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.Dummy.us" tvg-name="[Africa Cup of Nations] Cameroon vs Gabon (iSTRMEST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="Live Events",[Africa Cup of Nations] Cameroon vs Gabon (iSTRMEST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://red9.lumenlyra.space/playlist/41831/load-playlist
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.Dummy.us" tvg-name="[Africa Cup of Nations] Cameroon vs Gabon (WATCHFTY)" tvg-logo="https://api.watchfooty.st/api/v1/poster/732141" group-title="Live Events",[Africa Cup of Nations] Cameroon vs Gabon (WATCHFTY)
-#EXTVLCOPT:http-referrer=https://spiderembed.top/embed/732141/cameroon-gabon/hd/1
-#EXTVLCOPT:http-origin=https://spiderembed.top/embed/732141/cameroon-gabon/hd/1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://king.spider-on.top/playlist/hd/cameroon-gabon/1/732141/playlist.m3u8?hash=7012311bb4bcbc2dcfee682e5c243a2d&t=1766606418476
-#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.Dummy.us" tvg-name="[Africa Cup of Nations] Cameroon vs Gabon 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="Live Events",[Africa Cup of Nations] Cameroon vs Gabon 1 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://205.237.106.115/hls/PPPP.m3u8
-#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.Dummy.us" tvg-name="[Africa Cup of Nations] Cameroon vs Gabon 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="Live Events",[Africa Cup of Nations] Cameroon vs Gabon 2 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://c.ddogezdqds.shop/hls/PPPP.m3u8
-#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.Dummy.us" tvg-name="[Africa Cup of Nations] Ivory Coast vs Mozambique 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="Live Events",[Africa Cup of Nations] Ivory Coast vs Mozambique 1 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://205.237.104.56/hls/geeeQQ.m3u8
-#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.Dummy.us" tvg-name="[Africa Cup of Nations] Ivory Coast vs Mozambique 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="Live Events",[Africa Cup of Nations] Ivory Coast vs Mozambique 2 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://a.bysaosap.shop/hls/geeeQQ.m3u8
-#EXTINF:-1 tvg-chno="11" tvg-id="Live.Event.us" tvg-name="[Can2025] Algeria - Sudan (EMBEDHD)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Can2025] Algeria - Sudan (EMBEDHD)
+#EXTINF:-1 tvg-chno="5" tvg-id="Live.Event.us" tvg-name="[Can2025] Algeria - Sudan (EMBEDHD)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Can2025] Algeria - Sudan (EMBEDHD)
 #EXTVLCOPT:http-referrer=https://vividmosaica.com/
 #EXTVLCOPT:http-origin=https://vividmosaica.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://d11.epicquesthero.com:999/hls/mevent2.m3u8?md5=xhAvRUpckLodcHNZ8oBKVQ&expires=1766617236
-#EXTINF:-1 tvg-chno="12" tvg-id="Live.Event.us" tvg-name="[Can2025] Cameroon - Gabon (EMBEDHD)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Can2025] Cameroon - Gabon (EMBEDHD)
+https://d15.epicquesthero.com:999/hls/mevent2.m3u8?md5=IwJ662EfBDhyjyXM4sBhYQ&expires=1766624437
+#EXTINF:-1 tvg-chno="6" tvg-id="Live.Event.us" tvg-name="[Can2025] Cameroon - Gabon (EMBEDHD)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Can2025] Cameroon - Gabon (EMBEDHD)
 #EXTVLCOPT:http-referrer=https://vividmosaica.com/
 #EXTVLCOPT:http-origin=https://vividmosaica.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://d15.epicquesthero.com:999/hls/mevent4.m3u8?md5=B47OdiKEcFSvMMJtKhCeyQ&expires=1766617248
-#EXTINF:-1 tvg-chno="13" tvg-id="Live.Event.us" tvg-name="[Can2025] Ivory Coast - Mozambique (EMBEDHD)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Can2025] Ivory Coast - Mozambique (EMBEDHD)
+https://d12.epicquesthero.com:999/hls/mevent4.m3u8?md5=wjeWvuTWOpB5tqN2JrPLdQ&expires=1766624442
+#EXTINF:-1 tvg-chno="7" tvg-id="Live.Event.us" tvg-name="[Can2025] Ivory Coast - Mozambique (EMBEDHD)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Can2025] Ivory Coast - Mozambique (EMBEDHD)
 #EXTVLCOPT:http-referrer=https://vividmosaica.com/
 #EXTVLCOPT:http-origin=https://vividmosaica.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://d12.epicquesthero.com:999/hls/mevent3.m3u8?md5=HWIzoGSgPTJNfjzq-xZYQQ&expires=1766617246
-#EXTINF:-1 tvg-chno="14" tvg-id="Live.Event.us" tvg-name="[Egypt Cup] Arab Contractors vs El Gaish (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Egypt Cup] Arab Contractors vs El Gaish (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://a.bysaosap.shop/hls/geeeQ.m3u8
-#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Cameroon vs Gabon (STRMD)" tvg-logo="https://streami.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEHTsIRqGkhemkAYOIUuy0ZgskFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp" group-title="Live Events",[Football] Cameroon vs Gabon (STRMD)
+https://d11.epicquesthero.com:999/hls/mevent3.m3u8?md5=BTGAakD7bZOgN7gOI07TQQ&expires=1766624441
+#EXTINF:-1 tvg-chno="8" tvg-id="Live.Event.us" tvg-name="[Fight (UFC/Boxing)] AEW: Wednesday Night Dynamite (STRMD)" tvg-logo="https://streamed.st/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOTTkCEGCBLBhJEChBYBA4PwlZgvCbymCxgwb3UhE9ab36iRKYKzDsuwAtjynCwJLgDGJjudoRFDW9finzst4QQA.webp" group-title="Live Events",[Fight (UFC/Boxing)] AEW: Wednesday Night Dynamite (STRMD)
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-origin=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://gg.poocloud.in/afcon/index.m3u8
-#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Cameroon vs. Gabon (PPV)" tvg-logo="https://api.ppv.to/assets/thumb/01ca93cb3ed86553f08c256726277319-thumbnail.jpg" group-title="Live Events",[Football] Cameroon vs. Gabon (PPV)
-#EXTVLCOPT:http-referrer=https://ppv.to
-#EXTVLCOPT:http-origin=https://ppv.to
+https://gg.poocloud.in/wrestling/index.m3u8
+#EXTINF:-1 tvg-chno="9" tvg-id="Live.Event.us" tvg-name="[Fight (UFC/Boxing)] Dynamite #325 Dynamite On 34th Street (STRMD)" tvg-logo="https://streamed.st/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmJQgxZEMGkheILCAMGSpkFauJm+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" group-title="Live Events",[Fight (UFC/Boxing)] Dynamite #325 Dynamite On 34th Street (STRMD)
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-origin=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://gg.poocloud.in/afcon/index.m3u8
-#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Gabon at Cameroon (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[Football] Gabon at Cameroon (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streamcenter.xyz
-#EXTVLCOPT:http-origin=https://streamcenter.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://mainstreams.pro/hls/2rB5nTKlP8mE.m3u8?st=-hO37gpPM0SnIhEgUqG7e92NVyqEvQb0rnaAZ5gS3Q8&e=1766617206
-#EXTINF:-1 tvg-chno="18" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] California vs Hawaii 1 (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] California vs Hawaii 1 (FAWA)
+https://lb5.strmd.top/secure/UKnomiHDilPKcCpeooJVIiDUMzDpXGHv/charlie/stream/dynamite-on-34th-street-1629472742/1/playlist.m3u8
+#EXTINF:-1 tvg-chno="10" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] California vs Hawaii 1 (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] California vs Hawaii 1 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://205.237.106.115/hls/AAAAAQQ.m3u8
-#EXTINF:-1 tvg-chno="19" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] California vs Hawaii 2 (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] California vs Hawaii 2 (FAWA)
+#EXTINF:-1 tvg-chno="11" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] California vs Hawaii 2 (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] California vs Hawaii 2 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://c.ddogezdqds.shop/hls/AAAAAQQ.m3u8
-#EXTINF:-1 tvg-chno="20" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAAF] California Golden Bears @ Hawaii Rainbow Warriors (TVPASS)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAAF] California Golden Bears @ Hawaii Rainbow Warriors (TVPASS)
+#EXTINF:-1 tvg-chno="12" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAAF] California Golden Bears @ Hawaii Rainbow Warriors (TVPASS)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAAF] California Golden Bears @ Hawaii Rainbow Warriors (TVPASS)
 #EXTVLCOPT:http-referrer=https://tvpass.org
 #EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/ESPN/mono.m3u8
-#EXTINF:-1 tvg-chno="21" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAAF] California Golden Bears vs Hawai'i Rainbow Warriors (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/football_california-golden-bears-vs-hawaii-rainbow-warriors_California_Golden_Bears_vs_Haw" group-title="Live Events",[NCAAF] California Golden Bears vs Hawai'i Rainbow Warriors (STRMFREE)
+#EXTINF:-1 tvg-chno="13" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAAF] California Golden Bears vs Hawai'i Rainbow Warriors (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/football_california-golden-bears-vs-hawaii-rainbow-warriors_California_Golden_Bears_vs_Haw" group-title="Live Events",[NCAAF] California Golden Bears vs Hawai'i Rainbow Warriors (STRMFREE)
 #EXTVLCOPT:http-referrer=https://streamfree.to/
 #EXTVLCOPT:http-origin=https://streamfree.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://stream.nvrmind.xyz/strmfree/california-golden-bears-vs-hawaii-rainbow-warriors/index.m3u8?stream_name=California+Golden+Bears+vs+Hawai%27i+Rainbow+Warriors
-#EXTINF:-1 tvg-chno="22" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAAF] Hawai'i Rainbow Warriors - California Golden Bears (EMBEDHD)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAAF] Hawai'i Rainbow Warriors - California Golden Bears (EMBEDHD)
+#EXTINF:-1 tvg-chno="14" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAAF] Hawai'i Rainbow Warriors - California Golden Bears (EMBEDHD)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAAF] Hawai'i Rainbow Warriors - California Golden Bears (EMBEDHD)
 #EXTVLCOPT:http-referrer=https://vividmosaica.com/
 #EXTVLCOPT:http-origin=https://vividmosaica.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://d14.epicquesthero.com:999/hls/nespnhd.m3u8?md5=vnafgazfiZM0woD9kHYq-A&expires=1766617249
-#EXTINF:-1 tvg-chno="23" tvg-id="Live.Event.us" tvg-name="[NFL American Football] Walter Payton NFL Man of the Year Special 1 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[NFL American Football] Walter Payton NFL Man of the Year Special 1 (FAWA)
+https://d15.epicquesthero.com:999/hls/nespnhd.m3u8?md5=uV3h9H9WLa6p9q0tGxkFcA&expires=1766624443
+#EXTINF:-1 tvg-chno="15" tvg-id="Live.Event.us" tvg-name="[NFL American Football] Walter Payton NFL Man of the Year Special 1 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[NFL American Football] Walter Payton NFL Man of the Year Special 1 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://205.237.106.115/hls/AAAAAQ.m3u8
-#EXTINF:-1 tvg-chno="24" tvg-id="Live.Event.us" tvg-name="[NFL American Football] Walter Payton NFL Man of the Year Special 2 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[NFL American Football] Walter Payton NFL Man of the Year Special 2 (FAWA)
+#EXTINF:-1 tvg-chno="16" tvg-id="Live.Event.us" tvg-name="[NFL American Football] Walter Payton NFL Man of the Year Special 2 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[NFL American Football] Walter Payton NFL Man of the Year Special 2 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://c.ddogezdqds.shop/hls/AAAAAQ.m3u8
-#EXTINF:-1 tvg-chno="25" tvg-id="Live.Event.us" tvg-name="[Turkey Cup] Samsunspor vs Eyupspor (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Turkey Cup] Samsunspor vs Eyupspor (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://a.bysaosap.shop/hls/geee.m3u8
 
 #EXTGRP:Nba Live - Homecourt
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt", Atlanta Hawks
@@ -987,8 +942,6 @@ https://601.shadow-ran.online/wwe2.m3u8
 https://601.shadow-ran.online/nhl5.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",Calgary Flames vs Edmonton Oilers
 https://601.shadow-ran.online/nhl11.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",Carabao Cup
-https://601.shadow-ran.online/arsenal.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",Dallas Stars vs Detroit Red Wings
 https://601.shadow-ran.online/nhl2.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",Florida Panthers vs Carolina Hurricanes
@@ -997,6 +950,10 @@ https://601.shadow-ran.online/nhl7.m3u8
 https://601.shadow-ran.online/nhl4.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",Nashville Predators vs Minnesota Wild
 https://601.shadow-ran.online/nhl8.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",NCAA (College Football)
+https://daffodil.shadow-ran.online/ncaa.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",NCAA (College Football)
+https://daffodil.shadow-ran.online/ncaa.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",New Jersey Devils vs New York Islanders
 https://601.shadow-ran.online/nhl6.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",New York Rangers vs Washington Capitals
@@ -1011,8 +968,6 @@ https://601.shadow-ran.online/nhl12.m3u8
 https://601.shadow-ran.online/nhl13.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",Utah Mammoth vs Colorado Avalanche
 https://601.shadow-ran.online/nhl10.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",WWE NXT
-https://601.shadow-ran.online/wwe2.m3u8
 
 #EXTGRP:Roxiestreams - NBA
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Brooklyn Nets vs Philadelphia 76ers
@@ -1045,21 +1000,11 @@ https://daffodil.shadow-ran.online/nba6.m3u8
 https://daffodil.shadow-ran.online/nba.m3u8
 
 #EXTGRP:Roxiestreams - NFL
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",Toledo vs. Louisville
-https://daffodil.shadow-ran.online/ncaa.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",UNLV vs. Ohio
-https://daffodil.shadow-ran.online/ncaa.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",WKU vs. Southern Miss
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",California v Hawaiâi
 https://daffodil.shadow-ran.online/ncaa.m3u8
 
 #EXTGRP:Roxiestreams - Soccer
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Arsenal vs Crystal Palace
 https://601.shadow-ran.online/arsenal.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Carabao Cup
-https://601.shadow-ran.online/arsenal.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",VitÃ³ria GuimarÃ£es vs Sporting CP
 https://daffodil.shadow-ran.online/napoli.m3u8
-
-#EXTGRP:Roxiestreams - WWE
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WWE2.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - WWE",WWE NXT
-https://601.shadow-ran.online/wwe2.m3u8
