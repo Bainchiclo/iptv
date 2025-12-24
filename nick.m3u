@@ -1,13 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt", Atlanta Hawks
-#EXTVLCOPT:http-origin=https://macky.xtremestream.xyz
-#EXTVLCOPT:http-referrer=https://macky.xtremestream.xyz/player/index.php?data=cc1be2756ee268969328208597b5bd90
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://macky.xtremestream.xyz/player/xs1.php?data=cc1be2756ee268969328208597b5bd90
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wgjPKFW/IMG-20241029-111906.png" group-title="Cable Tv [PH]", Tap Action Flix
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e3977c581333101a527776030e5d379:f726e9c49a640e932ec6a92685153772
+https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-01-prd-r-v2/dash-ch-01-prd-r-hd/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt", Atlanta Hawks
-#EXTVLCOPT:http-origin=macky.xtremestream.xyz
-#EXTVLCOPT:http-referrer=https://macky.xtremestream.xyz/player/index.php?data=cc1be2756ee268969328208597b5bd90
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://macky.xtremestream.xyz/player/xs1.php?data=cc1be2756ee268969328208597b5bd90
