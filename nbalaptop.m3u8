@@ -1946,58 +1946,6 @@ http://ppv.vhr.dpdns.org:8080/ppv/utahjazz/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 http://ppv.vhr.dpdns.org:8080/ppv/washingtonwizards/index.m3u8
 
-#EXTGRP:Nba Live - StreamsGate
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu1iwFhBT8ANLSreOSR73fAN4gNU1x2p0-LQ&s" group-title="Nba Live - StreamsGate", NBA 01
-#EXTVLCOPT:http-origin=https://arizonaplay.club
-#EXTVLCOPT:http-referrer=https://arizonaplay.club/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://azplay.live/hls/NBA1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu1iwFhBT8ANLSreOSR73fAN4gNU1x2p0-LQ&s" group-title="Nba Live - StreamsGate", NBA 02
-#EXTVLCOPT:http-origin=https://arizonaplay.club
-#EXTVLCOPT:http-referrer=https://arizonaplay.club/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://azplay.live/hls/NBA2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu1iwFhBT8ANLSreOSR73fAN4gNU1x2p0-LQ&s" group-title="Nba Live - StreamsGate", NBA 03
-#EXTVLCOPT:http-origin=https://arizonaplay.club
-#EXTVLCOPT:http-referrer=https://arizonaplay.club/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://azplay.live/hls/NBA3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu1iwFhBT8ANLSreOSR73fAN4gNU1x2p0-LQ&s" group-title="Nba Live - StreamsGate", NBA 04
-#EXTVLCOPT:http-origin=https://arizonaplay.club
-#EXTVLCOPT:http-referrer=https://arizonaplay.club/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://azplay.live/hls/NBA4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu1iwFhBT8ANLSreOSR73fAN4gNU1x2p0-LQ&s" group-title="Nba Live - StreamsGate", NBA 05
-#EXTVLCOPT:http-origin=https://arizonaplay.club
-#EXTVLCOPT:http-referrer=https://arizonaplay.club/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://azplay.live/hls/NBA5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu1iwFhBT8ANLSreOSR73fAN4gNU1x2p0-LQ&s" group-title="Nba Live - StreamsGate", NBA 06
-#EXTVLCOPT:http-origin=https://arizonaplay.club
-#EXTVLCOPT:http-referrer=https://arizonaplay.club/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://azplay.live/hls/NBA6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu1iwFhBT8ANLSreOSR73fAN4gNU1x2p0-LQ&s" group-title="Nba Live - StreamsGate", NBA 07
-#EXTVLCOPT:http-origin=https://arizonaplay.club
-#EXTVLCOPT:http-referrer=https://arizonaplay.club/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://azplay.live/hls/NBA7/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu1iwFhBT8ANLSreOSR73fAN4gNU1x2p0-LQ&s" group-title="Nba Live - StreamsGate", NBA 08
-#EXTVLCOPT:http-origin=https://arizonaplay.club
-#EXTVLCOPT:http-referrer=https://arizonaplay.club/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://azplay.live/hls/NBA8/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu1iwFhBT8ANLSreOSR73fAN4gNU1x2p0-LQ&s" group-title="Nba Live - StreamsGate", NBA 09
-#EXTVLCOPT:http-origin=https://arizonaplay.club
-#EXTVLCOPT:http-referrer=https://arizonaplay.club/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://azplay.live/hls/NBA9/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu1iwFhBT8ANLSreOSR73fAN4gNU1x2p0-LQ&s" group-title="Nba Live - StreamsGate", NBA 10
-#EXTVLCOPT:http-origin=https://arizonaplay.club
-#EXTVLCOPT:http-referrer=https://arizonaplay.club/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://azplay.live/hls/NBA10/index.m3u8
-
 #EXTGRP:Pixelsports - Live TV
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://pixelsport.tv/static/media/PixelSportLogo.1182b5f687c239810f6d.png" group-title="Pixelsports - Live TV",ESPN USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -2592,7 +2540,7 @@ https://daffodil.shadow-ran.online/nba5.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Milwaukee Bucks vs Chicago Bulls
 https://daffodil.shadow-ran.online/nba6.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",New York Knicks vs Atlanta Hawks
-https://daffodil.shadow-ran.online/nba4.m3u8
+https://601.shadow-ran.online/nba.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Phoenix Suns vs New Orleans Pelicans
 https://daffodil.shadow-ran.online/nba3.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Utah Jazz vs San Antonio Spurs
@@ -2606,9 +2554,7 @@ https://daffodil.alfirdaus.eu.org/nfl2.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",Georgia Tech vs. BYU
 https://601.shadow-ran.online/ncaa2.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",Houston Texans vs Los Angeles Chargers
-https://601.birosltceria.xyz/nfl.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",Houston Texans vs Los Angeles Chargers
-https://daffodil.birosltceria.xyz/nfl.m3u8
+https://daffodil.xn--1000-ugoxe8a5a7g4h.com/nfl.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",LSU vs. 21 Houston
 https://601.shadow-ran.online/ncaa.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",Miami (Ohio) vs. Fresno State
