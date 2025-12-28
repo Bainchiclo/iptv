@@ -6,6 +6,13 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 
+#EXTINF:-1 tvg-logo="" group-title="Cable Tv [Sports]", TSN 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable Tv [PH]", A2Z
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_a2z/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
