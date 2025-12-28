@@ -2172,28 +2172,12 @@ https://tvpass.org/live/NHL08/sd
 https://tvpass.org/live/NHL30/sd
 
 #EXTGRP:Roxiestreams
-#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",AEW Worlds End
-https://601.shadow-ran.online/aewalt.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",AEW Worlds End
-https://601.shadow-ran.online/aewalt.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",AEW Worlds End
-https://daffodil.shadow-ran.online/aew.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",AEW Worlds End
-https://daffodil.shadow-ran.online/aew.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",AEW Worlds End
-https://601.shadow-ran.online/aewalt.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",AEW Worlds End
-https://daffodil.shadow-ran.online/aew.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Anaheim Ducks vs Los Angeles Kings
 https://601.shadow-ran.online/nhl10.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Arsenal vs Brighton
 https://daffodil.shadow-ran.online/usa.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Baltimore Ravens vs Green Bay Packers
-https://601.alfirdaus.eu.org/nfl.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Baltimore Ravens vs Green Bay Packers
 https://601.biroslotutama.org/nfl.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Baltimore Ravens vs Green Bay Packers
-https://daffodil.alfirdaus.eu.org/nfl.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Baltimore Ravens vs Green Bay Packers
 https://daffodil.biroslotutama.org/nfl.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Boston Bruins vs Buffalo Sabres
@@ -2214,8 +2198,6 @@ https://601.shadow-ran.online/nhl9.m3u8
 https://daffodil.shadow-ran.online/nba7.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Colorado Avalanche vs Vegas Golden Knights
 https://601.shadow-ran.online/nhl13.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Dallas Mavericks vs Sacramento Kings
-https://601.shadow-ran.online/nba.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Denver Nuggets vs Orlando Magic
 https://daffodil.shadow-ran.online/nba2.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Detroit Red Wings vs Carolina Hurricanes
@@ -2226,18 +2208,6 @@ https://601.shadow-ran.online/nhl11.m3u8
 https://601.shadow-ran.online/ncaa2.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Hibernian vs Hearts
 https://daffodil.shadow-ran.online/main.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Houston Texans vs Los Angeles Chargers
-https://601.alfirdaus.eu.org/nfl.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Houston Texans vs Los Angeles Chargers
-https://601.biroslotutama.org/nfl.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Houston Texans vs Los Angeles Chargers
-https://601.xn--1000-ugoxe8a5a7g4h.com/nfl.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Houston Texans vs Los Angeles Chargers
-https://daffodil.alfirdaus.eu.org/nfl.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Houston Texans vs Los Angeles Chargers
-https://daffodil.biroslotutama.org/nfl.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Houston Texans vs Los Angeles Chargers
-https://daffodil.xn--1000-ugoxe8a5a7g4h.com/nfl.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Indiana Pacers vs Miami Heat
 https://daffodil.shadow-ran.online/nba5.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Liverpool vs Wolves
