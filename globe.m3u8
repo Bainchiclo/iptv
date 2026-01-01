@@ -151,6 +151,16 @@ https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561201/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d647aff767c453daa5fb54a44c783c6:2f971e6a1cc58e7085afc761a3f13162
 https://v4-kun-nk16-cdn-01.live.cdn.cgates.lt/live/dash/561901/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title=".PH [WebOS]", .NBA 4k
+http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/100673.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title=".PH [WebOS]", .NBA on ABC
+http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/102373.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title=".PH [WebOS]", .NBA on ESPN
+http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/102141.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title=".PH [WebOS]", .NBA on NBC
+http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/102142.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title=".PH [WebOS]", .NBA TV
+http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/102143.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title=".PH [WebOS]" tvg-logo="", .NHK World
 https://cdn4.skygo.mn/live/disk1/NHK_World/HLSv3-FTA/NHK_World.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_NHK_2025_03_17_15_34_22.png" group-title=".PH [WebOS]", .NHK World Japan
