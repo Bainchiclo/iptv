@@ -119,6 +119,8 @@ https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/in
 https://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" group-title=".PH [WebOS]" tvg-logo="", .Lotus
 https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title=".PH [WebOS]", .MSG
+http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/33474.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title=".PH [WebOS]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/1200px-MTV_Hits_2021.svg.png", .MTV HITS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3620,10 +3622,6 @@ https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyD5dNXkK9mPz725G69UiMUA/.
 https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyKzLV0Dro1QrdycEu_GABic/.m3u8
 
 #EXTGRP:Roxiestreams
-#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",AEW
-https://601.shadow-ran.online/wwe.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WWE2.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",AEW
-https://601.shadow-ran.online/wwe.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Alabama vs. Indiana
 https://601.shadow-ran.online/ncaa.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Alabama vs. Indiana
