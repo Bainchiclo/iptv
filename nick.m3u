@@ -1,9 +1,7 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-chno="3" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Boston Celtics vs. Sacramento Kings (PPV)" tvg-logo="https://api.ppv.to/assets/thumb/12833293dc837d35cfb31ecbb80a0cc3-thumbnail.jpg" group-title="Live Events",[Basketball] Boston Celtics vs. Sacramento Kings (PPV)
-#EXTVLCOPT:http-referrer==Https://wcc.cam
-#EXTVLCOPT:http-origin=Https://wcc.cam/edge
-#EXTVLCOPT:http-user-agent=Mozilla 5.0 /v.3.4 (Android 13; RMX3686)
-https://dtv.vingt.qzz.io/dtv/5665/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664041294.png" group-title="ช่องกีฬาต่างประทศ",ARENASPORT1
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/arenasport1.m3u8
 
 
