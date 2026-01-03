@@ -236,10 +236,6 @@ http://136.239.173.26:6610/001/2/ch00000090990000001106/manifest.mpd?AuthInfo=v8
 https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/9/94/Cinema_One_Logo_2020.png" group-title=".PH [WebOS]", Cinema One Converge
 http://136.158.97.2:6610/001/2/ch00000090990000001283/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br2cQyuTRlDkHeiqeVidUqqytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001548&contentid=ch00000000000000001548&videoid=ch00000090990000001283&recommendtype=0&userid=1041236685526&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=852NEU8T1ZOXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-1 tvg-id="" tvg-name="" group-title=".PH [WebOS]" tvg-logo="", Cinemax
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title=".PH [WebOS]", Cinemax Converge
 http://136.239.173.10:6610/001/2/ch00000090990000001108/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoD7Jkv0l3sE1jz6821dGRWytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001233&contentid=ch00000000000000001233&videoid=ch00000090990000001108&recommendtype=0&userid=1349825919509&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LAO494UQ9QXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 group-title=".PH [WebOS]" tvg-id="" tvg-logo="", Cinemo
@@ -303,6 +299,10 @@ http://136.239.158.30:6610/001/2/ch00000090990000001143/manifest.mpd?AuthInfo=Ta
 http://136.239.159.18:6610/001/2/ch00000090990000001143/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrwAtJC%2BsmBQ5ARU076BdkhytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001313&contentid=ch00000000000000001313&videoid=ch00000090990000001143&recommendtype=0&userid=1590268675436&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=AAIUZ2MAG7XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-logo="https://magmediaintl.com/images/logochannels/Hallypop%20Logo.png" group-title=".PH [WebOS]", Hallypop Converge
 http://136.239.173.26:6610/001/2/ch00000090990000001152/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrQQqEzMGzqacd7xs%2FVYEXbytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001373&contentid=ch00000000000000001373&videoid=ch00000090990000001152&recommendtype=0&userid=1181864451786&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9VC3RX5W7QLXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-id="" tvg-name="" group-title=".PH [WebOS]" tvg-logo="", HBO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title=".PH [WebOS]", HBO Converge
 http://136.239.158.10:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1362658369654&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UVJL5F87UVBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-id="" tvg-name="" group-title=".PH [WebOS]" tvg-logo="", HBO Family
@@ -1241,17 +1241,8 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.m
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
 #EXTINF:-1 tvg-id="STAR.MOVIES.HD.in" tvg-logo="https://i.imgur.com/MjHK3N0.png" group-title="Cable Tv [PH]", Star Movies HD
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:120
-#EXTVLCOPT:network-caching=10000000
-#EXTVLCOPT:http-reconnect=true
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5200000,RESOLUTION=1920x1080
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441217&extension=ts&play_token=BRpcwJlxdl
 #EXTINF:-1 tvg-id="STAR.MOVIES.SELECT.HD.in" tvg-logo="https://i.imgur.com/EBrUGJw.png" group-title="Cable Tv [PH]", Star Movies Select HD
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:120
-#EXTVLCOPT:network-caching=10000000
-#EXTVLCOPT:http-reconnect=true
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441215&extension=ts&play_token=I6IiF0CvFf
 #EXTINF:-1 tvg-id="" group-title="Cable Tv [PH]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png",Studio Universal
 #KODIPROP:inputstreamaddon=inputstream.adaptive
