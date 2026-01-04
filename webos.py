@@ -5,6 +5,7 @@ from datetime import datetime
 
 playlist_urls = [
     "https://raw.githubusercontent.com/Bainchiclo/nickiptv/refs/heads/main/nbaglobe.m3u",
+    "https://raw.githubusercontent.com/capdaseletni-sys/kbz/refs/heads/main/cdntv.m3u8",
     "https://raw.githubusercontent.com/capdaseletni-sys/kbz/refs/heads/main/globe.m3u8",
     "https://raw.githubusercontent.com/Bainchiclo/fststrm/refs/heads/main/roxstrmz.m3u8",
 ] 
