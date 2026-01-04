@@ -1692,6 +1692,10 @@ https://amg19223-amg19223c6-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OjNo+jhaBJaV/03jw2gJzQ", "kid":"/CPEQjVYVJkqJkkxoo/BxQ" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1 tvg-logo="https://volleyballmag.com/wp-content/uploads/2024/10/CBS-Sports-Network-logo.jpg" group-title="Cable Tv [Sports]",USA CBS Sport Network UHD
+http://supersonictv.live:8080/611366/682256/40395
+#EXTINF:-1 tvg-id="US: MSG" tvg-name="USA MSG" tvg-logo="http://msgnetworks.wpengine.netdna-cdn.com/wp-content/themes/msgn/images/msgn-logo.jpg" group-title="Cable Tv [Sports]",USA MSG
+http://supersonictv.live:8080/565354/367783/40404
 #EXTINF:-1 group-title="Cable Tv [Sports]" tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png",W-Sport
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
