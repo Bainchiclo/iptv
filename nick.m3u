@@ -23,3 +23,17 @@ https://gsattv.akamaized.net/live/media0/tv5/Widevine/tv5.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=24096a22a5b93f78825e02f4ce388a78:D062E1116A1C2D761E00000000000000 
 https://mc-jc2eowe80j.bunny.run/CvYyH4upYpgb/gsat/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Cable Tv [PH]", TEST 11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7bd4b06e776d31b39b8df166c110c23a:FD9BA44A9D66EE273C00000000000000 
+https://mc-jc2eowe80j.bunny.run/4neN29TzAqxC/gsat/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Cable Tv [PH]", TEST 12
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7bd4b06e776d31b39b8df166c110c23a:c5f5c3e516f345c403f5c94d6fc7dfc4 
+https://mc-jc2eowe80j.bunny.run/4neN29TzAqxC/gsat/manifest.mpd
