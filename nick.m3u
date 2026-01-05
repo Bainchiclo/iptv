@@ -21,5 +21,5 @@ https://gsattv.akamaized.net/live/media0/tv5/Widevine/tv5.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=24096a22a5b93f78825e02f4ce388a78:edef8ba979d64acea3c827dcd51d21e 
+#KODIPROP:inputstream.adaptive.license_key=24096a22a5b93f78825e02f4ce388a78:D062E1116A1C2D761E00000000000000 
 https://mc-jc2eowe80j.bunny.run/CvYyH4upYpgb/gsat/manifest.mpd
