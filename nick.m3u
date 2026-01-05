@@ -9,7 +9,7 @@ https://gsattv.akamaized.net/live/media0/tv5/Widevine/tv5.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Cable Tv [PH]" tvg-logo="https://i.imgur.com/b6JmGBq.png",TEST 4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gsattv.akamaized.net/live/widevine/?deviceId=02:00:00:00:00:00
+#KODIPROP:inputstream.adaptive.license_key=https://gsattv.akamaized.net/widevine/license
 https://gsattv.akamaized.net/live/media0/tv5/Widevine/tv5.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Cable Tv [PH]" tvg-logo="https://i.imgur.com/b6JmGBq.png",TEST 5
