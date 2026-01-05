@@ -17,9 +17,9 @@ https://gsattv.akamaized.net/live/media0/tv5/Widevine/tv5.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://gsattv.akamaized.net/live/widevine?deviceId=02:00:00:00:00:00
 https://gsattv.akamaized.net/live/media0/tv5/Widevine/tv5.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Cable Tv [PH]", TEST 6
+#EXTINF:-1 tvg-logo="" group-title="Cable Tv [PH]", TEST 9
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=24096a22a5b93f78825e02f4ce388a78:d2e3bf1d975bccabcc039686c4afa53e 
+#KODIPROP:inputstream.adaptive.license_key=24096a22a5b93f78825e02f4ce388a78:edef8ba979d64acea3c827dcd51d21e 
 https://mc-jc2eowe80j.bunny.run/CvYyH4upYpgb/gsat/manifest.mpd
