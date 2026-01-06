@@ -1,39 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="Cable Tv [PH]", TEST 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=02ba10f3c6a430229469a7c33554b1b5:bd17afb5dc9648a39be79ee3634dd4b8 
-https://gsattv.akamaized.net/live/media0/tv5/Widevine/tv5.mpd
-
-#EXTINF:-1 tvg-id="" group-title="Cable Tv [PH]" tvg-logo="https://i.imgur.com/b6JmGBq.png",TEST 4
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gsattv.akamaized.net/widevine/license
-https://gsattv.akamaized.net/live/media0/tv5/Widevine/tv5.mpd
-
-#EXTINF:-1 tvg-id="" group-title="Cable Tv [PH]" tvg-logo="https://i.imgur.com/b6JmGBq.png",TEST 5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gsattv.akamaized.net/live/widevine?deviceId=02:00:00:00:00:00
-https://gsattv.akamaized.net/live/media0/tv5/Widevine/tv5.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="Cable Tv [PH]", TEST 9
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=24096a22a5b93f78825e02f4ce388a78:D062E1116A1C2D761E00000000000000 
-https://mc-jc2eowe80j.bunny.run/CvYyH4upYpgb/gsat/manifest.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="Cable Tv [PH]", TEST 11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7bd4b06e776d31b39b8df166c110c23a:FD9BA44A9D66EE273C00000000000000 
-https://mc-jc2eowe80j.bunny.run/4neN29TzAqxC/gsat/manifest.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="Cable Tv [PH]", TEST 12
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7bd4b06e776d31b39b8df166c110c23a:c5f5c3e516f345c403f5c94d6fc7dfc4 
-https://mc-jc2eowe80j.bunny.run/4neN29TzAqxC/gsat/manifest.mpd
+#EXTINF:-1 tvg-chno="65" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Philadelphia 76ers vs Denver Nuggets 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Basketball] Philadelphia 76ers vs Denver Nuggets 2 (FAWA)
+#EXTVLCOPT:http-referrer=https://widevine.maruyatvph.qzz.io/
+#EXTVLCOPT:http-origin=https://widevine.maruyatvph.qzz.io
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://mtvsph.qzz.io/97/conv/manifest.mpd
