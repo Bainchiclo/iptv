@@ -7,15 +7,11 @@ playlist_urls = [
     "https://raw.githubusercontent.com/Bainchiclo/nickiptv/refs/heads/main/PH.m3u",
     "https://raw.githubusercontent.com/Bainchiclo/nickiptv/refs/heads/main/phfilter.m3u8",
     "https://raw.githubusercontent.com/Bainchiclo/nickiptv/refs/heads/main/NBA%20HOMECOURT.m3u",
-    "https://raw.githubusercontent.com/Bainchiclo/nickiptv/refs/heads/main/nbaglobe.m3u",
-    "https://raw.githubusercontent.com/capdaseletni-sys/kbz/refs/heads/main/globe.m3u8",
-    "https://raw.githubusercontent.com/Bainchiclo/fststrm/refs/heads/main/roxstrmz.m3u8",
     "https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/events.m3u8",
-    "https://raw.githubusercontent.com/Bainchiclo/fststrm/refs/heads/main/psports.m3u8"
 ] 
 
-EPG_URL = "https://github.com/Drewski2423/DrewLive/raw/refs/heads/main/DrewLive.xml.gz"
-OUTPUT_FILE = "11.m3u"
+EPG_URL = ""
+OUTPUT_FILE = "googletv.m3u8"
 
 def fetch_playlist(url, retries=3, timeout=30):
     headers = {"User-Agent": "Mozilla/5.0"}
