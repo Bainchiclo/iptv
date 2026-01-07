@@ -4,10 +4,10 @@ import time
 from datetime import datetime
 
 playlist_urls = [
-    "https://raw.githubusercontent.com/Bainchiclo/nickiptv/refs/heads/main/PH.m3u",
-    "https://raw.githubusercontent.com/capdaseletni-sys/kbz/refs/heads/main/globe.m3u8",
     "https://raw.githubusercontent.com/Bainchiclo/nickiptv/refs/heads/main/nbaglobe.m3u",
-    "https://raw.githubusercontent.com/Bainchiclo/nickiptv/refs/heads/main/tvpassplaylist.m3u8",
+    "https://raw.githubusercontent.com/capdaseletni-sys/kbz/refs/heads/main/cdntv.m3u8",
+    "https://raw.githubusercontent.com/capdaseletni-sys/kbz/refs/heads/main/baniknikoffline.m3u8",
+    "https://raw.githubusercontent.com/capdaseletni-sys/kbz/refs/heads/main/globe.m3u8"
 ]
 
 EPG_URL = "https://github.com/Drewski2423/DrewLive/raw/refs/heads/main/DrewLive.xml.gz"
