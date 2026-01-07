@@ -11,6 +11,7 @@ playlist_urls = [
     "https://raw.githubusercontent.com/capdaseletni-sys/kbz/refs/heads/main/globe.m3u8",
     "https://raw.githubusercontent.com/Bainchiclo/fststrm/refs/heads/main/roxstrmz.m3u8",
     "https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/events.m3u8",
+    "https://raw.githubusercontent.com/capdaseletni-sys/kbz/refs/heads/main/baniknikoffline.m3u8",
     "https://raw.githubusercontent.com/Bainchiclo/fststrm/refs/heads/main/psports.m3u8"
 ] 
 
