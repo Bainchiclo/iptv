@@ -31,12 +31,26 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscb
 http://136.239.158.18:6610/001/2/ch00000090990000001216/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoK2PIan60vhUUxnwtpVvgcytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001436&contentid=ch00000000000000001436&videoid=ch00000090990000001216&recommendtype=0&userid=1365005241451&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=4U9VQT70SCCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-id="NBA 10" tvg-name="NBA 10" tvg-logo="https://yt3.googleusercontent.com/4RMsaQKiNd5Fgbc90h2taWH_9U-v4ou89TapOb0gvqqRJDTsqnMfZjA6jLRqVFdT1ko7yOArzFA=s900-c-k-c0x00ffffff-no-rj" group-title=".PH [WebOS]",Ani-One
 https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title=".PH [WebOS]", Animal Planet
+https://live.catvod.com/live.php?id=AnimalPlanet
 #EXTINF:-1 tvg-id="NBA 10" tvg-name="NBA 10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJj494OpI0bKrTrvcHqEkzMYzqtfLNdWjQrg&s" group-title=".PH [WebOS]", Aniplus
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title=".PH [WebOS]", Ao HD
+http://live.catvod.com/live.php?id=Aodhd
 #EXTINF:-1 tvg-id="" tvg-name="" group-title=".PH [WebOS]" tvg-logo="", Arirang
 https://cdn4.skygo.mn/live/disk1/Arirang/HLSv3-FTA/Arirang.m3u8
 #EXTINF:-1 tvg-logo="http://115.146.176.131/images/14a646307c92e88856903295e6fa0d5c.png" group-title=".PH [WebOS]", Arirang ᶜᵒⁿᵛᵉʳᵍᵉ
 http://136.239.173.10:6610/001/2/ch00000090990000001107/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrA9GNo9at0BwcO0MP5gH5%2BytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001221&contentid=ch00000000000000001221&videoid=ch00000090990000001107&recommendtype=0&userid=1534530444027&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=XCJ3TV5LV9DXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title=".PH [WebOS]", Astro Arena
+http://live.catvod.com/live.php?id=Arena
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title=".PH [WebOS]", Astro Badminton
+https://live.catvod.com/live.php?id=go_badminton1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title=".PH [WebOS]", Astro Bein Sports 1
+https://live.catvod.com/live.php?id=Astrobein1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title=".PH [WebOS]", Astro Bein Sports 2
+https://live.catvod.com/live.php?id=Astrobein2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title=".PH [WebOS]", Astro Bein Sports 3
+https://live.catvod.com/live.php?id=Astrobein3
 #EXTINF:-1 tvg-id="" tvg-name="" group-title=".PH [WebOS]" tvg-logo="", AXN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -114,8 +128,14 @@ https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/in
 http://136.239.158.30:6610/001/2/ch00000090990000001254/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpP1%2FTBq4G4yW%2Bysf7XC2GUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001547&contentid=ch00000000000000001547&videoid=ch00000090990000001254&recommendtype=0&userid=1828619826254&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RW7BWNI1AISXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Cl_tv_36_ph.png/revision/latest?cb=20130823135759" group-title=".PH [WebOS]", CLTV 36 ᶜᵒⁿᵛᵉʳᵍᵉ
 http://136.239.159.20:6610/001/2/ch00000090990000001314/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp7Iya5QVRTA1RELFN4tQIJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001814&contentid=ch00000000000000001814&videoid=ch00000090990000001314&recommendtype=0&userid=1863730940752&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=689D0763BF7XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title=".PH [WebOS]", CNBC
+https://live.catvod.com/live.php?id=Cnbc
 #EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title=".PH [WebOS]", CNN International ᶜᵒⁿᵛᵉʳᵍᵉ
 http://136.239.159.20:6610/001/2/ch00000090990000001073/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrvgzXcrMUV80DAC2bRdJG9ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001113&contentid=ch00000000000000001113&videoid=ch00000090990000001073&recommendtype=0&userid=1018127260612&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=PPMBBFC1MGGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 group-title=".PH [WebOS]" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/CW_Forever_%282024%29_%28better_version%29.png/revision/latest/scale-to-width-down/250?cb=20250718132251", CW Forever
+https://d1sknsnbkyvie.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbcl5hxexbihh/playlist.m3u8
+#EXTINF:-1 group-title=".PH [WebOS]" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/CW_Gold_%28The_CW_Channels_feature_icon%29.jpg/revision/latest/scale-to-width-down/250?cb=20250802193103", CW Gold
+https://d1d726ny1vain2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-femoe55fvrdvc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2021/12/deutsche_welle-brandlogo.net_.png" group-title=".PH [WebOS]", DW News ᶜᵒⁿᵛᵉʳᵍᵉ
 http://136.239.158.10:6610/001/2/ch00000090990000001166/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoTcUYwq3PMi%2FTObKiSY6bDytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001377&contentid=ch00000000000000001377&videoid=ch00000090990000001166&recommendtype=0&userid=1209889128637&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=GFCSNPUV69DXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-logo="https://i.imgur.com/npj41pk.png" group-title=".PH [WebOS]", DZMM Teleradyo ᶜᵒⁿᵛᵉʳᵍᵉ
@@ -177,6 +197,14 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title=".PH [WebOS]", HBO ᶜᵒⁿᵛᵉʳᵍᵉ
 http://136.239.158.10:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1362658369654&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UVJL5F87UVBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title=".PH [WebOS]", HGTV
+https://live.catvod.com/live.php?id=HGTV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title=".PH [WebOS]", History
+https://live.catvod.com/live.php?id=History
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title=".PH [WebOS]", HITS
+https://live.catvod.com/live.php?id=Hits
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title=".PH [WebOS]", HITS Movie
+https://live.catvod.com/live.php?id=Hitsmovie
 #EXTINF:-1 tvg-id="HopeChannelPhilippines.ph@SD" group-title=".PH [WebOS]", Hope Channel Philippines
 https://jstre.am/live/jsl:7A1swL7Fhlh.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/IBC_13_Logo_2012.png/revision/latest?cb=20170830080345" group-title=".PH [WebOS]", IBC 13 ᶜᵒⁿᵛᵉʳᵍᵉ
@@ -209,6 +237,12 @@ https://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mpd
 http://136.239.159.20:6610/001/2/ch00000090990000001263/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqszdaNqmegxz2VkIuTd%2B31ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001583&contentid=ch00000000000000001583&videoid=ch00000090990000001263&recommendtype=0&userid=1319115127597&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=D4NMMH3RZQXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UIqEr2y.png" group-title=".PH [WebOS]", Knowledge Channel ᶜᵒⁿᵛᵉʳᵍᵉ
 http://136.239.158.10:6610/001/2/ch00000090990000001340/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpqUIe1xo9fgdQj%2FdedKSTyytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001832&contentid=ch00000000000000001832&videoid=ch00000090990000001340&recommendtype=0&userid=1586131651828&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=1RR87QJ6AY2XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1_800x200_white.png" group-title=".PH [WebOS]",LG 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10957
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1film_epg_white_2_0.png" group-title=".PH [WebOS]",LG 1 Film
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15465
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1spt_epg_white.png" group-title=".PH [WebOS]",LG 1 Spotlight
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13959
 #EXTINF:-1 tvg-id="" group-title=".PH [WebOS]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkvWEPQltk-Xq-ixCjPdOGxoqgIlMsc095A&s" ,Light TV ᶜᵒⁿᵛᵉʳᵍᵉ
 http://136.239.159.20:6610/001/2/ch00000090990000001103/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqkZ6SnNx3gh97OtxQ2ygibytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001179&contentid=ch00000000000000001179&videoid=ch00000090990000001103&recommendtype=0&userid=1847927235474&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FR3HWWBCXEEXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-20 tvg-logo="https://i.imgur.com/Wsj7iPd.png" group-title=".PH [WebOS]",Living Asia Channel ᶜᵒⁿᵛᵉʳᵍᵉ
@@ -223,6 +257,11 @@ http://136.158.97.2:6610/001/2/ch00000090990000001267/manifest.mpd?AuthInfo=v87H
 https://streams.comclark.com/overlay/mindanow/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqndReZ8wqIcJO39ZUlQnjeayPJ-11_bVnow&s" group-title=".PH [WebOS]", Mindanow Network ᶜᵒⁿᵛᵉʳᵍᵉ
 http://136.239.173.26:6610/001/2/ch00000090990000001123/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrWYLxykQwHejqAgxTqFbr7ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001237&contentid=ch00000000000000001237&videoid=ch00000090990000001123&recommendtype=0&userid=1545743380024&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=7NAS0TOF95HXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-id="272" tvg-chno="320" tvg-name="mma-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/lvwqlf.png" group-title=".PH [WebOS]", MMA TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://streams2.sofast.tv/ptnr-yupptv/title-MMA_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/72581a39-9590-4c64-998e-b61fcf2d0294/playlist.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" group-title=".PH [WebOS]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/1200px-MTV_Hits_2021.svg.png", MTV HITS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -273,6 +312,8 @@ http://136.239.173.3:6610/001/2/ch00000090990000001145/manifest.mpd?AuthInfo=v87
 https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 tvg-id="617.astro" tvg-name="" tvg-logo="https://i.imgur.com/4MozyqM.png" group-title=".PH [WebOS]", Nick Jr ᶜᵒⁿᵛᵉʳᵍᵉ
 http://161.49.17.2:6610/001/2/ch00000090990000001215/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BroUjrgwleoSk5QhQ%2F3YakaytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001463&contentid=ch00000000000000001463&videoid=ch00000090990000001215&recommendtype=0&userid=1934700137806&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=YE9AO4IOJFRXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title=".PH [WebOS]", ONE
+https://live.catvod.com/live.php?id=One
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/5/5a/One_Sports_%28TV_channel%29_3D_Logo_2020.png/revision/latest?cb=20230520142737" group-title=".PH [WebOS]", One Sports ᶜᵒⁿᵛᵉʳᵍᵉ
 http://136.239.158.18:6610/001/2/ch00000090990000001083/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpiZhzOAmsfItUIS2UHXxD0ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001173&contentid=ch00000000000000001173&videoid=ch00000090990000001083&recommendtype=0&userid=1797679327850&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RCAJM4IFILAXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-id="" group-title=".PH [WebOS]" tvg-logo="https://jioswm.org/assets/ministries/onh-730979c3f694e6ba49c8fc43562e04e72f002697bf08e5c8854f3b71aac56676.png",Oras Ng Himala ᶜᵒⁿᵛᵉʳᵍᵉ
@@ -301,6 +342,10 @@ https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560307/index.mpd
 http://136.239.173.26:6610/001/2/ch00000090990000001086/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BogpxrMDVv1bZ%2FeMkgHZmwQytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001175&contentid=ch00000000000000001175&videoid=ch00000090990000001086&recommendtype=0&userid=1252187837705&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=I0ZZE3KB7BIXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Un5_BaTlKCiwEIH0RM1Kf2uuEWs7tC7rRQ&s" group-title=".PH [WebOS]", Radio Maria ᶜᵒⁿᵛᵉʳᵍᵉ
 http://136.239.173.26:6610/001/2/ch00000090990000001327/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoMJQgjeNgI0lKcIWq2Qc67ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001815&contentid=ch00000000000000001815&videoid=ch00000090990000001327&recommendtype=0&userid=1715152829702&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=4UH5RFC56HXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF: -1  tvg-name="Rasi Hollywood" group-title=".PH [WebOS]" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240408_0942518224615220455317164.png",Rasi Hollywood
+https://rasinetworks.in/live/rasihollywoodhd/index.mpd
+#EXTINF: -1  tvg-name="Rasi Movies" group-title=".PH [WebOS]" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1518425091386983341611136.png",Rasi Movies
+https://rasinetworks.in/live/rasimovieshd/index.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Red%20Bull.png" group-title=".PH [WebOS]", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Screenshot_2019-08-30_at_5.25.09_PM.png" group-title=".PH [WebOS]", RJTV 29 ᶜᵒⁿᵛᵉʳᵍᵉ
@@ -337,6 +382,10 @@ http://136.239.159.18:6610/001/2/ch00000090990000001243/manifest.mpd?AuthInfo=v8
 http://136.239.173.26:6610/001/2/ch00000090990000001081/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpTfGIKxFqRM2tu30PzY%2FKkytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001087&contentid=ch00000000000000001087&videoid=ch00000090990000001081&recommendtype=0&userid=1572318406990&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=O0NP6KUE17KXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-id="Spot" group-title=".PH [WebOS]" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/3/32/Spotlight.png",Spotlight TV ᶜᵒⁿᵛᵉʳᵍᵉ
 http://136.239.158.30:6610/001/2/ch00000090990000001134/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo5iGQ4tDytzSdpM9ehJW6pytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001281&contentid=ch00000000000000001281&videoid=ch00000090990000001134&recommendtype=0&userid=1790262524603&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=MG695A5LWR8XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title=".PH [WebOS]", Spotv
+https://live.catvod.com/live.php?id=go_spotv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title=".PH [WebOS]", Spotv2
+https://live.catvod.com/live.php?id=go_spotv2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgjPKFW/IMG-20241029-111906.png" group-title=".PH [WebOS]", Tap Action Flix ᶜᵒⁿᵛᵉʳᵍᵉ
 http://136.239.173.26:6610/001/2/ch00000090990000001305/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpahcUJJEYAxPtEef94INw1ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001775&contentid=ch00000000000000001775&videoid=ch00000090990000001305&recommendtype=0&userid=1826997527749&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=BJ80X0UU6VXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3YvDUjL.png" group-title=".PH [WebOS]", Tap Edge ᶜᵒⁿᵛᵉʳᵍᵉ
