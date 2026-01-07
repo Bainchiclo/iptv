@@ -1,7 +1,9 @@
 #EXTM3U
 
-
-
+#EXTINF:-1 tvg-id="300" tvg-name="iQIYI" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="Cable TV [Mix]" ,IQIYI HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6fa00345e574458a649b1efa84f3bdd:44e8bc91a80ad1f77eff784413dc58ac
+https://ucdn.starhubgo.com/bpk-tv/AFN/output/manifest.mpd?begin=sUTCBegin
 
 #EXTINF:-1 tvg-id="300" tvg-name="iQIYI" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="Cable TV [Mix]" ,IQIYI HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
