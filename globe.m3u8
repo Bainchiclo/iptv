@@ -609,20 +609,3 @@ http://origin.thetvapp.to/hls/TNTEast/mono.m3u8
 #EXTVLCOPT:http-origin=https://cdn-live.tv/api/v1/channels/player/?name=nhl+league+pass+4&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://cdn-live-tv.ru/api/v1/channels/us-nhl-league-pass-4/index.m3u8?token=452ab7a2e1b5b4c11aa0e11d4a1fce0eecb96449b4e87477832a88601283a524.1767839463.6e184bf7e4ed8ecf40b677323b6d912e.5413a1c1ab50093c046bd7caeba22bb9.48084cbf5d9d17f8018cc55f1c013e7d.1a662d9cdc61180c
-
-#EXTGRP:Nba Live - Homecourt [WebOS]
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt [WebOS]", Golden State Warriors
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-http://ppv.vhr.dpdns.org:8080/ppv/goldenstatewarriors/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt [WebOS]", Portland Trail Blazers
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-http://ppv.vhr.dpdns.org:8080/ppv/portlandtrailblazers/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt [WebOS]", San Antonio Spurs
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-http://ppv.vhr.dpdns.org:8080/ppv/sanantoniospurs/index.m3u8
