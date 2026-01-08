@@ -4,7 +4,7 @@ import time
 from datetime import datetime
 
 playlist_urls = [
-    "https://raw.githubusercontent.com/Bainchiclo/nickiptv/refs/heads/main/nbaglobe.m3u",
+    "https://raw.githubusercontent.com/Bainchiclo/nickiptv/refs/heads/main/nbalivefilter.m3u8",
     "https://raw.githubusercontent.com/capdaseletni-sys/kbz/refs/heads/main/cdntv.m3u8",
     "https://raw.githubusercontent.com/capdaseletni-sys/kbz/refs/heads/main/baniknikoffline.m3u8",
     "https://raw.githubusercontent.com/capdaseletni-sys/kbz/refs/heads/main/globe.m3u8"
