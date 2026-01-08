@@ -7,7 +7,7 @@ playlist_urls = [
     "https://raw.githubusercontent.com/Bainchiclo/nickiptv/refs/heads/main/PH.m3u",
     "https://raw.githubusercontent.com/Bainchiclo/nickiptv/refs/heads/main/phfilter.m3u8",
     "https://raw.githubusercontent.com/Bainchiclo/nickiptv/refs/heads/main/nbalivefiltergoogle.m3u8",
-    "https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/events.m3u8",
+    "https://raw.githubusercontent.com/Bainchiclo/nickiptv/refs/heads/main/liveeventsfilter.m3u8",
 ] 
 
 EPG_URL = ""
