@@ -2354,6 +2354,11 @@ https://gg.poocloud.in/bostonceltics/index.m3u8
 #EXTVLCOPT:http-referrer=https://playembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/brooklynnets/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt", Memphis Grizzlies
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/memphisgrizzlies/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt", Orlando Magic
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
@@ -2376,6 +2381,11 @@ https://gg.poocloud.in/washingtonwizards/index.m3u8
 #EXTVLCOPT:http-referrer=https://playembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 http://ppv.vhr.dpdns.org:8080/ppv/bostonceltics/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt [WebOS]", Brooklyn Nets
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+http://ppv.vhr.dpdns.org:8080/ppv/brooklynnets/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt [WebOS]", Orlando Magic
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
@@ -2856,7 +2866,7 @@ https://daffodil.shadow-ran.online/nba3.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",New York Knicks vs Phoenix Suns
 https://daffodil.shadow-ran.online/nba7.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Oklahoma City Thunder vs Memphis Grizzlies
-https://daffodil.shadow-ran.online/nba5.m3u8
+https://601.shadow-ran.online/nba5.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Philadelphia 76ers vs Orlando Magic
 https://daffodil.shadow-ran.online/nba2.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Sacramento Kings vs Golden State Warriors
@@ -2866,18 +2876,14 @@ https://601.shadow-ran.online/nhl3.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Tijuana vs AmÃ©rica
 https://daffodil.shadow-ran.online/tudn.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Toronto Raptors vs Boston Celtics
+https://601.shadow-ran.online/nbaalt.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Toronto Raptors vs Boston Celtics
 https://daffodil.shadow-ran.online/nba.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Washington Capitals vs Chicago Blackhawks
 https://601.shadow-ran.online/nhl.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",WWE Smackdown
-https://601.shadow-ran.online/wwe.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",WWE Smackdown
 https://601.shadow-ran.online/wwe2.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",WWE Smackdowsn
-https://601.shadow-ran.online/wwe.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",WWE Smackdowsn
 https://601.shadow-ran.online/wwe2.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WWE2.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",WWE Smackdowsn
-https://601.shadow-ran.online/wwe.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WWE2.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",WWE Smackdowsn
 https://601.shadow-ran.online/wwe2.m3u8
