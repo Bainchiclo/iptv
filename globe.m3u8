@@ -1,8 +1,6 @@
 #EXTM3U url-tvg="https://github.com/Drewski2423/DrewLive/raw/refs/heads/main/DrewLive.xml.gz"
 
 #EXTGRP:.PH [WebOS]
-#EXTINF:-1 tvg-id="NBA 10" tvg-name="NBA 10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc9F_ME-A3fvVS5AFn8EJrhDHkZ8aItOZKyg&s" group-title=".PH [WebOS]", 3rsSINEPINOY
-https://live20.bozztv.com/giatvplayout7/giatv-210267/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NBA 10" tvg-name="NBA 10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5EAXW-54_lVL1rrgg51KMlKWQGxDPaNyvpA&s" group-title=".PH [WebOS]", 3rsTV
 https://live20.bozztv.com/giatvplayout7/giatv-210631/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest?cb=20231101144828" group-title=".PH [WebOS]", A2Z ᶜᵒⁿᵛᵉʳᵍᵉ
@@ -661,6 +659,11 @@ https://daffodil.shadow-ran.online/golazo.m3u8
 https://daffodil.shadow-ran.online/fsp.m3u8
 
 #EXTGRP:Nba Live - Homecourt [WebOS]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt [WebOS]", Detroit Pistons
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+http://ppv.vhr.dpdns.org:8080/ppv/detroitpistons/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt [WebOS]", Indiana Pacers
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
