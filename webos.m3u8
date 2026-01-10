@@ -685,3 +685,10 @@ https://daffodil.shadow-ran.online/tudn.m3u8
 #EXTVLCOPT:http-origin=https://cdn-live.tv/api/v1/channels/player/?name=cosmote+sport+2&code=gr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://cdn-live-tv.ru/api/v1/channels/gr-cosmote-sport-2/index.m3u8?token=2849956e1c6e17f904619d0798023eb28c46fd1339f9a82a275229883abe12f1.1768057287.d34ca26152f90722696817840cb5b148.4687e9e1e1d83fe110b9dedd26f99484.1316cb9a4c8f0b68443a810a2c0b0a49.66a94fdd4c8aa343
+
+#EXTGRP:Nba Live - Homecourt [WebOS]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt [WebOS]", Cleveland Cavaliers
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+http://ppv.vhr.dpdns.org:8080/ppv/clevelandcavaliers/index.m3u8
