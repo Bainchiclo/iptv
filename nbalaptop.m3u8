@@ -2074,6 +2074,13 @@ http://205.237.106.134/hls/TTTTQ.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/indianapacers/index.m3u8
 
+#EXTGRP:Nba Live - Homecourt [WebOS]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt [WebOS]", Indiana Pacers
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+http://ppv.vhr.dpdns.org:8080/ppv/indianapacers/index.m3u8
+
 #EXTGRP:Pixelsports - Live TV
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://pixelsport.tv/static/media/PixelSportLogo.1182b5f687c239810f6d.png" group-title="Pixelsports - Live TV",ESPN USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
