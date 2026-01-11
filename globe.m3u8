@@ -609,10 +609,3 @@ http://origin.thetvapp.to/hls/NHL31/mono.m3u8
 #EXTVLCOPT:http-origin=https://cdn-live.tv/api/v1/channels/player/?name=nhl+league+pass+15&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://cdn-live-tv.ru/api/v1/channels/us-nhl-league-pass-15/index.m3u8?token=a5f3047f4f87d0232787022cc809e60f27ab557c67d9803430126bfb11474493.1768098676.01cb6d8cf0b5dea5d2befbca4bbc605c.3a47342f4d49330d2c08e0cca89ad322.0cfc09063f91e6d99952d3f639502855.9abbe7ceec208300
-
-#EXTGRP:Nba Live - Homecourt [WebOS]
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt [WebOS]", Utah Jazz
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-http://ppv.vhr.dpdns.org:8080/ppv/utahjazz/index.m3u8
