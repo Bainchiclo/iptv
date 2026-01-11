@@ -2113,7 +2113,7 @@ https://e.evrert.shop/hls/nrrrrz.m3u8
 https://d10.merichunidya.com:1686/hls/do1.m3u8?md5=ZocpRUrdSKObzQUzWYOwhQ&expires=1768147268
 
 #EXTGRP:Other
-#EXTINF:-1 group-title=""Cable TV [Mix]" tvg-id="" tvg-logo="", Myx
+#EXTINF:-1 group-title=""Cable TV [Mix]" tvg-id="" tvg-logo="", Home Network Canada
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
