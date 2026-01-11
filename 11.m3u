@@ -252,11 +252,6 @@ http://136.158.97.2:6610/001/2/ch00000090990000001267/manifest.mpd?AuthInfo=v87H
 https://streams.comclark.com/overlay/mindanow/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqndReZ8wqIcJO39ZUlQnjeayPJ-11_bVnow&s" group-title=".PH [WebOS]", Mindanow Network ᶜᵒⁿᵛᵉʳᵍᵉ
 http://136.239.173.26:6610/001/2/ch00000090990000001123/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrWYLxykQwHejqAgxTqFbr7ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001237&contentid=ch00000000000000001237&videoid=ch00000090990000001123&recommendtype=0&userid=1545743380024&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=7NAS0TOF95HXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-1 tvg-id="272" tvg-chno="320" tvg-name="mma-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/lvwqlf.png" group-title=".PH [WebOS]", MMA TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/ptnr-yupptv/title-MMA_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/72581a39-9590-4c64-998e-b61fcf2d0294/playlist.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" group-title=".PH [WebOS]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/1200px-MTV_Hits_2021.svg.png", MTV HITS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2201,11 +2196,6 @@ https://hotnewsnation.com/nbaa3.php
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://red5.boostaether.shop/playlist/43045/load-playlist
-#EXTINF:-1 tvg-chno="99" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Hornets vs Jazz (STRMHUB)" tvg-logo="https://streamhub.pro/uploads/categories/1763886289_nba-logo-on-transparent-background-free-vector.jpg" group-title="Live Events",[NBA] Hornets vs Jazz (STRMHUB)
-#EXTVLCOPT:http-referrer=https://storytrench.net/
-#EXTVLCOPT:http-origin=https://storytrench.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://broadcasthub.click/hls/rxMy7qPUIdCe/index.m3u8?st=En7zjrbyScPjlFHilW8g-Q&e=1768109457
 #EXTINF:-1 tvg-chno="102" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Indiana Pacers vs Miami Heat (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Indiana Pacers vs Miami Heat (iSTRMEAST)
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -2261,11 +2251,6 @@ http://origin.thetvapp.to/hls/tsn1/mono.m3u8
 #EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/NHL24/mono.m3u8
-#EXTINF:-1 tvg-chno="183" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Blues vs Golden Knights (STRMHUB)" tvg-logo="https://streamhub.pro/uploads/categories/1763886319_nhl.jpg" group-title="Live Events",[NHL] Blues vs Golden Knights (STRMHUB)
-#EXTVLCOPT:http-referrer=https://storytrench.net/
-#EXTVLCOPT:http-origin=https://storytrench.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://broadcasthub.click/hls/4rofn7PY3cMJ/index.m3u8?st=HeXddIEQQQmckypGHJh6Lg&e=1768111287
 #EXTINF:-1 tvg-chno="184" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Blues vs Knights (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Blues vs Knights (WEBCAST)
 #EXTVLCOPT:http-referrer=https://slapstreams.com
 #EXTVLCOPT:http-origin=https://slapstreams.com
