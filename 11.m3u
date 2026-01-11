@@ -2277,11 +2277,6 @@ https://broadcasthub.click/hls/3ad5SgDOlJ1v/index.m3u8?st=gU2Ad-f6E1DeeaMtnGpCBA
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://mainstreams.pro/hls/uyopzarf50.m3u8?st=z9IvtlKMNHf0Hf6RCflkalsKyaPDL2Boq_1xckunxEk&e=1768168866
-#EXTINF:-1 tvg-chno="58" tvg-id="Soccer.Dummy.us" tvg-name="[Italy Serie A] Inter Milan vs Napoli (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="Live Events",[Italy Serie A] Inter Milan vs Napoli (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://e.evrert.shop/hls/KIKIKIKIKI.m3u8
 #EXTINF:-1 tvg-chno="59" tvg-id="Soccer.Dummy.us" tvg-name="[Italy Serie A] Inter Milan vs Napoli 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="Live Events",[Italy Serie A] Inter Milan vs Napoli 1 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -2637,21 +2632,11 @@ https://red4.voyagerover.shop/playlist/43079/load-playlist
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://205.237.106.134/hls/NVVVV.m3u8
-#EXTINF:-1 tvg-chno="183" tvg-id="Live.Event.us" tvg-name="[NFL American Football] Jacksonville Jaguars vs Buffalo Bills 2 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[NFL American Football] Jacksonville Jaguars vs Buffalo Bills 2 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://e.evrert.shop/hls/NVVVV.m3u8
 #EXTINF:-1 tvg-chno="184" tvg-id="Live.Event.us" tvg-name="[NFL American Football] Philadelphia Eagles vs San Francisco 49ers 1 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[NFL American Football] Philadelphia Eagles vs San Francisco 49ers 1 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://205.237.106.134/hls/NVVVV.m3u8
-#EXTINF:-1 tvg-chno="185" tvg-id="Live.Event.us" tvg-name="[NFL American Football] Philadelphia Eagles vs San Francisco 49ers 2 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[NFL American Football] Philadelphia Eagles vs San Francisco 49ers 2 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://e.evrert.shop/hls/NVVVV.m3u8
 #EXTINF:-1 tvg-chno="186" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Bills vs Jaguars (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Bills vs Jaguars (WEBCAST)
 #EXTVLCOPT:http-referrer=https://nflwebcast.com
 #EXTVLCOPT:http-origin=https://nflwebcast.com
@@ -2847,6 +2832,11 @@ https://d14.epicquesthero.com:999/hls/do1.m3u8?md5=9UyTJAm6TG58iTRPKv4Cjg&expire
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://205.237.106.36/hls/VKKKX.m3u8
+#EXTINF:-1 tvg-chno="269" tvg-id="Live.Event.us" tvg-name="[Spanish Super Cup] FC Barcelona vs Real Madrid 1 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Spanish Super Cup] FC Barcelona vs Real Madrid 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://b.erjtkuy.shop/hls/VKKK.m3u8
 #EXTINF:-1 tvg-chno="270" tvg-id="Live.Event.us" tvg-name="[Spanish Super Cup] FC Barcelona vs Real Madrid 2 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Spanish Super Cup] FC Barcelona vs Real Madrid 2 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -3235,12 +3225,12 @@ https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyEujIrmtc1erAQWQOm6bZmM/.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
 #EXTVLCOPT:http-icy-metadata=1
-https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyMNa4yObHcsFwlkz9-SCJnc/.m3u8
+https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyJOZGU4kFSLxXQ4K_lKdDZQ/.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png" group-title="Pixelsports",Buffalo Bills at Jacksonville Jaguars
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
 #EXTVLCOPT:http-icy-metadata=1
-https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyMNa4yObHcsFwlkz9-SCJnc/.m3u8
+https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyJOZGU4kFSLxXQ4K_lKdDZQ/.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png" group-title="Pixelsports",Chicago White Sox at Chicago Cubs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
@@ -3555,65 +3545,19 @@ https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyKJx-sl9c9AeCSEDcD790lU/.
 #EXTGRP:Roxiestreams
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Aberdeen vs Rangers
 https://daffodil.shadow-ran.online/main.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Atlanta Hawks vs Golden State Warriors
-https://601.shadow-ran.online/nba9.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",AtlÃ©tico San Luis vs Tigres UANL
 https://601.shadow-ran.online/tudn.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Bayern MÃ¼nchen vs Wolfsburg
-https://daffodil.shadow-ran.online/one.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Brooklyn Nets vs Memphis Grizzlies
 https://daffodil.biroslotads2.com/nba2.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Columbus Blue Jackets vs Utah Mammoth
-https://601.shadow-ran.online/nhl4.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Fiorentina vs Milan
-https://daffodil.shadow-ran.online/golazo.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams",Formula E - Grand Prix
-https://601.shadow-ran.online/f1.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Houston Rockets vs Sacramento Kings
-https://601.shadow-ran.online/nba10.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Houston Rockets vs Sacramento Kings
-https://601.shadow-ran.online/nba5.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Inter Milan vs Napoli
 https://daffodil.shadow-ran.online/tnt2.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Manchester United vs Brighton
-https://601.shadow-ran.online/arsenal.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Manchester United vs Brighton
-https://601.shadow-ran.online/tnt.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Manchester United vs Brighton
-https://daffodil.shadow-ran.online/tnt2.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",MATIAS vs SMITH
-https://601.shadow-ran.online/ppv.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Miami Heat vs Oklahoma City Thunder
 https://601.shadow-ran.online/nba6.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Milwaukee Bucks vs Denver Nuggets
-https://601.shadow-ran.online/nba7.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",New Jersey Devils vs Winnipeg Jets
 https://601.shadow-ran.online/nhl.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",New Orleans Pelicans vs Orlando Magic
 https://cc.tuttobici.org/nba.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",New York Knicks vs Portland Trail Blazers
-https://601.shadow-ran.online/nba4.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",New York Knicks vs Portland Trail Blazers
-https://601.shadow-ran.online/nba4alt.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Philadelphia 76ers vs Toronto Raptors
-https://daffodil.shadow-ran.online/nba3.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Pittsburgh Penguins vs Boston Bruins
-https://601.shadow-ran.online/nhl2.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Portsmouth vs Arsenal
-https://601.shadow-ran.online/arsenal.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Portsmouth vs Arsenal
-https://601.shadow-ran.online/tnt.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",San Antonio Spurs vs Minnesota Timberwolves
 https://601.shadow-ran.online/nba5.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Vegas Golden Knights vs San Jose Sharks
-https://601.shadow-ran.online/nhl5.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Verona vs Lazio
 https://daffodil.shadow-ran.online/golazo.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Washington Capitals vs Nashville Predators
-https://601.shadow-ran.online/nhl3.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Washington Wizards vs Phoenix Suns
-https://601.shadow-ran.online/nbaalt.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Washington Wizards vs Phoenix Suns
-https://daffodil.shadow-ran.online/nba8.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",West Ham United vs Queens Park Ragers
-https://601.shadow-ran.online/tnt5.m3u8
