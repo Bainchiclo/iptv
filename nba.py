@@ -4,8 +4,6 @@ import time
 from datetime import datetime
 
 playlist_urls = [
-    "https://raw.githubusercontent.com/Bainchiclo/nickiptv/refs/heads/main/nbalivefiltergoogle.m3u8",
-    "https://raw.githubusercontent.com/Bainchiclo/nickiptv/refs/heads/main/nbalivefilter.m3u8",
     "https://raw.githubusercontent.com/Bainchiclo/nickiptv/refs/heads/main/Pixelsports.m3u8",
     "https://raw.githubusercontent.com/Bainchiclo/nickiptv/refs/heads/main/Roxiestreams.m3u8",
     "https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/events.m3u8"
