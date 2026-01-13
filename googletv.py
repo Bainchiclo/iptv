@@ -6,7 +6,8 @@ from datetime import datetime
 playlist_urls = [
     "https://raw.githubusercontent.com/Bainchiclo/nickiptv/refs/heads/main/PH.m3u",
     "https://raw.githubusercontent.com/Bainchiclo/nickiptv/refs/heads/main/phfilter.m3u8",
-    "https://raw.githubusercontent.com/Bainchiclo/nickiptv/refs/heads/main/liveeventsfilter.m3u8",
+    "https://raw.githubusercontent.com/capdaseletni-sys/kbz/refs/heads/main/tcl.m3u8",
+    "https://raw.githubusercontent.com/Bainchiclo/nickiptv/refs/heads/main/liveeventsfilter.m3u8"
 ] 
 
 EPG_URL = ""
