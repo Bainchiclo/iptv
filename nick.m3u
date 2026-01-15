@@ -1,7 +1,3 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="14" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Houston Rockets vs. Sacramento Kings (PPV)" tvg-logo="https://api.ppv.to/assets/thumb/b844eadf9acfa31b1a882cf133cb45bc-thumbnail.jpg" group-title="Live Events",[Basketball] Houston Rockets vs. Sacramento Kings (PPV)
-#EXTVLCOPT:http-referrer=https://modistreams.org
-#EXTVLCOPT:http-origin=https://modistreams.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://strm.poocloud.in/secure/wZXZUgluAdATTvvboqjymIoUBvUtBGzX/denvernuggets/index.m3u8
+https://dropmb.com/api/shares/lmOA/files/810657f2-0233-40e2-8dfa-2c761e3563da
