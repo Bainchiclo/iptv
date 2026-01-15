@@ -37,6 +37,10 @@ https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-a
 https://cdn4.skygo.mn/live/disk1/Arirang/HLSv3-FTA/Arirang.m3u8
 #EXTINF:-1 tvg-logo="http://115.146.176.131/images/14a646307c92e88856903295e6fa0d5c.png" group-title=".PH [WebOS]", Arirang ᶜᵒⁿᵛᵉʳᵍᵉ
 http://136.239.173.10:6610/001/2/ch00000090990000001107/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrA9GNo9at0BwcO0MP5gH5%2BytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001221&contentid=ch00000000000000001221&videoid=ch00000090990000001107&recommendtype=0&userid=1534530444027&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=XCJ3TV5LV9DXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-id="" tvg-name="" group-title=".PH [WebOS]" tvg-logo="", AXN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" group-title=".PH [WebOS]" tvg-logo="", BBC Earth
 https://cdn4.skygo.mn/live/disk1/BBC_earth/HLSv3-FTA/BBC_earth.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title=".PH [WebOS]" tvg-logo="", BBC Lifestyle
@@ -192,14 +196,14 @@ http://136.239.158.30:6610/001/2/ch00000090990000001143/manifest.mpd?AuthInfo=Ta
 http://136.239.159.18:6610/001/2/ch00000090990000001143/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrwAtJC%2BsmBQ5ARU076BdkhytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001313&contentid=ch00000000000000001313&videoid=ch00000090990000001143&recommendtype=0&userid=1590268675436&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=AAIUZ2MAG7XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-logo="https://magmediaintl.com/images/logochannels/Hallypop%20Logo.png" group-title=".PH [WebOS]", Hallypop ᶜᵒⁿᵛᵉʳᵍᵉ
 http://136.239.173.26:6610/001/2/ch00000090990000001152/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrQQqEzMGzqacd7xs%2FVYEXbytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001373&contentid=ch00000000000000001373&videoid=ch00000090990000001152&recommendtype=0&userid=1181864451786&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9VC3RX5W7QLXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-id="" tvg-name="" group-title=".PH [WebOS]" tvg-logo="", HBO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" group-title=".PH [WebOS]" tvg-logo="", HBO Family
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" group-title=".PH [WebOS]" tvg-logo="", HBO Hits
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" group-title=".PH [WebOS]" tvg-logo="", HBO Signature
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -511,57 +515,57 @@ https://jmp2.uk/stvp-USBB2300004KV
 https://amg17931-zee-amg17931c9-samsung-ph-6528.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeesine-samsungph/playlist.m3u8
 
 #EXTGRP:Live Events
-#EXTINF:-1 tvg-chno="40" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Brooklyn Nets @ New Orleans Pelicans (TVPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Brooklyn Nets @ New Orleans Pelicans (TVPASS)
+#EXTINF:-1 tvg-chno="51" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Brooklyn Nets @ New Orleans Pelicans (TVPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Brooklyn Nets @ New Orleans Pelicans (TVPASS)
 #EXTVLCOPT:http-referrer=https://tvpass.org
 #EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/NBA05/mono.m3u8
-#EXTINF:-1 tvg-chno="43" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Cleveland Cavaliers @ Philadelphia 76ers (TVPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Cleveland Cavaliers @ Philadelphia 76ers (TVPASS)
+#EXTINF:-1 tvg-chno="54" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Cleveland Cavaliers @ Philadelphia 76ers (TVPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Cleveland Cavaliers @ Philadelphia 76ers (TVPASS)
 #EXTVLCOPT:http-referrer=https://tvpass.org
 #EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/ESPN/mono.m3u8
-#EXTINF:-1 tvg-chno="47" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Denver Nuggets @ Dallas Mavericks (TVPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Denver Nuggets @ Dallas Mavericks (TVPASS)
+#EXTINF:-1 tvg-chno="58" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Denver Nuggets @ Dallas Mavericks (TVPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Denver Nuggets @ Dallas Mavericks (TVPASS)
 #EXTVLCOPT:http-referrer=https://tvpass.org
 #EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/ESPN/mono.m3u8
-#EXTINF:-1 tvg-chno="54" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] New York Knicks @ Sacramento Kings (TVPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] New York Knicks @ Sacramento Kings (TVPASS)
+#EXTINF:-1 tvg-chno="65" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] New York Knicks @ Sacramento Kings (TVPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] New York Knicks @ Sacramento Kings (TVPASS)
 #EXTVLCOPT:http-referrer=https://tvpass.org
 #EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/NBA06/mono.m3u8
-#EXTINF:-1 tvg-chno="61" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Toronto Raptors @ Indiana Pacers (TVPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Toronto Raptors @ Indiana Pacers (TVPASS)
+#EXTINF:-1 tvg-chno="72" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Toronto Raptors @ Indiana Pacers (TVPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Toronto Raptors @ Indiana Pacers (TVPASS)
 #EXTVLCOPT:http-referrer=https://tvpass.org
 #EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/NBA01/mono.m3u8
-#EXTINF:-1 tvg-chno="62" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Utah Jazz @ Chicago Bulls (TVPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Utah Jazz @ Chicago Bulls (TVPASS)
+#EXTINF:-1 tvg-chno="73" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Utah Jazz @ Chicago Bulls (TVPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Utah Jazz @ Chicago Bulls (TVPASS)
 #EXTVLCOPT:http-referrer=https://tvpass.org
 #EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/NBA02/mono.m3u8
-#EXTINF:-1 tvg-chno="63" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Washington Wizards @ Los Angeles Clippers (TVPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Washington Wizards @ Los Angeles Clippers (TVPASS)
+#EXTINF:-1 tvg-chno="74" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Washington Wizards @ Los Angeles Clippers (TVPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Washington Wizards @ Los Angeles Clippers (TVPASS)
 #EXTVLCOPT:http-referrer=https://tvpass.org
 #EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/NBA07/mono.m3u8
-#EXTINF:-1 tvg-chno="65" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Ottawa Senators @ New York Rangers (TVPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Ottawa Senators @ New York Rangers (TVPASS)
+#EXTINF:-1 tvg-chno="76" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Ottawa Senators @ New York Rangers (TVPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Ottawa Senators @ New York Rangers (TVPASS)
 #EXTVLCOPT:http-referrer=https://tvpass.org
 #EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/NHL18/mono.m3u8
-#EXTINF:-1 tvg-chno="66" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Philadelphia Flyers @ Buffalo Sabres (TVPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Philadelphia Flyers @ Buffalo Sabres (TVPASS)
+#EXTINF:-1 tvg-chno="77" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Philadelphia Flyers @ Buffalo Sabres (TVPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Philadelphia Flyers @ Buffalo Sabres (TVPASS)
 #EXTVLCOPT:http-referrer=https://tvpass.org
 #EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/TNTEast/mono.m3u8
-#EXTINF:-1 tvg-chno="69" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Seattle Kraken @ New Jersey Devils (TVPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Seattle Kraken @ New Jersey Devils (TVPASS)
+#EXTINF:-1 tvg-chno="80" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Seattle Kraken @ New Jersey Devils (TVPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Seattle Kraken @ New Jersey Devils (TVPASS)
 #EXTVLCOPT:http-referrer=https://tvpass.org
 #EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/NHL16/mono.m3u8
-#EXTINF:-1 tvg-chno="71" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Vegas Golden Knights @ Los Angeles Kings (TVPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Vegas Golden Knights @ Los Angeles Kings (TVPASS)
+#EXTINF:-1 tvg-chno="82" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Vegas Golden Knights @ Los Angeles Kings (TVPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Vegas Golden Knights @ Los Angeles Kings (TVPASS)
 #EXTVLCOPT:http-referrer=https://tvpass.org
 #EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
@@ -950,8 +954,6 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814562/hls/master.m3u8?includeAsse
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814566/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814566a&ads.xumo_streamId=88814566&declaredCC1Language=en&ads.caid=NBCNewsWashingtonDC&ads.csid=tcl2_us_nbcnwas_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=3830&ads.xumo_contentName=NBCNewsWashingtonDC&ads.xumo_providerId=3830&ads.xumo_providerName=NBCNewsWashingtonDC&ads.xumo_channelName=NBCNewsWashingtonDC&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
 #EXTINF:-1 group-title="TCL+",NBC Sports NOW
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814624/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814624&ads.xumo_streamId=88814624&declaredCC1Language=en&ads.caid=NBCUSports&ads.csid=tcl2_us_nbcusports_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Sport&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-pg&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=3929&ads.xumo_contentName=NBCUSports&ads.xumo_providerId=3929&ads.xumo_providerName=NBCUSports&ads.xumo_channelName=NBCUSports&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
-#EXTINF:-1 group-title="TCL+",NBCLX
-https://d3f4oii5n0oeqi.cloudfront.net/11701/88814576/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814576&ads.xumo_streamId=88814576&declaredCC1Language=en&ads.caid=NBCLX&ads.csid=tcl2_us_nbclx_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=News&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=2632&ads.xumo_contentName=NBCLX&ads.xumo_providerId=2632&ads.xumo_providerName=NBCLX&ads.xumo_channelName=NBCLX&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
 #EXTINF:-1 group-title="TCL+",NESN Nation
 https://d57b72a7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX05FU05OYXRpb25fSExT/playlist.m3u8?ads.wurl_channel=1952&ads.wurl_name=NESNNation&ads.coppa=0&ads.device_id=%7BDEVICE_ID%7D&ads.dnt=%7BDNT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.gdpr=%7BGDPR%7D&ads.consent=%7BCONSENT%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.ifa_type=%7BIFA_TYPE%7D&ads.custom=%7BCUSTOM%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D&ads.givn=%7BGIVN%7D&ads.u_paln=%7BU_PALN%7D
 #EXTINF:-1 group-title="TCL+",NEW KFOOD
