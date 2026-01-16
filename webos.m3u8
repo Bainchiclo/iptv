@@ -681,6 +681,8 @@ https://cdn-live-tv.ru/api/v1/channels/us-nhl-league-pass-10/index.m3u8?token=24
 http://origin.thetvapp.to/hls/NHL01/mono.m3u8
 
 #EXTGRP:Roxiestreams
+#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Anaheim Ducks vs Los Angeles Kings
+https://602.shadow-ran.online/nhl5.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Atlanta Hawks vs Portland Trail Blazers
 https://daffodil.shadow-ran.online/nba4.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Atlanta Hawks vs Portland Trail Blazers
@@ -699,12 +701,16 @@ https://daffodil.shadow-ran.online/cbssn.m3u8
 https://daffodil.shadow-ran.online/tnt.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Dallas Stars vs Utah Mammoth
 https://602.shadow-ran.online/nhl8.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Florida Panthers vs Carolina Hurricanes
+https://602.shadow-ran.online/nhl2.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Memphis Grizzlies vs Orlando Magic
 https://daffodil.shadow-ran.online/nba.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Milwaukee Bucks vs San Antonio Spurs
 https://daffodil.shadow-ran.online/nba5.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Montreal Canadiens vs Buffalo Sabres
 https://602.shadow-ran.online/nhl.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Nashville Predators vs Colorado Avalanche
+https://602.shadow-ran.online/nhl4.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",New York Islanders vs Edmonton Oilers
 https://602.shadow-ran.online/nhl9.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",New York Knicks vs Golden State Warriors
@@ -719,12 +725,18 @@ https://daffodil.shadow-ran.online/colo.m3u8
 https://602.shadow-ran.online/nhl2.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Phoenix Suns vs Detroit Pistons
 https://daffodil.shadow-ran.online/nba2.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",San Jose Sharks vs Detroit Red Wings
+https://602.shadow-ran.online/nhl.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",San Jose Sharks vs Washington Capitals
 https://602.shadow-ran.online/nhl3.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Seattle Kraken vs Boston Bruins
 https://602.shadow-ran.online/nhl5.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Tampa Bay Lightning vs St. Louis Blues
+https://602.shadow-ran.online/nhl3.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Toronto Maple Leafs vs Vegas Golden Knights
 https://602.shadow-ran.online/nhl10.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",TSZYU vs ZERAFA
+https://602.shadow-ran.online/ppv.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Utah Jazz vs Dallas Mavericks
 https://daffodil.shadow-ran.online/nba6.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Vancouver Canucks vs Columbus Blue Jackets
