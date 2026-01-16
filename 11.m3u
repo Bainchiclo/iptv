@@ -136,8 +136,6 @@ http://136.239.159.20:6610/001/2/ch00000090990000001249/manifest.mpd?AuthInfo=v8
 http://136.239.173.2:6610/001/2/ch00000090990000001174/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BorTFLlVQhyuanlrUuZnA07ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001322&contentid=ch00000000000000001322&videoid=ch00000090990000001174&recommendtype=0&userid=1099121878948&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0UTJW5Z23XIXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-logo="https://ewsat.com/img/EDGE_SPORT.png" group-title=".PH [WebOS]", Edge Sports ᶜᵒⁿᵛᵉʳᵍᵉ
 http://136.239.158.18:6610/001/2/ch00000090990000001406/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrD3MimqPOP6OVIBIcXmXdDytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001926&contentid=ch00000000000000001926&videoid=ch00000090990000001406&recommendtype=0&userid=1198953858973&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=KQCW8SZJ4IXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-1 tvg-id="NBA TV" tvg-logo="" group-title=".PH [WebOS]", ESPN U
-https://fl31.moveonjoy.com:443/ESPN_U/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://iili.io/JhksR99.png" group-title=".PH [WebOS]",Euronews English
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8
 #EXTINF:-1 tvg-id="" group-title=".PH [WebOS]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq8NjV5sqkKOgSpV7-Nj5Dd0KHMVhrtW6ukg&s",EWTN ᶜᵒⁿᵛᵉʳᵍᵉ
@@ -2237,11 +2235,6 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6857fe540a1018060a43
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://205.237.104.56/hls/kikikikiQQQQQQ.m3u8
-#EXTINF:-1 tvg-chno="4" tvg-id="Live.Event.us" tvg-name="[Australia A-League] Melbourne City W vs Newcastle W (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Australia A-League] Melbourne City W vs Newcastle W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://205.237.106.36/hls/GAGAGAQQQQ.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-id="Live.Event.us" tvg-name="[Australia A-League] Western Sydney Wanderers W vs Brisbane Roar W (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Australia A-League] Western Sydney Wanderers W vs Brisbane Roar W (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -2317,16 +2310,6 @@ https://instreams.live/US/NHL9/index.m3u8?st=YM2_JhPEma6DsBG9dO89ew&e=1768539668
 #EXTVLCOPT:http-origin=https://streamingon.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://instreams.live/US/NHL10/index.m3u8?st=DKmEKDtH_lKed-New9DAtw&e=1768543272
-#EXTINF:-1 tvg-chno="61" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Los Angeles Lakers vs Charlotte Hornets 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Basketball] Los Angeles Lakers vs Charlotte Hornets 1 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://205.237.104.56/hls/FGFGFGQ.m3u8
-#EXTINF:-1 tvg-chno="65" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Portland Trail Blazers vs Atlanta Hawks 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Basketball] Portland Trail Blazers vs Atlanta Hawks 1 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://205.237.104.56/hls/FGFGFG.m3u8
 #EXTINF:-1 tvg-chno="74" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Atlanta Hawks vs Portland Trail Blazers (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Atlanta Hawks vs Portland Trail Blazers (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.live
 #EXTVLCOPT:http-origin=https://roxiestreams.live
@@ -2352,11 +2335,6 @@ https://se.doditecnonika.sbs/status/n6/fronts.woff2?47f95d
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://pfl5.galaxaignite.space/playlist/43342/load-playlist
-#EXTINF:-1 tvg-chno="94" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Detroit Pistons vs Phoenix Suns (TOTALSPRTK)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Detroit Pistons vs Phoenix Suns (TOTALSPRTK)
-#EXTVLCOPT:http-referrer=https://otheremotions.com/good/?id=n2
-#EXTVLCOPT:http-origin=https://otheremotions.com/good/?id=n2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://ca.petsasangood.sbs/status/n2/fronts.woff2?a8c650
 #EXTINF:-1 tvg-chno="100" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Golden State Warriors vs New York Knicks (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Golden State Warriors vs New York Knicks (iSTRMEAST)
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
